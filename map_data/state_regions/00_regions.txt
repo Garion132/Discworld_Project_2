@@ -54,7 +54,7 @@ STATE_Huthasue = {
 		bg_whaling = 3
 		
     }
-    
+    naval_exit_id = 991
 }
 STATE_Lathocou = {
     id = 4
@@ -259,12 +259,12 @@ STATE_Otrind = {
 STATE_Strocust = {
     id = 15
     subsistence_building = "building_subsistence_pastures"
-    provinces = { "x1A1201" "x1C2901"  }
-    city = "x1A1201"
+    provinces = { "x1C2901" "x918401" }
+    city = "x1C2901"
     port = "x1C2901"
     farm = "x1C2901"
-    mine = "x1C2901"
-    wood = "x1C2901"
+    mine = "x918401"
+    wood = "x918401"
     arable_land = 6
     arable_resources = { "bg_coffee_plantations" "bg_cotton_plantations" "bg_dye_plantations" "bg_livestock_ranches" "bg_maize_farms" "bg_millet_farms" "bg_opium_plantations" "bg_rice_farms" "bg_silk_plantations" "bg_sugar_plantations" "bg_tea_plantations" "bg_tobacco_plantations" "bg_vineyard_plantations" "bg_wheat_farms"  }
     capped_resources = {
@@ -274,7 +274,7 @@ STATE_Strocust = {
 		bg_logging = 22
 		
     }
-    
+    naval_exit_id = 1138
 }
 STATE_Swemothing = {
     id = 16
@@ -1386,7 +1386,7 @@ STATE_Quirm = {
 		bg_fishing = 5
 		bg_iron_mining = 1	
     }
-    
+    naval_exit_id = 991
 }
 STATE_Quachtung = {
     id = 71
@@ -1844,7 +1844,7 @@ STATE_Tuic = {
 		bg_whaling = 7
 		
     }
-    
+    naval_exit_id = 1138
 }
 STATE_Shehust = {
     id = 94
@@ -2098,7 +2098,7 @@ STATE_Pseudopolis = {
 		bg_logging = 38
 		
     }
-    
+    naval_exit_id = 991
 }
 STATE_Jaeropp = {
     id = 107
@@ -2120,7 +2120,7 @@ STATE_Jaeropp = {
 		bg_whaling = 4
 		
     }
-    
+    naval_exit_id = 1138
 }
 STATE_Shirtang = {
     id = 108
@@ -4449,7 +4449,7 @@ STATE_Beenend = {
 		bg_whaling = 4
 		
     }
-    
+    naval_exit_id = 991
 }
 STATE_Irdashu = {
     id = 227
@@ -4688,7 +4688,7 @@ STATE_Ankh = {
     farm = "x6F3A01"
     mine = "x6F3A01"
     wood = "x6F3A01"
-    arable_land = 37
+    arable_land = 117
     arable_resources = { "bg_cotton_plantations" "bg_dye_plantations" "bg_livestock_ranches" "bg_vineyard_plantations" "bg_wheat_farms"  }
     capped_resources = {
         bg_coal_mining = 1
@@ -4697,7 +4697,7 @@ STATE_Ankh = {
 		bg_sulfur_mining = 3
 		
     }
-    
+    naval_exit_id = 1138
 }
 STATE_Oluque = {
     id = 240
@@ -5301,7 +5301,7 @@ STATE_Anzeland = {
         bg_logging = 19
 		
     }
-    
+    naval_exit_id = 1138
 }
 STATE_Stoojsteis = {
     id = 271
@@ -5763,7 +5763,7 @@ STATE_Bashua = {
 		bg_logging = 27
 		
     }
-    
+    naval_exit_id = 1138
 }
 STATE_Muosuy = {
     id = 295
@@ -5903,7 +5903,7 @@ STATE_Aporbo = {
 		bg_whaling = 2
 		
     }
-    
+    naval_exit_id = 1138
 }
 STATE_Eltilt = {
     id = 302
@@ -6301,7 +6301,7 @@ STATE_Risrua = {
 		bg_whaling = 4
 		
     }
-    
+    naval_exit_id = 991
 }
 STATE_Taag = {
     id = 323
@@ -6591,7 +6591,7 @@ STATE_Chirm = {
 		bg_logging = 4
 		
     }
-    
+    naval_exit_id = 1138
 }
 STATE_Staef = {
     id = 338
@@ -7344,8 +7344,8 @@ STATE_Hoaquaard = {
 STATE_Staeg = {
     id = 376
     subsistence_building = "building_subsistence_pastures"
-    provinces = { "x918401" "xBD8401"  }
-    city = "x918401"
+    provinces = { "xBD8401" "x1A1201"  }
+    city = "xBD8401"
     port = "xBD8401"
     farm = "xBD8401"
     mine = "xBD8401"
@@ -8504,7 +8504,7 @@ STATE_Nashio = {
 		bg_whaling = 5
 		
     }
-    
+    naval_exit_id = 1138
 }
 STATE_Shonath = {
     id = 436
@@ -9469,7 +9469,7 @@ STATE_Frukustong = {
 		bg_whaling = 2
 		
     }
-    
+    naval_exit_id = 1138
 }
 STATE_Stian = {
     id = 486
@@ -11595,7 +11595,7 @@ STATE_Egucce = {
 		bg_whaling = 1
 		
     }
-    
+    naval_exit_id = 1138
 }
 STATE_Caihay = {
     id = 606
@@ -11613,7 +11613,7 @@ STATE_Caihay = {
 		bg_whaling = 1
 		
     }
-    
+    naval_exit_id = 1138
 }
 STATE_Staom = {
     id = 607
@@ -11700,7 +11700,7 @@ STATE_Otrapp = {
     capped_resources = {
         
     }
-    
+    naval_exit_id = 1138
 }
 STATE_Daosreupp = {
     id = 612
@@ -19158,4 +19158,8 @@ STATE_Dothonoi = {
 STATE_Hubwie = {
     id = 1137
     provinces = { "x2F4BFF"  }
+}
+STATE_Circle_Sea = {
+    id = 1138
+    provinces = { "x91C8FF"  }
 }

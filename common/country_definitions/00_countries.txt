@@ -200,7 +200,7 @@ IST = {
 	cultures = { istanzian }
 	capital = STATE_Aporbo
 }
-OMA = {
+OMN = {
 	color = { 24 198 198 }
 
 	country_type = recognized
@@ -209,4 +209,64 @@ OMA = {
 	
 	cultures = { omnian }
 	capital = STATE_Strocust
+}
+TSO = {
+	color = { 229 170 122 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { tsortian }
+	capital = STATE_Anzeland
+}
+DJE = {
+	color = { 255 216 0 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { djelibeybian }
+	capital = STATE_Bashua
+}
+EPH = {
+	color = { 83 190 193 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { ephebian }
+	capital = STATE_Tuic
+}
+UR0 = {
+	color = { 128 0 96  }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ur }
+	capital = STATE_Nurrii
+}
+SIR = {
+	color = { 165 77 76 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { sirritian }
+	capital = STATE_Otorri
+}
+BRK = {
+	color = { 74 178 174 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { betrek }
+	capital = STATE_Otorri
 }

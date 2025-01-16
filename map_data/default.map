@@ -2,7 +2,7 @@ provinces = "provinces.png"
 topology = "heightmap.heightmap"
 rivers = "rivers.png"
 adjacencies = "adjacencies.csv"
-wrap_x = yes
+wrap_x = no
 
 sea_starts = {
 	x87BEFF xA3AAFF xDD2BFF x6262FF x2180FF 
@@ -37,6 +37,7 @@ sea_starts = {
 	xA1E2FF x2A25FF x1296FF x8ADCFF x36D1FF 
 	xC005FF x8925FF x1175FF x76EAFF xE438FF 
 	xA882FF x379EFF xCAD0FF x4FEEFF x2F4BFF 
+	x91C8FF
 	
 }
 lakes = {

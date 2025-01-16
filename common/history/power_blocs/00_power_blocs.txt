@@ -23,7 +23,6 @@
 			member = c:STR #
 			member = c:BCG #
 			member = c:SHR #
-			member = c:ZEM #
 			member = c:SKN #
 			member = c:FRW #
 		}

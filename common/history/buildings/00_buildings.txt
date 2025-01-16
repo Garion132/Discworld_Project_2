@@ -418,7 +418,7 @@
 		}
 	}
 	s:STATE_Huthasue={
-		region_state:STR={
+		region_state:KLA={
 			create_building={
 				building="building_banana_plantation"
 				level=1
@@ -1552,8 +1552,18 @@
 		}
 	}
 	s:STATE_Tuic={
-		region_state:STR={
-
+		region_state:EPH={
+			create_building={
+				building="building_port"
+				add_ownership={
+					country={
+						country="c:EPH"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
 		}
 	}
 	s:STATE_Shehust={
@@ -3123,8 +3133,18 @@
 		}
 	}
 	s:STATE_Anzeland={
-		region_state:STR={
-
+		region_state:TSO={
+			create_building={
+				building="building_port"
+				add_ownership={
+					country={
+						country="c:TSO"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
 		}
 	}
 	s:STATE_Stoojsteis={
@@ -3351,8 +3371,18 @@
 		}
 	}
 	s:STATE_Bashua={
-		region_state:STR={
-
+		region_state:DJE={
+			create_building={
+				building="building_port"
+				add_ownership={
+					country={
+						country="c:DJE"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
 		}
 	}
 	s:STATE_Muosuy={
@@ -3392,8 +3422,18 @@
 		}
 	}
 	s:STATE_Aporbo={
-		region_state:STR={
-
+		region_state:IST={
+			create_building={
+				building="building_port"
+				add_ownership={
+					country={
+						country="c:IST"
+						levels=2
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
 		}
 	}
 	s:STATE_Eltilt={
@@ -3503,8 +3543,18 @@
 		}
 	}
 	s:STATE_Risrua={
-		region_state:STR={
-
+		region_state:KLA={
+			create_building={
+				building="building_port"
+				add_ownership={
+					country={
+						country="c:KLA"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
 		}
 	}
 	s:STATE_Taag={
@@ -4667,8 +4717,18 @@
 		}
 	}
 	s:STATE_Frukustong={
-		region_state:STR={
-
+		region_state:KLA={
+			create_building={
+				building="building_port"
+				add_ownership={
+					country={
+						country="c:KLA"
+						levels=4
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_basic_port" }
+			}
 		}
 	}
 	s:STATE_Stian={

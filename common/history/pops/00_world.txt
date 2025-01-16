@@ -3,7 +3,7 @@
 		region_state:AMP = {
 			create_pop = {
 				culture = morporkian
-				size = 950000
+				size = 1840000
 			}
 			create_pop = {
 				culture = dwarf
@@ -15,7 +15,7 @@
 		region_state:QRM = {
 			create_pop = {
 				culture = quirmian
-				size = 160000
+				size = 660000
 			}
 
 		}
@@ -24,7 +24,7 @@
 		region_state:PSE = {
 			create_pop = {
 				culture = pseudopolian
-				size = 240000
+				size = 740000
 			}
 
 		}
@@ -181,7 +181,7 @@
 		}
 	}
 	s:STATE_Strocust = {
-		region_state: = {
+		region_state:OMN = {
 			create_pop = {
 				culture = omnian
 				size = 998000
@@ -301,10 +301,10 @@
 		}
 	}
 	s:STATE_Swostreland = {
-		region_state: = {
+		region_state:SIR = {
 			create_pop = {
-				culture = nastihai
-				size = 0
+				culture = sirritian
+				size = 38741
 			}
 
 		}
@@ -788,10 +788,10 @@
 		}
 	}
 	s:STATE_Thour = {
-		region_state: = {
+		region_state:TSO = {
 			create_pop = {
-				culture = joibung
-				size = 0
+				culture = tsortian
+				size = 243974
 			}
 
 		}
@@ -917,10 +917,10 @@
 		}
 	}
 	s:STATE_Tuic = {
-		region_state: = {
+		region_state:EPH = {
 			create_pop = {
-				culture = seurdaond
-				size = 0
+				culture = ephebian
+				size = 453000
 			}
 
 		}
@@ -935,10 +935,10 @@
 		}
 	}
 	s:STATE_Theic = {
-		region_state: = {
+		region_state:ZEM = {
 			create_pop = {
-				culture = kuisaq
-				size = 0
+				culture = sto_plainer
+				size = 10900
 			}
 
 		}
@@ -1231,10 +1231,10 @@
 		}
 	}
 	s:STATE_Thied = {
-		region_state: = {
+		region_state:SIR = {
 			create_pop = {
-				culture = nastihai
-				size = 0
+				culture = sirritian
+				size = 120137
 			}
 
 		}
@@ -1672,10 +1672,10 @@
 		}
 	}
 	s:STATE_Cairruupp = {
-		region_state: = {
+		region_state:SIR = {
 			create_pop = {
-				culture = joibung
-				size = 0
+				culture = sirritian
+				size = 135741
 			}
 
 		}
@@ -1933,10 +1933,10 @@
 		}
 	}
 	s:STATE_Stritath = {
-		region_state: = {
+		region_state:EPH = {
 			create_pop = {
-				culture = nastihai
-				size = 0
+				culture = ephebian
+				size = 239874
 			}
 
 		}
@@ -2492,10 +2492,10 @@
 		}
 	}
 	s:STATE_Otorri = {
-		region_state: = {
+		region_state:SIR = {
 			create_pop = {
-				culture = joibung
-				size = 0
+				culture = sirritian
+				size = 216710
 			}
 
 		}
@@ -2634,10 +2634,10 @@
 		}
 	}
 	s:STATE_Anzeland = {
-		region_state: = {
+		region_state:TSO = {
 			create_pop = {
-				culture = seurdaond
-				size = 0
+				culture = tsortian
+				size = 300000
 			}
 
 		}
@@ -2858,10 +2858,10 @@
 		}
 	}
 	s:STATE_Bashua = {
-		region_state: = {
+		region_state:DJE = {
 			create_pop = {
-				culture = joibung
-				size = 0
+				culture = djelibeybian
+				size = 243971
 			}
 
 		}
@@ -3657,10 +3657,10 @@
 		}
 	}
 	s:STATE_Staeg = {
-		region_state: = {
+		region_state:BRK = {
 			create_pop = {
-				culture = stuob
-				size = 0
+				culture = betrek
+				size = 338670
 			}
 
 		}
@@ -4024,10 +4024,10 @@
 		}
 	}
 	s:STATE_Nurrii = {
-		region_state: = {
+		region_state:UR0 = {
 			create_pop = {
-				culture = stuob
-				size = 0
+				culture = ur
+				size = 343871
 			}
 
 		}
@@ -5750,19 +5750,19 @@
 		}
 	}
 	s:STATE_Egucce = {
-		region_state: = {
+		region_state:EPH = {
 			create_pop = {
-				culture = seurdaond
-				size = 0
+				culture = ephebian
+				size = 36490
 			}
 
 		}
 	}
 	s:STATE_Caihay = {
-		region_state: = {
+		region_state:EPH = {
 			create_pop = {
-				culture = seurdaond
-				size = 0
+				culture = ephebian
+				size = 45800
 			}
 
 		}
@@ -5804,10 +5804,10 @@
 		}
 	}
 	s:STATE_Otrapp = {
-		region_state: = {
+		region_state:EPH = {
 			create_pop = {
-				culture = seurdaond
-				size = 0
+				culture = ephebian
+				size = 19400
 			}
 
 		}

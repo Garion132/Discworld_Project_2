@@ -80,7 +80,7 @@ region_Chukust = {
 	graphical_culture = "arabic"
 	capital_province = x1A1201
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Strocust STATE_Achoqua STATE_Phibross STATE_Staeg STATE_Osresro STATE_Tuic STATE_Jaltie }
+	states = {  STATE_Strocust STATE_Achoqua STATE_Phibross STATE_Staeg STATE_Osresro STATE_Jaltie STATE_Soaj STATE_Tostalea STATE_Aporbo STATE_Luthifou STATE_Kuabey}
 }
 region_Kienoss = {
 	graphical_culture = "arabic"
@@ -370,12 +370,6 @@ region_Theuf = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Daoltiopp STATE_Reekux STATE_Unzing STATE_Mebroi STATE_Noumbaostan }
 }
-region_Mesroa = {
-	graphical_culture = "arabic"
-	capital_province = x8A9101
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Tostalea STATE_Aporbo STATE_Luthifou STATE_Kuabey }
-}
 region_Pastokee = {
 	graphical_culture = "arabic"
 	capital_province = x45F701
@@ -392,7 +386,7 @@ region_Shitrurt = {
 	graphical_culture = "arabic"
 	capital_province = xC7BE01
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Thour STATE_Tiecheond STATE_Bashua STATE_Stiosthiep }
+	states = {  STATE_Thour STATE_Tiecheond STATE_Bashua STATE_Stiosthiep STATE_Anzeland STATE_Nurrii STATE_Tuic}
 }
 region_Uttolt = {
 	graphical_culture = "arabic"
@@ -435,12 +429,6 @@ region_Thuigthaak = {
 	capital_province = xF73601
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Swejisturt STATE_Huchao STATE_Dethusia }
-}
-region_Ibrarbo = {
-	graphical_culture = "arabic"
-	capital_province = xEA7701
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Soaj }
 }
 region_Fistalaa = {
 	graphical_culture = "arabic"
@@ -669,12 +657,6 @@ region_Himbiu = {
 	capital_province = x22AC01
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Taanguond }
-}
-region_Stranuthass = {
-	graphical_culture = "arabic"
-	capital_province = xCC4101
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Anzeland STATE_Nurrii }
 }
 region_Theag = {
 	graphical_culture = "arabic"
@@ -3238,3 +3220,10 @@ region_Charastard = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Hubwie }
 }
+region_Circle_Sea = {
+	graphical_culture = "arabic"
+	capital_province = x91C8FF
+	map_color = { 0.5 0 0 }
+	states = {  STATE_Circle_Sea }
+}
+

@@ -1,0 +1,10 @@
+POPS = {	
+	s:STATE_ANKH = {
+		region_state:RUS = {
+			create_pop = {
+				culture = byelorussian
+				size = 176925
+			}
+		}
+	}
+}

@@ -1,0 +1,17 @@
+﻿###### EXAMPLE ######
+
+#example_heritage = {
+#	heritage = yes
+#}
+
+#####################
+
+sto_plainer_heritage = {
+	heritage = yes
+}
+klatchian_heritage = {
+	heritage = yes
+}
+omnian_heritage = {
+	heritage = yes
+}

@@ -1,0 +1,3 @@
+﻿region_great_sea = {
+	states = { STATE_GREAT_SEA }
+}

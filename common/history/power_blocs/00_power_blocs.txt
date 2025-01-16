@@ -1,0 +1,39 @@
+﻿POWER_BLOCS = {
+
+	# Zollverein (German customs union)
+	# Note: Countries were taken from old customs union pacts
+	c:AMP = {
+		create_power_bloc = {
+			name = MORPORKIA
+
+			map_color = { 209 66 58 }
+
+			founding_date = 1834.01.01
+			identity = identity_trade_league
+			principle = principle_internal_trade_1
+			
+			member = c:QRM #
+			member = c:STL #
+			member = c:CHR #
+			member = c:STH #
+			member = c:STN #
+			member = c:STM #
+			member = c:STQ #
+			member = c:STE #
+			member = c:STR #
+			member = c:BCG #
+			member = c:SHR #
+			member = c:ZEM #
+			member = c:SKN #
+			member = c:FRW #
+		}
+		if = {
+			limit = {
+				has_dlc_feature = power_bloc_features
+			}
+			power_bloc = {
+				add_principle = principle_police_coordination_1
+			}
+		}
+	}
+}

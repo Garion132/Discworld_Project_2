@@ -1,0 +1,9158 @@
+﻿POPS = {
+	s:STATE_Ankh = {
+		region_state:AMP = {
+			create_pop = {
+				culture = morporkian
+				size = 950000
+			}
+			create_pop = {
+				culture = dwarf
+				size = 50000
+			}
+		}
+	}
+	s:STATE_Quirm = {
+		region_state:QRM = {
+			create_pop = {
+				culture = quirmian
+				size = 160000
+			}
+
+		}
+	}
+	s:STATE_Pseudopolis = {
+		region_state:PSE = {
+			create_pop = {
+				culture = pseudopolian
+				size = 240000
+			}
+
+		}
+	}
+	s:STATE_Shires = {
+		region_state:SHR = {
+			create_pop = {
+				culture = sto_plainer
+				size = 98000
+			}
+
+		}
+	}
+	s:STATE_Endess = {
+		region_state:RUS = {
+			create_pop = {
+				culture = quuhotheng
+				size = 10000
+			}
+
+		}
+	}
+	s:STATE_Boan = {
+		region_state: = {
+			create_pop = {
+				culture = osrappa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Huthasue = {
+		region_state:KLA = {
+			create_pop = {
+				culture = klatchian
+				size = 10000
+			}
+
+		}
+	}
+	s:STATE_Lathocou = {
+		region_state: = {
+			create_pop = {
+				culture = jaedaq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Puil = {
+		region_state: = {
+			create_pop = {
+				culture = berbeu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Luod = {
+		region_state: = {
+			create_pop = {
+				culture = unzuss
+				size = 0
+			}
+			create_pop = {
+				culture = paitiq
+				size = 0
+			}
+			create_pop = {
+				culture = toichtaurt
+				size = 0
+			}
+			create_pop = {
+				culture = uningo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stair = {
+		region_state: = {
+			create_pop = {
+				culture = osrindi
+				size = 0
+			}
+			create_pop = {
+				culture = quodistapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frosast = {
+		region_state: = {
+			create_pop = {
+				culture = laibeq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shangird = {
+		region_state: = {
+			create_pop = {
+				culture = faartialt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kastibiu = {
+		region_state: = {
+			create_pop = {
+				culture = beupapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Luakind = {
+		region_state: = {
+			create_pop = {
+				culture = gaisaland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Nestopuu = {
+		region_state: = {
+			create_pop = {
+				culture = ortonmo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Moim = {
+		region_state: = {
+			create_pop = {
+				culture = gothacie
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Otrind = {
+		region_state: = {
+			create_pop = {
+				culture = mearteond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strocust = {
+		region_state: = {
+			create_pop = {
+				culture = omnian
+				size = 998000
+			}
+
+		}
+	}
+	s:STATE_Swemothing = {
+		region_state: = {
+			create_pop = {
+				culture = baechiupp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Batharea = {
+		region_state: = {
+			create_pop = {
+				culture = hael
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ettostan = {
+		region_state: = {
+			create_pop = {
+				culture = tritterd
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Oppinza = {
+		region_state: = {
+			create_pop = {
+				culture = irenzo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fiofurt = {
+		region_state: = {
+			create_pop = {
+				culture = trihithistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frosuth = {
+		region_state: = {
+			create_pop = {
+				culture = shojuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Sartia = {
+		region_state: = {
+			create_pop = {
+				culture = quuchtond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ottiland = {
+		region_state: = {
+			create_pop = {
+				culture = ibrustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hiipass = {
+		region_state:SKN = {
+			create_pop = {
+				culture = skundlander
+				size = 25000
+			}
+
+		}
+	}
+	s:STATE_Nassea = {
+		region_state: = {
+			create_pop = {
+				culture = kastahie
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Baep = {
+		region_state: = {
+			create_pop = {
+				culture = frahoth
+				size = 0
+			}
+			create_pop = {
+				culture = thior
+				size = 0
+			}
+			create_pop = {
+				culture = choltustan
+				size = 0
+			}
+			create_pop = {
+				culture = cithadaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swostreland = {
+		region_state: = {
+			create_pop = {
+				culture = nastihai
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ohossoibestru = {
+		region_state: = {
+			create_pop = {
+				culture = strekistirt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Moepiy = {
+		region_state: = {
+			create_pop = {
+				culture = chunist
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Pothehao = {
+		region_state: = {
+			create_pop = {
+				culture = jeushaert
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Luthegua = {
+		region_state: = {
+			create_pop = {
+				culture = doagoss
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gendai = {
+		region_state: = {
+			create_pop = {
+				culture = chibast
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Seafurt = {
+		region_state: = {
+			create_pop = {
+				culture = pheltend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Uppichte = {
+		region_state: = {
+			create_pop = {
+				culture = shojuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frubrastan = {
+		region_state: = {
+			create_pop = {
+				culture = quodistapp
+				size = 0
+			}
+			create_pop = {
+				culture = trihithistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Geag = {
+		region_state: = {
+			create_pop = {
+				culture = faig
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mouppaiss = {
+		region_state: = {
+			create_pop = {
+				culture = biccuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Guog = {
+		region_state: = {
+			create_pop = {
+				culture = uningo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Raecax = {
+		region_state: = {
+			create_pop = {
+				culture = kuisaq
+				size = 0
+			}
+			create_pop = {
+				culture = paitiq
+				size = 0
+			}
+			create_pop = {
+				culture = uningo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trahost = {
+		region_state: = {
+			create_pop = {
+				culture = stiol
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quartipp = {
+		region_state: = {
+			create_pop = {
+				culture = distufuu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ciuruz = {
+		region_state: = {
+			create_pop = {
+				culture = niajaland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ochord = {
+		region_state: = {
+			create_pop = {
+				culture = quuhotheng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Theuh = {
+		region_state: = {
+			create_pop = {
+				culture = frefistestan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Diokiy = {
+		region_state: = {
+			create_pop = {
+				culture = uningo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Buebruort = {
+		region_state: = {
+			create_pop = {
+				culture = fathoduu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Custibua = {
+		region_state: = {
+			create_pop = {
+				culture = quuhotheng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jeinmuustan = {
+		region_state: = {
+			create_pop = {
+				culture = stoib
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Icholand = {
+		region_state: = {
+			create_pop = {
+				culture = dastuseu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Pindue = {
+		region_state: = {
+			create_pop = {
+				culture = stiol
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Soirtiert = {
+		region_state: = {
+			create_pop = {
+				culture = trihithistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jenzea = {
+		region_state: = {
+			create_pop = {
+				culture = doagoss
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mougox = {
+		region_state: = {
+			create_pop = {
+				culture = isrind
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thius = {
+		region_state: = {
+			create_pop = {
+				culture = unmishu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stueb = {
+		region_state: = {
+			create_pop = {
+				culture = ombobru
+				size = 0
+			}
+			create_pop = {
+				culture = gothacie
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Apparte = {
+		region_state: = {
+			create_pop = {
+				culture = irenzo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Haopupp = {
+		region_state: = {
+			create_pop = {
+				culture = tethahaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Suekex = {
+		region_state: = {
+			create_pop = {
+				culture = inmotre
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Nuaboy = {
+		region_state: = {
+			create_pop = {
+				culture = enasro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hiucoy = {
+		region_state: = {
+			create_pop = {
+				culture = theujthoih
+				size = 0
+			}
+			create_pop = {
+				culture = faig
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Feereq = {
+		region_state: = {
+			create_pop = {
+				culture = trihithistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phifithapp = {
+		region_state: = {
+			create_pop = {
+				culture = berbeu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jaeb = {
+		region_state: = {
+			create_pop = {
+				culture = geefiy
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swebrird = {
+		region_state: = {
+			create_pop = {
+				culture = hael
+				size = 0
+			}
+			create_pop = {
+				culture = trihithistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Daonzualt = {
+		region_state: = {
+			create_pop = {
+				culture = tethahaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Haalteurt = {
+		region_state: = {
+			create_pop = {
+				culture = dastuseu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jiubwoord = {
+		region_state: = {
+			create_pop = {
+				culture = stracuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thiol = {
+		region_state: = {
+			create_pop = {
+				culture = doagoss
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quirm = {
+		region_state: = {
+			create_pop = {
+				culture = quombipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quachtung = {
+		region_state: = {
+			create_pop = {
+				culture = beupapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Daofiy = {
+		region_state: = {
+			create_pop = {
+				culture = shojuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Daoltiopp = {
+		region_state: = {
+			create_pop = {
+				culture = theujthoih
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tostalea = {
+		region_state: = {
+			create_pop = {
+				culture = erbistre
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thead = {
+		region_state: = {
+			create_pop = {
+				culture = quuhotheng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Taujind = {
+		region_state: = {
+			create_pop = {
+				culture = phocith
+				size = 0
+			}
+			create_pop = {
+				culture = osrappa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phacust = {
+		region_state: = {
+			create_pop = {
+				culture = dein
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tungie = {
+		region_state: = {
+			create_pop = {
+				culture = erdipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thour = {
+		region_state: = {
+			create_pop = {
+				culture = joibung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mausseang = {
+		region_state: = {
+			create_pop = {
+				culture = erbistre
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Staur = {
+		region_state: = {
+			create_pop = {
+				culture = stuob
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thiud = {
+		region_state: = {
+			create_pop = {
+				culture = jeottailand
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swocciland = {
+		region_state:SKN = {
+			create_pop = {
+				culture = skundlander
+				size = 190000
+			}
+		}
+	}
+	s:STATE_Tachia = {
+		region_state: = {
+			create_pop = {
+				culture = faig
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Umeppa = {
+		region_state: = {
+			create_pop = {
+				culture = dein
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ajacce = {
+		region_state: = {
+			create_pop = {
+				culture = ochtass
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Poupey = {
+		region_state: = {
+			create_pop = {
+				culture = shojuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Deettiopp = {
+		region_state: = {
+			create_pop = {
+				culture = enasro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stoil = {
+		region_state: = {
+			create_pop = {
+				culture = hoaport
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Theob = {
+		region_state: = {
+			create_pop = {
+				culture = attutte
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shebwiland = {
+		region_state: = {
+			create_pop = {
+				culture = dethikou
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Erterd = {
+		region_state: = {
+			create_pop = {
+				culture = stracuth
+				size = 0
+			}
+			create_pop = {
+				culture = staik
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tuic = {
+		region_state: = {
+			create_pop = {
+				culture = seurdaond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shehust = {
+		region_state: = {
+			create_pop = {
+				culture = trihithistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Theic = {
+		region_state: = {
+			create_pop = {
+				culture = kuisaq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swerotheng = {
+		region_state: = {
+			create_pop = {
+				culture = tethahaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ottelt = {
+		region_state: = {
+			create_pop = {
+				culture = jaedaq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swejisturt = {
+		region_state: = {
+			create_pop = {
+				culture = stairstiek
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Soaj = {
+		region_state: = {
+			create_pop = {
+				culture = frimethird
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Seafjuag = {
+		region_state: = {
+			create_pop = {
+				culture = uchustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phechteland = {
+		region_state: = {
+			create_pop = {
+				culture = jaedaq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Doos = {
+		region_state: = {
+			create_pop = {
+				culture = kiobiq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Egesri = {
+		region_state: = {
+			create_pop = {
+				culture = trihithistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Theor = {
+		region_state: = {
+			create_pop = {
+				culture = trobististan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frodostirt = {
+		region_state: = {
+			create_pop = {
+				culture = pheltend
+				size = 0
+			}
+			create_pop = {
+				culture = stoib
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Pseudopolis = {
+		region_state: = {
+			create_pop = {
+				culture = uningo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jaeropp = {
+		region_state: = {
+			create_pop = {
+				culture = phogotheng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shirtang = {
+		region_state: = {
+			create_pop = {
+				culture = seestriord
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Udocha = {
+		region_state: = {
+			create_pop = {
+				culture = niajaland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Traputh = {
+		region_state: = {
+			create_pop = {
+				culture = uchustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Heandaird = {
+		region_state: = {
+			create_pop = {
+				culture = nastokou
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ritrau = {
+		region_state: = {
+			create_pop = {
+				culture = doagoss
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gaobriiland = {
+		region_state: = {
+			create_pop = {
+				culture = swefestupp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Booltealt = {
+		region_state: = {
+			create_pop = {
+				culture = laibeq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ingisho = {
+		region_state: = {
+			create_pop = {
+				culture = huichtoeland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Arrocce = {
+		region_state: = {
+			create_pop = {
+				culture = juujux
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trandiss = {
+		region_state: = {
+			create_pop = {
+				culture = liij
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fiuserd = {
+		region_state: = {
+			create_pop = {
+				culture = beupapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strilostung = {
+		region_state: = {
+			create_pop = {
+				culture = berbeu
+				size = 0
+			}
+			create_pop = {
+				culture = ossecha
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Maissuustan = {
+		region_state: = {
+			create_pop = {
+				culture = stracuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mothifue = {
+		region_state: = {
+			create_pop = {
+				culture = theujthoih
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ajirra = {
+		region_state: = {
+			create_pop = {
+				culture = faartialt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ottolte = {
+		region_state: = {
+			create_pop = {
+				culture = dastuseu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stiuj = {
+		region_state: = {
+			create_pop = {
+				culture = jeushaert
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phonmuss = {
+		region_state: = {
+			create_pop = {
+				culture = ossecha
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kuabey = {
+		region_state: = {
+			create_pop = {
+				culture = erbistre
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thied = {
+		region_state: = {
+			create_pop = {
+				culture = nastihai
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jaucceart = {
+		region_state: = {
+			create_pop = {
+				culture = ombobru
+				size = 0
+			}
+			create_pop = {
+				culture = chunist
+				size = 0
+			}
+			create_pop = {
+				culture = tritterd
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Iquunga = {
+		region_state: = {
+			create_pop = {
+				culture = huichtoeland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fiokay = {
+		region_state: = {
+			create_pop = {
+				culture = tethahaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mechtei = {
+		region_state: = {
+			create_pop = {
+				culture = faig
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strimethort = {
+		region_state: = {
+			create_pop = {
+				culture = frahoth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Riutird = {
+		region_state: = {
+			create_pop = {
+				culture = tritterd
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Pharothert = {
+		region_state: = {
+			create_pop = {
+				culture = justidua
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Heobuz = {
+		region_state: = {
+			create_pop = {
+				culture = beupapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thiomstual = {
+		region_state: = {
+			create_pop = {
+				culture = uchustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Suubruolt = {
+		region_state: = {
+			create_pop = {
+				culture = lailoq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Bitrio = {
+		region_state: = {
+			create_pop = {
+				culture = uchustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tethocau = {
+		region_state: = {
+			create_pop = {
+				culture = faig
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Seichieland = {
+		region_state:SKN = {
+			create_pop = {
+				culture = skundlander
+				size = 39000
+			}
+
+		}
+	}
+	s:STATE_Oquabwu = {
+		region_state: = {
+			create_pop = {
+				culture = chibast
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Foeh = {
+		region_state: = {
+			create_pop = {
+				culture = quuchtond
+				size = 0
+			}
+			create_pop = {
+				culture = phocith
+				size = 0
+			}
+			create_pop = {
+				culture = reudang
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Engusro = {
+		region_state: = {
+			create_pop = {
+				culture = kuisaq
+				size = 0
+			}
+			create_pop = {
+				culture = kiobiq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Eccisra = {
+		region_state: = {
+			create_pop = {
+				culture = mearteond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stoan = {
+		region_state: = {
+			create_pop = {
+				culture = dein
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Miedoz = {
+		region_state: = {
+			create_pop = {
+				culture = jiambiard
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Moakax = {
+		region_state: = {
+			create_pop = {
+				culture = jeottailand
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ogucco = {
+		region_state: = {
+			create_pop = {
+				culture = urrord
+				size = 0
+			}
+			create_pop = {
+				culture = toujez
+				size = 0
+			}
+			create_pop = {
+				culture = muad
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Coonmiult = {
+		region_state: = {
+			create_pop = {
+				culture = hoaport
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Issiland = {
+		region_state: = {
+			create_pop = {
+				culture = justidua
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kothunia = {
+		region_state: = {
+			create_pop = {
+				culture = quupath
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Sochtea = {
+		region_state: = {
+			create_pop = {
+				culture = huichtoeland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Guthimee = {
+		region_state: = {
+			create_pop = {
+				culture = tethahaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Heedix = {
+		region_state: = {
+			create_pop = {
+				culture = inmotre
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quarrurt = {
+		region_state: = {
+			create_pop = {
+				culture = swefestupp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Bainguilt = {
+		region_state: = {
+			create_pop = {
+				culture = jeottailand
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Rouchaestan = {
+		region_state: = {
+			create_pop = {
+				culture = justidua
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trogoth = {
+		region_state: = {
+			create_pop = {
+				culture = stoib
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Arrango = {
+		region_state: = {
+			create_pop = {
+				culture = nastihai
+				size = 0
+			}
+			create_pop = {
+				culture = mearteond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Suekond = {
+		region_state: = {
+			create_pop = {
+				culture = dastuseu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phisrult = {
+		region_state: = {
+			create_pop = {
+				culture = uningo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stooj = {
+		region_state: = {
+			create_pop = {
+				culture = fathoduu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ebwert = {
+		region_state: = {
+			create_pop = {
+				culture = pheltend
+				size = 0
+			}
+			create_pop = {
+				culture = stoib
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Neug = {
+		region_state: = {
+			create_pop = {
+				culture = ombobru
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quibriland = {
+		region_state: = {
+			create_pop = {
+				culture = uchustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Meer = {
+		region_state: = {
+			create_pop = {
+				culture = pheltend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Igilti = {
+		region_state: = {
+			create_pop = {
+				culture = pheltend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stroluth = {
+		region_state: = {
+			create_pop = {
+				culture = reudang
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Siag = {
+		region_state: = {
+			create_pop = {
+				culture = ochtass
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Maiteland = {
+		region_state: = {
+			create_pop = {
+				culture = jiem
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Utrarbo = {
+		region_state: = {
+			create_pop = {
+				culture = dastuseu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Cairruupp = {
+		region_state: = {
+			create_pop = {
+				culture = joibung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stios = {
+		region_state: = {
+			create_pop = {
+				culture = laibeq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Destirei = {
+		region_state: = {
+			create_pop = {
+				culture = tethahaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Poabiq = {
+		region_state: = {
+			create_pop = {
+				culture = uningo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shefuthquesast = {
+		region_state: = {
+			create_pop = {
+				culture = jiem
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trurost = {
+		region_state: = {
+			create_pop = {
+				culture = justidua
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Orbuss = {
+		region_state: = {
+			create_pop = {
+				culture = quombipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Maccoe = {
+		region_state: = {
+			create_pop = {
+				culture = jiambiard
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Steec = {
+		region_state: = {
+			create_pop = {
+				culture = distufuu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Luthifou = {
+		region_state: = {
+			create_pop = {
+				culture = erbistre
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mouccauland = {
+		region_state: = {
+			create_pop = {
+				culture = justidua
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shepast = {
+		region_state: = {
+			create_pop = {
+				culture = chomast
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swirdoland = {
+		region_state: = {
+			create_pop = {
+				culture = uchustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tuamend = {
+		region_state: = {
+			create_pop = {
+				culture = trihithistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Siiltiilt = {
+		region_state: = {
+			create_pop = {
+				culture = joibung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Meukeng = {
+		region_state: = {
+			create_pop = {
+				culture = endonmu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jaunez = {
+		region_state: = {
+			create_pop = {
+				culture = baechiupp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Baug = {
+		region_state: = {
+			create_pop = {
+				culture = frahoth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stoag = {
+		region_state: = {
+			create_pop = {
+				culture = ossecha
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kiasay = {
+		region_state: = {
+			create_pop = {
+				culture = quulath
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tustajie = {
+		region_state: = {
+			create_pop = {
+				culture = jiambiard
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mestodei = {
+		region_state: = {
+			create_pop = {
+				culture = distufuu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Achilt = {
+		region_state: = {
+			create_pop = {
+				culture = baechiupp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Efusro = {
+		region_state: = {
+			create_pop = {
+				culture = jiem
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strojuth = {
+		region_state: = {
+			create_pop = {
+				culture = dethikou
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Onicca = {
+		region_state: = {
+			create_pop = {
+				culture = quodistapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Noappourd = {
+		region_state: = {
+			create_pop = {
+				culture = enasro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Charost = {
+		region_state: = {
+			create_pop = {
+				culture = frefistestan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Caisuss = {
+		region_state: = {
+			create_pop = {
+				culture = frefistestan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stritath = {
+		region_state: = {
+			create_pop = {
+				culture = nastihai
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ciaralt = {
+		region_state: = {
+			create_pop = {
+				culture = frahoth
+				size = 0
+			}
+			create_pop = {
+				culture = fathoduu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ahembe = {
+		region_state: = {
+			create_pop = {
+				culture = justidua
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Faak = {
+		region_state: = {
+			create_pop = {
+				culture = gothacie
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jertao = {
+		region_state: = {
+			create_pop = {
+				culture = gaisaland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frecath = {
+		region_state: = {
+			create_pop = {
+				culture = quuhotheng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jothapoi = {
+		region_state: = {
+			create_pop = {
+				culture = kiobiq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hirrii = {
+		region_state: = {
+			create_pop = {
+				culture = erdipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Obrart = {
+		region_state: = {
+			create_pop = {
+				culture = altustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kuthelai = {
+		region_state: = {
+			create_pop = {
+				culture = justidua
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Anmabwe = {
+		region_state: = {
+			create_pop = {
+				culture = chabrord
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hiobwierd = {
+		region_state:KLA = {
+			create_pop = {
+				culture = klatchian
+				size = 10000
+			}
+
+		}
+	}
+	s:STATE_Rothidei = {
+		region_state: = {
+			create_pop = {
+				culture = irenzo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chehuth = {
+		region_state: = {
+			create_pop = {
+				culture = seestriord
+				size = 0
+			}
+			create_pop = {
+				culture = irenzo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stoif = {
+		region_state: = {
+			create_pop = {
+				culture = quodistapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Suetaz = {
+		region_state:KLA = {
+			create_pop = {
+				culture = klatchian
+				size = 10000
+			}
+
+		}
+	}
+	s:STATE_Cuanzealt = {
+		region_state: = {
+			create_pop = {
+				culture = jaedaq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Puifeng = {
+		region_state: = {
+			create_pop = {
+				culture = liij
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Achoqua = {
+		region_state: = {
+			create_pop = {
+				culture = stuob
+				size = 0
+			}
+			create_pop = {
+				culture = raumung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Soiralt = {
+		region_state: = {
+			create_pop = {
+				culture = ortonmo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swefitholt = {
+		region_state: = {
+			create_pop = {
+				culture = jaedaq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thaaf = {
+		region_state: = {
+			create_pop = {
+				culture = erdipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Dunmea = {
+		region_state: = {
+			create_pop = {
+				culture = quuchtond
+				size = 0
+			}
+			create_pop = {
+				culture = jiambiard
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Goac = {
+		region_state: = {
+			create_pop = {
+				culture = ibrustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Duec = {
+		region_state: = {
+			create_pop = {
+				culture = ortonmo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Beenend = {
+		region_state:KLA = {
+			create_pop = {
+				culture = klatchian
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Irdashu = {
+		region_state: = {
+			create_pop = {
+				culture = berbeu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Unzing = {
+		region_state: = {
+			create_pop = {
+				culture = theujthoih
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chadistend = {
+		region_state: = {
+			create_pop = {
+				culture = osrindi
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Lower_Sto_Plains = {
+		region_state:STH = {
+			create_pop = {
+				culture = sto_plainer
+				size = 80000
+			}
+
+		}
+		region_state:STK = {
+			create_pop = {
+				culture = sto_plainer
+				size = 90000
+			}
+
+		}
+		region_state:STQ = {
+			create_pop = {
+				culture = sto_plainer
+				size = 50000
+			}
+
+		}
+		region_state:STM = {
+			create_pop = {
+				culture = sto_plainer
+				size = 50000
+			}
+
+		}
+		region_state:STN = {
+			create_pop = {
+				culture = sto_plainer
+				size = 50000
+			}
+
+		}
+	}
+	s:STATE_Fethofoi = {
+		region_state: = {
+			create_pop = {
+				culture = uningo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Doltio = {
+		region_state: = {
+			create_pop = {
+				culture = endonmu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strondend = {
+		region_state: = {
+			create_pop = {
+				culture = attutte
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trardiss = {
+		region_state: = {
+			create_pop = {
+				culture = paitiq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ceasoz = {
+		region_state: = {
+			create_pop = {
+				culture = endonmu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Asesre = {
+		region_state:BCG = {
+			create_pop = {
+				culture = sto_plainer
+				size = 67070
+			}
+
+		}
+		region_state:STE = {
+			create_pop = {
+				culture = sto_plainer
+				size = 215070
+			}
+
+		}
+		region_state:STR = {
+			create_pop = {
+				culture = sto_plainer
+				size = 85000
+			}
+
+		}
+		region_state:FRW = {
+			create_pop = {
+				culture = sto_plainer
+				size = 285400
+			}
+
+		}
+	}
+	s:STATE_Neoc = {
+		region_state: = {
+			create_pop = {
+				culture = stairstiek
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Luunduepp = {
+		region_state: = {
+			create_pop = {
+				culture = jaedaq
+				size = 0
+			}
+			create_pop = {
+				culture = altustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Oluque = {
+		region_state: = {
+			create_pop = {
+				culture = stoib
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Maehey = {
+		region_state: = {
+			create_pop = {
+				culture = quuhotheng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ebwing = {
+		region_state: = {
+			create_pop = {
+				culture = onastro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mustekuu = {
+		region_state: = {
+			create_pop = {
+				culture = chomast
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thuat = {
+		region_state: = {
+			create_pop = {
+				culture = altustan
+				size = 0
+			}
+			create_pop = {
+				culture = chabrord
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jingao = {
+		region_state: = {
+			create_pop = {
+				culture = osrindi
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shofestalt = {
+		region_state: = {
+			create_pop = {
+				culture = quuhotheng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Artushi = {
+		region_state: = {
+			create_pop = {
+				culture = jeottailand
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trobostshepest = {
+		region_state: = {
+			create_pop = {
+				culture = beupapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Poimard = {
+		region_state: = {
+			create_pop = {
+				culture = erdipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Moec = {
+		region_state: = {
+			create_pop = {
+				culture = osrindi
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ippasro = {
+		region_state: = {
+			create_pop = {
+				culture = beupapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ejisse = {
+		region_state: = {
+			create_pop = {
+				culture = pheltend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Theicthead = {
+		region_state: = {
+			create_pop = {
+				culture = mithikie
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Taanguond = {
+		region_state: = {
+			create_pop = {
+				culture = jaedaq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_StoLat = {
+		region_state:STL = {
+			create_pop = {
+				culture = sto_plainer
+				size = 130000
+			}
+
+		}
+	}
+	s:STATE_Otorri = {
+		region_state: = {
+			create_pop = {
+				culture = joibung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Echerda = {
+		region_state: = {
+			create_pop = {
+				culture = ibrustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Maudestan = {
+		region_state: = {
+			create_pop = {
+				culture = swefestupp
+				size = 0
+			}
+			create_pop = {
+				culture = huichtoeland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kuepend = {
+		region_state: = {
+			create_pop = {
+				culture = onastro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ushistan = {
+		region_state: = {
+			create_pop = {
+				culture = inzinga
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Reshoa = {
+		region_state: = {
+			create_pop = {
+				culture = osrindi
+				size = 0
+			}
+			create_pop = {
+				culture = unmishu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swanast = {
+		region_state: = {
+			create_pop = {
+				culture = ingelandusrass
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Meambeart = {
+		region_state: = {
+			create_pop = {
+				culture = tethahaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fiilult = {
+		region_state: = {
+			create_pop = {
+				culture = osrindi
+				size = 0
+			}
+			create_pop = {
+				culture = quodistapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ichoche = {
+		region_state: = {
+			create_pop = {
+				culture = jiambiard
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Maitriapp = {
+		region_state: = {
+			create_pop = {
+				culture = hael
+				size = 0
+			}
+			create_pop = {
+				culture = chabrord
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strocuth = {
+		region_state: = {
+			create_pop = {
+				culture = jaedaq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ultung = {
+		region_state: = {
+			create_pop = {
+				culture = tritterd
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Iquilt = {
+		region_state: = {
+			create_pop = {
+				culture = biccuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Anzeland = {
+		region_state: = {
+			create_pop = {
+				culture = seurdaond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stoojsteis = {
+		region_state: = {
+			create_pop = {
+				culture = ortonmo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Oltepp = {
+		region_state: = {
+			create_pop = {
+				culture = uningo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ceossuastan = {
+		region_state: = {
+			create_pop = {
+				culture = erdipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Nithucaa = {
+		region_state: = {
+			create_pop = {
+				culture = ossecha
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Isarda = {
+		region_state: = {
+			create_pop = {
+				culture = erdipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Artird = {
+		region_state: = {
+			create_pop = {
+				culture = geefiy
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Daibweort = {
+		region_state: = {
+			create_pop = {
+				culture = kuisaq
+				size = 0
+			}
+			create_pop = {
+				culture = paitiq
+				size = 0
+			}
+			create_pop = {
+				culture = chomast
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quenzeng = {
+		region_state: = {
+			create_pop = {
+				culture = mithikie
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hethafou = {
+		region_state: = {
+			create_pop = {
+				culture = toujez
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ishipp = {
+		region_state: = {
+			create_pop = {
+				culture = justidua
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phuhest = {
+		region_state: = {
+			create_pop = {
+				culture = enasro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stiosthiep = {
+		region_state: = {
+			create_pop = {
+				culture = joibung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Saarbiiss = {
+		region_state: = {
+			create_pop = {
+				culture = tethahaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tregathepp = {
+		region_state: = {
+			create_pop = {
+				culture = dethikou
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ubacci = {
+		region_state: = {
+			create_pop = {
+				culture = inmotre
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Steotthuus = {
+		region_state: = {
+			create_pop = {
+				culture = quulath
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quodathaland = {
+		region_state: = {
+			create_pop = {
+				culture = chunist
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Diusheoss = {
+		region_state: = {
+			create_pop = {
+				culture = theujthoih
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Onzuque = {
+		region_state: = {
+			create_pop = {
+				culture = distufuu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Restudee = {
+		region_state: = {
+			create_pop = {
+				culture = mearteond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kaoduy = {
+		region_state: = {
+			create_pop = {
+				culture = staik
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Noshou = {
+		region_state: = {
+			create_pop = {
+				culture = osrappa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tribrord = {
+		region_state: = {
+			create_pop = {
+				culture = hoaport
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Bashua = {
+		region_state: = {
+			create_pop = {
+				culture = joibung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Muosuy = {
+		region_state: = {
+			create_pop = {
+				culture = dastuseu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thuof = {
+		region_state: = {
+			create_pop = {
+				culture = tethahaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phostrapp = {
+		region_state: = {
+			create_pop = {
+				culture = justidua
+				size = 0
+			}
+			create_pop = {
+				culture = osrindi
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mustimai = {
+		region_state: = {
+			create_pop = {
+				culture = endonmu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Froshult = {
+		region_state: = {
+			create_pop = {
+				culture = niajaland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Giagneal = {
+		region_state: = {
+			create_pop = {
+				culture = beupapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Aporbo = {
+		region_state:IST = {
+			create_pop = {
+				culture = istanzian
+				size = 1060000
+			}
+
+		}
+	}
+	s:STATE_Eltilt = {
+		region_state: = {
+			create_pop = {
+				culture = dethikou
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Obwurta = {
+		region_state: = {
+			create_pop = {
+				culture = uchustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Huchao = {
+		region_state: = {
+			create_pop = {
+				culture = niajaland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Foetriupp = {
+		region_state: = {
+			create_pop = {
+				culture = stairstiek
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stuas = {
+		region_state: = {
+			create_pop = {
+				culture = faig
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quushand = {
+		region_state: = {
+			create_pop = {
+				culture = ingelandusrass
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Liissoapp = {
+		region_state: = {
+			create_pop = {
+				culture = juujux
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fristring = {
+		region_state: = {
+			create_pop = {
+				culture = osrappa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Moochuiland = {
+		region_state: = {
+			create_pop = {
+				culture = chunist
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Theuj = {
+		region_state: = {
+			create_pop = {
+				culture = endonmu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phepost = {
+		region_state: = {
+			create_pop = {
+				culture = staik
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jorrai = {
+		region_state: = {
+			create_pop = {
+				culture = liij
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Goeh = {
+		region_state: = {
+			create_pop = {
+				culture = trihithistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ajatra = {
+		region_state:KLA = {
+			create_pop = {
+				culture = klatchian
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ruar = {
+		region_state: = {
+			create_pop = {
+				culture = unmishu
+				size = 0
+			}
+			create_pop = {
+				culture = quodistapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fastotei = {
+		region_state: = {
+			create_pop = {
+				culture = ochtass
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ifostre = {
+		region_state: = {
+			create_pop = {
+				culture = reesrault
+				size = 0
+			}
+			create_pop = {
+				culture = nastihai
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swaccand = {
+		region_state: = {
+			create_pop = {
+				culture = pheltend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fripping = {
+		region_state: = {
+			create_pop = {
+				culture = joibung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ombestan = {
+		region_state: = {
+			create_pop = {
+				culture = bustufei
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Risrua = {
+		region_state:KLA = {
+			create_pop = {
+				culture = klatchian
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Taag = {
+		region_state: = {
+			create_pop = {
+				culture = distufuu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Buustriert = {
+		region_state: = {
+			create_pop = {
+				culture = chibast
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Dambuu = {
+		region_state: = {
+			create_pop = {
+				culture = tritterd
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mebroi = {
+		region_state: = {
+			create_pop = {
+				culture = theujthoih
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Leurdiass = {
+		region_state: = {
+			create_pop = {
+				culture = pheltend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Rithireu = {
+		region_state: = {
+			create_pop = {
+				culture = mithikie
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jathusoi = {
+		region_state: = {
+			create_pop = {
+				culture = berbeu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ardastan = {
+		region_state: = {
+			create_pop = {
+				culture = chunist
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Dethusia = {
+		region_state: = {
+			create_pop = {
+				culture = riip
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phibross = {
+		region_state: = {
+			create_pop = {
+				culture = stuob
+				size = 0
+			}
+			create_pop = {
+				culture = unmishu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Soamilt = {
+		region_state: = {
+			create_pop = {
+				culture = uchustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stresholand = {
+		region_state: = {
+			create_pop = {
+				culture = niajaland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Teuteng = {
+		region_state: = {
+			create_pop = {
+				culture = stoed
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Juihiq = {
+		region_state: = {
+			create_pop = {
+				culture = distufuu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chirm = {
+		region_state:CHR = {
+			create_pop = {
+				culture = sto_plainer
+				size = 50000
+			}
+
+		}
+	}
+	s:STATE_Shires = {
+		region_state:SHR = {
+			create_pop = {
+				culture = sto_plainer
+				size = 43000
+			}
+
+		}
+	}
+	s:STATE_Staef = {
+		region_state: = {
+			create_pop = {
+				culture = reudang
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hoijard = {
+		region_state: = {
+			create_pop = {
+				culture = uningo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Goegux = {
+		region_state: = {
+			create_pop = {
+				culture = erdipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Reekux = {
+		region_state: = {
+			create_pop = {
+				culture = theujthoih
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Theit = {
+		region_state: = {
+			create_pop = {
+				culture = tethahaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kookind = {
+		region_state: = {
+			create_pop = {
+				culture = jaedaq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swerastirt = {
+		region_state: = {
+			create_pop = {
+				culture = kastahie
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Meetraass = {
+		region_state: = {
+			create_pop = {
+				culture = trihithistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Rathubaa = {
+		region_state: = {
+			create_pop = {
+				culture = baechiupp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chabwung = {
+		region_state: = {
+			create_pop = {
+				culture = swefestupp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shifost = {
+		region_state: = {
+			create_pop = {
+				culture = laibeq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Suetgout = {
+		region_state:KLA = {
+			create_pop = {
+				culture = klatchian
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stuut = {
+		region_state: = {
+			create_pop = {
+				culture = riip
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Giiluy = {
+		region_state: = {
+			create_pop = {
+				culture = quulath
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Soeshuirt = {
+		region_state: = {
+			create_pop = {
+				culture = erbistre
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Unzurd = {
+		region_state: = {
+			create_pop = {
+				culture = raumung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jaltie = {
+		region_state: = {
+			create_pop = {
+				culture = frimethird
+				size = 0
+			}
+			create_pop = {
+				culture = histumai
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phitath = {
+		region_state: = {
+			create_pop = {
+				culture = phocith
+				size = 4985775
+			}
+			create_pop = {
+				culture = toujez
+				size = 4985775
+			}
+
+		}
+	}
+	s:STATE_Phumothess = {
+		region_state: = {
+			create_pop = {
+				culture = ochtass
+				size = 541456
+			}
+
+		}
+	}
+	s:STATE_Tattii = {
+		region_state: = {
+			create_pop = {
+				culture = huichtoeland
+				size = 1331775
+			}
+
+		}
+	}
+	s:STATE_Phikust = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 18386843
+			}
+			create_pop = {
+				culture = trarruss
+				size = 18386843
+			}
+			create_pop = {
+				culture = toichtaurt
+				size = 18386843
+			}
+
+		}
+	}
+	s:STATE_Trutoth = {
+		region_state: = {
+			create_pop = {
+				culture = ingelandusrass
+				size = 0
+			}
+			create_pop = {
+				culture = liij
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Osresro = {
+		region_state: = {
+			create_pop = {
+				culture = stuob
+				size = 673220
+			}
+			create_pop = {
+				culture = peenmaapp
+				size = 673220
+			}
+
+		}
+	}
+	s:STATE_Quettilt = {
+		region_state: = {
+			create_pop = {
+				culture = peenmaapp
+				size = 1209147
+			}
+
+		}
+	}
+	s:STATE_Hienuy = {
+		region_state: = {
+			create_pop = {
+				culture = reesrault
+				size = 1548066
+			}
+			create_pop = {
+				culture = stoib
+				size = 1548066
+			}
+
+		}
+	}
+	s:STATE_Beokeq = {
+		region_state: = {
+			create_pop = {
+				culture = osrappa
+				size = 432597
+			}
+
+		}
+	}
+	s:STATE_Muem = {
+		region_state: = {
+			create_pop = {
+				culture = dethikou
+				size = 580482
+			}
+
+		}
+	}
+	s:STATE_Fuunmaistan = {
+		region_state: = {
+			create_pop = {
+				culture = altustan
+				size = 0
+			}
+			create_pop = {
+				culture = strekistirt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Huuqueapp = {
+		region_state: = {
+			create_pop = {
+				culture = theujthoih
+				size = 1207350
+			}
+
+		}
+	}
+	s:STATE_Chettort = {
+		region_state: = {
+			create_pop = {
+				culture = ingelandusrass
+				size = 858171
+			}
+
+		}
+	}
+	s:STATE_Ifutri = {
+		region_state: = {
+			create_pop = {
+				culture = faartialt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Uchtoqua = {
+		region_state: = {
+			create_pop = {
+				culture = shojuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hochei = {
+		region_state: = {
+			create_pop = {
+				culture = dethikou
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Geisruard = {
+		region_state: = {
+			create_pop = {
+				culture = erdipp
+				size = 723004
+			}
+
+		}
+	}
+	s:STATE_Ochostan = {
+		region_state: = {
+			create_pop = {
+				culture = staik
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Futtou = {
+		region_state: = {
+			create_pop = {
+				culture = beupapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trorreng = {
+		region_state: = {
+			create_pop = {
+				culture = niajaland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hoaquaard = {
+		region_state: = {
+			create_pop = {
+				culture = faig
+				size = 1169277
+			}
+			create_pop = {
+				culture = uningo
+				size = 1169277
+			}
+
+		}
+	}
+	s:STATE_Staeg = {
+		region_state: = {
+			create_pop = {
+				culture = stuob
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Cuetolt = {
+		region_state: = {
+			create_pop = {
+				culture = trarruss
+				size = 2465831
+			}
+			create_pop = {
+				culture = trutrostan
+				size = 2465831
+			}
+
+		}
+	}
+	s:STATE_Joefistan = {
+		region_state: = {
+			create_pop = {
+				culture = quuchtond
+				size = 0
+			}
+			create_pop = {
+				culture = inzinga
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Steul = {
+		region_state: = {
+			create_pop = {
+				culture = uchustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stuil = {
+		region_state: = {
+			create_pop = {
+				culture = tethahaa
+				size = 676115
+			}
+
+		}
+	}
+	s:STATE_Shicoth = {
+		region_state: = {
+			create_pop = {
+				culture = inmotre
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Achtass = {
+		region_state: = {
+			create_pop = {
+				culture = onastro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Deilang = {
+		region_state: = {
+			create_pop = {
+				culture = ortonmo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trassustan = {
+		region_state: = {
+			create_pop = {
+				culture = liij
+				size = 911340
+			}
+
+		}
+	}
+	s:STATE_Ichirro = {
+		region_state: = {
+			create_pop = {
+				culture = quodistapp
+				size = 588499
+			}
+			create_pop = {
+				culture = isrind
+				size = 588499
+			}
+
+		}
+	}
+	s:STATE_Phenzung = {
+		region_state: = {
+			create_pop = {
+				culture = staik
+				size = 401685
+			}
+
+		}
+	}
+	s:STATE_Fracust = {
+		region_state: = {
+			create_pop = {
+				culture = stiol
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hairey = {
+		region_state: = {
+			create_pop = {
+				culture = hoaport
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ipocca = {
+		region_state:SKN = {
+			create_pop = {
+				culture = skundlander
+				size = 48110
+			}
+
+		}
+	}
+	s:STATE_Coel = {
+		region_state: = {
+			create_pop = {
+				culture = laibeq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ussabwu = {
+		region_state: = {
+			create_pop = {
+				culture = inmotre
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Atrottu = {
+		region_state: = {
+			create_pop = {
+				culture = dethikou
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Achettu = {
+		region_state: = {
+			create_pop = {
+				culture = dethikou
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Titholuo = {
+		region_state: = {
+			create_pop = {
+				culture = pheltend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Juukart = {
+		region_state: = {
+			create_pop = {
+				culture = frefistestan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Diotrualt = {
+		region_state: = {
+			create_pop = {
+				culture = osrindi
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Keurbaustan = {
+		region_state: = {
+			create_pop = {
+				culture = chunist
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chapeth = {
+		region_state: = {
+			create_pop = {
+				culture = doagoss
+				size = 1056624
+			}
+
+		}
+	}
+	s:STATE_Essult = {
+		region_state: = {
+			create_pop = {
+				culture = juujux
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Huijustan = {
+		region_state: = {
+			create_pop = {
+				culture = dethikou
+				size = 183799
+			}
+
+		}
+	}
+	s:STATE_Justrae = {
+		region_state: = {
+			create_pop = {
+				culture = stairstiek
+				size = 494975
+			}
+
+		}
+	}
+	s:STATE_Ajerto = {
+		region_state: = {
+			create_pop = {
+				culture = dastuseu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Buachtiang = {
+		region_state: = {
+			create_pop = {
+				culture = dein
+				size = 698618
+			}
+
+		}
+	}
+	s:STATE_Thain = {
+		region_state: = {
+			create_pop = {
+				culture = tritterd
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ebwurt = {
+		region_state: = {
+			create_pop = {
+				culture = staik
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Puimux = {
+		region_state: = {
+			create_pop = {
+				culture = endonmu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Koebwailt = {
+		region_state: = {
+			create_pop = {
+				culture = trarruss
+				size = 1713309
+			}
+			create_pop = {
+				culture = quulath
+				size = 1713309
+			}
+
+		}
+	}
+	s:STATE_Aquochu = {
+		region_state: = {
+			create_pop = {
+				culture = frefistestan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swefast = {
+		region_state: = {
+			create_pop = {
+				culture = juujux
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ubweltu = {
+		region_state: = {
+			create_pop = {
+				culture = phocith
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Anarta = {
+		region_state: = {
+			create_pop = {
+				culture = tritterd
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Poefox = {
+		region_state: = {
+			create_pop = {
+				culture = stiol
+				size = 683614
+			}
+
+		}
+	}
+	s:STATE_Duof = {
+		region_state: = {
+			create_pop = {
+				culture = quuhotheng
+				size = 4339730
+			}
+
+		}
+	}
+	s:STATE_Erbalti = {
+		region_state: = {
+			create_pop = {
+				culture = trihithistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Nurrii = {
+		region_state: = {
+			create_pop = {
+				culture = stuob
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fostedie = {
+		region_state: = {
+			create_pop = {
+				culture = jeottailand
+				size = 1158816
+			}
+
+		}
+	}
+	s:STATE_Riostrooss = {
+		region_state: = {
+			create_pop = {
+				culture = doagoss
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thieh = {
+		region_state: = {
+			create_pop = {
+				culture = onastro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gianird = {
+		region_state: = {
+			create_pop = {
+				culture = ossecha
+				size = 1219513
+			}
+
+		}
+	}
+	s:STATE_Swostrong = {
+		region_state: = {
+			create_pop = {
+				culture = ibrustan
+				size = 2481468
+			}
+
+		}
+	}
+	s:STATE_Ubwiltu = {
+		region_state: = {
+			create_pop = {
+				culture = uchustan
+				size = 402814
+			}
+
+		}
+	}
+	s:STATE_Ojaqui = {
+		region_state: = {
+			create_pop = {
+				culture = distufuu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stoaf = {
+		region_state: = {
+			create_pop = {
+				culture = dein
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Echturd = {
+		region_state: = {
+			create_pop = {
+				culture = staik
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Siig = {
+		region_state: = {
+			create_pop = {
+				culture = faig
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chipist = {
+		region_state: = {
+			create_pop = {
+				culture = jeottailand
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quicceng = {
+		region_state: = {
+			create_pop = {
+				culture = lailoq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tiecheond = {
+		region_state: = {
+			create_pop = {
+				culture = joibung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Muattoeland = {
+		region_state: = {
+			create_pop = {
+				culture = irenzo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Cachoa = {
+		region_state: = {
+			create_pop = {
+				culture = onastro
+				size = 430063
+			}
+
+		}
+	}
+	s:STATE_Shumuth = {
+		region_state: = {
+			create_pop = {
+				culture = distufuu
+				size = 945140
+			}
+
+		}
+	}
+	s:STATE_Anmaquo = {
+		region_state: = {
+			create_pop = {
+				culture = shojuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Lausriurd = {
+		region_state: = {
+			create_pop = {
+				culture = niajaland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shucuthert = {
+		region_state: = {
+			create_pop = {
+				culture = endonmu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Nashio = {
+		region_state:KLA = {
+			create_pop = {
+				culture = klatchian
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shonath = {
+		region_state: = {
+			create_pop = {
+				culture = osrepp
+				size = 770899
+			}
+
+		}
+	}
+	s:STATE_Thuum = {
+		region_state: = {
+			create_pop = {
+				culture = laibeq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swubast = {
+		region_state: = {
+			create_pop = {
+				culture = osrindi
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Sairbeeng = {
+		region_state: = {
+			create_pop = {
+				culture = duebiland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Beolex = {
+		region_state: = {
+			create_pop = {
+				culture = onastro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Paic = {
+		region_state: = {
+			create_pop = {
+				culture = trarruss
+				size = 2547460
+			}
+			create_pop = {
+				culture = faig
+				size = 2547460
+			}
+
+		}
+	}
+	s:STATE_Thiaf = {
+		region_state: = {
+			create_pop = {
+				culture = unmishu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trogithung = {
+		region_state: = {
+			create_pop = {
+				culture = doagoss
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stoifsteih = {
+		region_state: = {
+			create_pop = {
+				culture = justidua
+				size = 629252
+			}
+
+		}
+	}
+	s:STATE_Stripothess = {
+		region_state: = {
+			create_pop = {
+				culture = faig
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Eppand = {
+		region_state: = {
+			create_pop = {
+				culture = stuob
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hishee = {
+		region_state: = {
+			create_pop = {
+				culture = hoaport
+				size = 562447
+			}
+
+		}
+	}
+	s:STATE_Cuuj = {
+		region_state: = {
+			create_pop = {
+				culture = staik
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thaig = {
+		region_state: = {
+			create_pop = {
+				culture = staik
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Sworross = {
+		region_state: = {
+			create_pop = {
+				culture = riip
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ordepp = {
+		region_state: = {
+			create_pop = {
+				culture = osrappa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stromithert = {
+		region_state: = {
+			create_pop = {
+				culture = nastokou
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Saobong = {
+		region_state: = {
+			create_pop = {
+				culture = stuob
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thaok = {
+		region_state: = {
+			create_pop = {
+				culture = inmotre
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Noumbaostan = {
+		region_state: = {
+			create_pop = {
+				culture = theujthoih
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chekitherd = {
+		region_state: = {
+			create_pop = {
+				culture = attutte
+				size = 975174
+			}
+
+		}
+	}
+	s:STATE_Ondass = {
+		region_state: = {
+			create_pop = {
+				culture = niajaland
+				size = 630267
+			}
+
+		}
+	}
+	s:STATE_Thuurthouc = {
+		region_state: = {
+			create_pop = {
+				culture = strekistirt
+				size = 614250
+			}
+
+		}
+	}
+	s:STATE_Rastamee = {
+		region_state: = {
+			create_pop = {
+				culture = bustufei
+				size = 1027856
+			}
+
+		}
+	}
+	s:STATE_Hultau = {
+		region_state: = {
+			create_pop = {
+				culture = hoaport
+				size = 1042450
+			}
+
+		}
+	}
+	s:STATE_Raortaalt = {
+		region_state: = {
+			create_pop = {
+				culture = tethahaa
+				size = 791714
+			}
+
+		}
+	}
+	s:STATE_Fralistostan = {
+		region_state: = {
+			create_pop = {
+				culture = baechiupp
+				size = 898494
+			}
+
+		}
+	}
+	s:STATE_Assorru = {
+		region_state: = {
+			create_pop = {
+				culture = justidua
+				size = 1207244
+			}
+
+		}
+	}
+	s:STATE_Combaa = {
+		region_state: = {
+			create_pop = {
+				culture = shojuth
+				size = 740639
+			}
+
+		}
+	}
+	s:STATE_Chamithart = {
+		region_state: = {
+			create_pop = {
+				culture = hael
+				size = 3030564
+			}
+			create_pop = {
+				culture = isrind
+				size = 3030564
+			}
+
+		}
+	}
+	s:STATE_Dethomaa = {
+		region_state: = {
+			create_pop = {
+				culture = quombipp
+				size = 967308
+			}
+
+		}
+	}
+	s:STATE_Sailind = {
+		region_state: = {
+			create_pop = {
+				culture = unmishu
+				size = 1254205
+			}
+			create_pop = {
+				culture = stoed
+				size = 1254205
+			}
+
+		}
+	}
+	s:STATE_Rombue = {
+		region_state: = {
+			create_pop = {
+				culture = doagoss
+				size = 852051
+			}
+
+		}
+	}
+	s:STATE_Fuasraing = {
+		region_state: = {
+			create_pop = {
+				culture = unmishu
+				size = 844131
+			}
+
+		}
+	}
+	s:STATE_Cathemeu = {
+		region_state: = {
+			create_pop = {
+				culture = fathoduu
+				size = 1159643
+			}
+
+		}
+	}
+	s:STATE_Fuisix = {
+		region_state: = {
+			create_pop = {
+				culture = gothacie
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Atechto = {
+		region_state: = {
+			create_pop = {
+				culture = ortonmo
+				size = 376650
+			}
+
+		}
+	}
+	s:STATE_Swerothapp = {
+		region_state: = {
+			create_pop = {
+				culture = osrindi
+				size = 1145555
+			}
+
+		}
+	}
+	s:STATE_Bestuteu = {
+		region_state:KLA = {
+			create_pop = {
+				culture = klatchian
+				size = 227876
+			}
+
+		}
+	}
+	s:STATE_Strissong = {
+		region_state: = {
+			create_pop = {
+				culture = doagoss
+				size = 649587
+			}
+
+		}
+	}
+	s:STATE_Haikoland = {
+		region_state: = {
+			create_pop = {
+				culture = frefistestan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shisothoss = {
+		region_state: = {
+			create_pop = {
+				culture = trarruss
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Bouf = {
+		region_state: = {
+			create_pop = {
+				culture = stracuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Cuil = {
+		region_state: = {
+			create_pop = {
+				culture = jeushaert
+				size = 817011
+			}
+
+		}
+	}
+	s:STATE_Giom = {
+		region_state: = {
+			create_pop = {
+				culture = stoib
+				size = 0
+			}
+			create_pop = {
+				culture = suolux
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Inuchi = {
+		region_state: = {
+			create_pop = {
+				culture = beupapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Cherdond = {
+		region_state: = {
+			create_pop = {
+				culture = distufuu
+				size = 183314
+			}
+
+		}
+	}
+	s:STATE_Reundeung = {
+		region_state: = {
+			create_pop = {
+				culture = berbeu
+				size = 903199
+			}
+
+		}
+	}
+	s:STATE_Niccia = {
+		region_state: = {
+			create_pop = {
+				culture = osrindi
+				size = 1672649
+			}
+
+		}
+	}
+	s:STATE_Frukustong = {
+		region_state:KLA = {
+			create_pop = {
+				culture = klatchian
+				size = 750000
+			}
+
+		}
+	}
+	s:STATE_Stian = {
+		region_state: = {
+			create_pop = {
+				culture = faartialt
+				size = 904747
+			}
+
+		}
+	}
+	s:STATE_Jiichaistan = {
+		region_state: = {
+			create_pop = {
+				culture = osrindi
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Toac = {
+		region_state: = {
+			create_pop = {
+				culture = osrepp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Upelta = {
+		region_state: = {
+			create_pop = {
+				culture = distufuu
+				size = 235715
+			}
+
+		}
+	}
+	s:STATE_Omessu = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fiup = {
+		region_state: = {
+			create_pop = {
+				culture = lailoq
+				size = 11089
+			}
+
+		}
+	}
+	s:STATE_Pimbie = {
+		region_state: = {
+			create_pop = {
+				culture = lailoq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chetoth = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 20694
+			}
+
+		}
+	}
+	s:STATE_Fuccii = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 8336
+			}
+
+		}
+	}
+	s:STATE_Ubwund = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fethosuo = {
+		region_state: = {
+			create_pop = {
+				culture = lailoq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Elisru = {
+		region_state: = {
+			create_pop = {
+				culture = trihithistan
+				size = 6241
+			}
+
+		}
+	}
+	s:STATE_Iltird = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 24208
+			}
+
+		}
+	}
+	s:STATE_Ishosho = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Lichtea = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chujist = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 2741
+			}
+
+		}
+	}
+	s:STATE_Juel = {
+		region_state: = {
+			create_pop = {
+				culture = fromithurt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Engestan = {
+		region_state: = {
+			create_pop = {
+				culture = fromithurt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shasethalt = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quasseland = {
+		region_state: = {
+			create_pop = {
+				culture = fromithurt
+				size = 6198
+			}
+
+		}
+	}
+	s:STATE_Caossoult = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 3756
+			}
+
+		}
+	}
+	s:STATE_Meurond = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Sties = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 3636
+			}
+
+		}
+	}
+	s:STATE_Foortoipp = {
+		region_state: = {
+			create_pop = {
+				culture = fromithurt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Orirda = {
+		region_state: = {
+			create_pop = {
+				culture = koed
+				size = 12990
+			}
+
+		}
+	}
+	s:STATE_Taereq = {
+		region_state: = {
+			create_pop = {
+				culture = koed
+				size = 6177
+			}
+
+		}
+	}
+	s:STATE_Jeejess = {
+		region_state: = {
+			create_pop = {
+				culture = fromithurt
+				size = 7970
+			}
+
+		}
+	}
+	s:STATE_Queletholt = {
+		region_state: = {
+			create_pop = {
+				culture = fromithurt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Taushoepp = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Oltistan = {
+		region_state: = {
+			create_pop = {
+				culture = trihithistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Maurdaeland = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Riusreepp = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jeejey = {
+		region_state: = {
+			create_pop = {
+				culture = fromithurt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phedaststrulith = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Erbenza = {
+		region_state: = {
+			create_pop = {
+				culture = fromithurt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Baemiland = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ardosre = {
+		region_state: = {
+			create_pop = {
+				culture = fromithurt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fiatteind = {
+		region_state: = {
+			create_pop = {
+				culture = koed
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Astrissa = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Okocco = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swucethfrirast = {
+		region_state: = {
+			create_pop = {
+				culture = koed
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hanmeu = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Furbau = {
+		region_state: = {
+			create_pop = {
+				culture = oshippe
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ordalti = {
+		region_state: = {
+			create_pop = {
+				culture = fustamuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Puottuolt = {
+		region_state: = {
+			create_pop = {
+				culture = fromithurt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Haurdiuland = {
+		region_state: = {
+			create_pop = {
+				culture = fustamuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jestisoa = {
+		region_state: = {
+			create_pop = {
+				culture = fustamuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shapasteland = {
+		region_state: = {
+			create_pop = {
+				culture = koed
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Uquiss = {
+		region_state: = {
+			create_pop = {
+				culture = fromithurt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Peordieng = {
+		region_state: = {
+			create_pop = {
+				culture = fromithurt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stiifthoim = {
+		region_state: = {
+			create_pop = {
+				culture = koed
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kostamea = {
+		region_state: = {
+			create_pop = {
+				culture = koed
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Heisupp = {
+		region_state: = {
+			create_pop = {
+				culture = fustamuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ojubwo = {
+		region_state: = {
+			create_pop = {
+				culture = fustamuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chonitheng = {
+		region_state: = {
+			create_pop = {
+				culture = koed
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Pistecio = {
+		region_state: = {
+			create_pop = {
+				culture = fustamuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Keengeopp = {
+		region_state: = {
+			create_pop = {
+				culture = kuthotoa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Luuhix = {
+		region_state: = {
+			create_pop = {
+				culture = fustamuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ufubwu = {
+		region_state: = {
+			create_pop = {
+				culture = koed
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Sostejai = {
+		region_state: = {
+			create_pop = {
+				culture = fustamuo
+				size = 6244
+			}
+
+		}
+	}
+	s:STATE_Gieg = {
+		region_state: = {
+			create_pop = {
+				culture = kuthotoa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Luogix = {
+		region_state: = {
+			create_pop = {
+				culture = fustamuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Buerez = {
+		region_state: = {
+			create_pop = {
+				culture = fustamuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Streccelt = {
+		region_state: = {
+			create_pop = {
+				culture = gostrea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ohunzu = {
+		region_state: = {
+			create_pop = {
+				culture = gostrea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stremust = {
+		region_state: = {
+			create_pop = {
+				culture = fustamuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Juestroing = {
+		region_state: = {
+			create_pop = {
+				culture = fustamuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Retholio = {
+		region_state: = {
+			create_pop = {
+				culture = kuthotoa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Roepiq = {
+		region_state: = {
+			create_pop = {
+				culture = lesrii
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strajostuland = {
+		region_state: = {
+			create_pop = {
+				culture = lesrii
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ossunze = {
+		region_state: = {
+			create_pop = {
+				culture = lesrii
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Eppabwu = {
+		region_state: = {
+			create_pop = {
+				culture = lesrii
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Futhirii = {
+		region_state: = {
+			create_pop = {
+				culture = lesrii
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gueleland = {
+		region_state: = {
+			create_pop = {
+				culture = lesrii
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quaduth = {
+		region_state: = {
+			create_pop = {
+				culture = lesrii
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strishird = {
+		region_state: = {
+			create_pop = {
+				culture = gostrea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frunmess = {
+		region_state: = {
+			create_pop = {
+				culture = gostrea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shultung = {
+		region_state: = {
+			create_pop = {
+				culture = gostrea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gueshaopp = {
+		region_state: = {
+			create_pop = {
+				culture = gostrea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frudist = {
+		region_state: = {
+			create_pop = {
+				culture = gostrea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Lastubie = {
+		region_state: = {
+			create_pop = {
+				culture = gostrea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quopistend = {
+		region_state: = {
+			create_pop = {
+				culture = hastepuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Eguchto = {
+		region_state: = {
+			create_pop = {
+				culture = hastepuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Staet = {
+		region_state: = {
+			create_pop = {
+				culture = hastepuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Leusheeland = {
+		region_state: = {
+			create_pop = {
+				culture = hastepuo
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Giet = {
+		region_state: = {
+			create_pop = {
+				culture = steoc
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Artustan = {
+		region_state: = {
+			create_pop = {
+				culture = steoc
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ifimbi = {
+		region_state: = {
+			create_pop = {
+				culture = koed
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frekuthupp = {
+		region_state: = {
+			create_pop = {
+				culture = swubuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swokuth = {
+		region_state: = {
+			create_pop = {
+				culture = swubuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Puit = {
+		region_state: = {
+			create_pop = {
+				culture = steoc
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fuitiy = {
+		region_state: = {
+			create_pop = {
+				culture = swubuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Meojord = {
+		region_state: = {
+			create_pop = {
+				culture = swubuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stoubthaum = {
+		region_state: = {
+			create_pop = {
+				culture = swubuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quikothopp = {
+		region_state: = {
+			create_pop = {
+				culture = swubuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mairtaupp = {
+		region_state: = {
+			create_pop = {
+				culture = swubuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Sianmoord = {
+		region_state: = {
+			create_pop = {
+				culture = swubuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phadest = {
+		region_state: = {
+			create_pop = {
+				culture = swubuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Udonme = {
+		region_state: = {
+			create_pop = {
+				culture = swubuth
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kuthuhuu = {
+		region_state: = {
+			create_pop = {
+				culture = hestejio
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Luah = {
+		region_state: = {
+			create_pop = {
+				culture = hestejio
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Puthemuo = {
+		region_state: = {
+			create_pop = {
+				culture = thaer
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Liosey = {
+		region_state: = {
+			create_pop = {
+				culture = thaer
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swofith = {
+		region_state: = {
+			create_pop = {
+				culture = thaer
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Randao = {
+		region_state: = {
+			create_pop = {
+				culture = pheltend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Maecestan = {
+		region_state: = {
+			create_pop = {
+				culture = hestejio
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Irdecce = {
+		region_state: = {
+			create_pop = {
+				culture = pheltend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gibwio = {
+		region_state: = {
+			create_pop = {
+				culture = gethufoa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shanoth = {
+		region_state: = {
+			create_pop = {
+				culture = gethufoa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Laorriung = {
+		region_state: = {
+			create_pop = {
+				culture = gethufoa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Lostroe = {
+		region_state: = {
+			create_pop = {
+				culture = hestejio
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Erbort = {
+		region_state: = {
+			create_pop = {
+				culture = gethufoa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fichtai = {
+		region_state: = {
+			create_pop = {
+				culture = pheltend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Peud = {
+		region_state: = {
+			create_pop = {
+				culture = stuabthouk
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Reistraird = {
+		region_state: = {
+			create_pop = {
+				culture = gethufoa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Philast = {
+		region_state: = {
+			create_pop = {
+				culture = gauc
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Atriss = {
+		region_state: = {
+			create_pop = {
+				culture = gauc
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Irdaquu = {
+		region_state: = {
+			create_pop = {
+				culture = stuabthouk
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Uchtert = {
+		region_state: = {
+			create_pop = {
+				culture = riuhand
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Egucce = {
+		region_state: = {
+			create_pop = {
+				culture = seurdaond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Caihay = {
+		region_state: = {
+			create_pop = {
+				culture = seurdaond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Staom = {
+		region_state: = {
+			create_pop = {
+				culture = goudepp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Lothutii = {
+		region_state: = {
+			create_pop = {
+				culture = riuhand
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stiifstiig = {
+		region_state: = {
+			create_pop = {
+				culture = stuabthouk
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strustrelt = {
+		region_state: = {
+			create_pop = {
+				culture = stuabthouk
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Otrapp = {
+		region_state: = {
+			create_pop = {
+				culture = seurdaond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Daosreupp = {
+		region_state: = {
+			create_pop = {
+				culture = goudepp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swasrelt = {
+		region_state: = {
+			create_pop = {
+				culture = stuabthouk
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Odunme = {
+		region_state: = {
+			create_pop = {
+				culture = riuhand
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Guechtoind = {
+		region_state: = {
+			create_pop = {
+				culture = riuhand
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trijastoss = {
+		region_state: = {
+			create_pop = {
+				culture = strohestepp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chodestopp = {
+		region_state: = {
+			create_pop = {
+				culture = strohestepp
+				size = 9906
+			}
+
+		}
+	}
+	s:STATE_Jeenastan = {
+		region_state: = {
+			create_pop = {
+				culture = strohestepp
+				size = 2273
+			}
+
+		}
+	}
+	s:STATE_Stuel = {
+		region_state: = {
+			create_pop = {
+				culture = riuhand
+				size = 312773
+			}
+
+		}
+	}
+	s:STATE_Strimbipp = {
+		region_state: = {
+			create_pop = {
+				culture = riuhand
+				size = 89750
+			}
+
+		}
+	}
+	s:STATE_Quudostoss = {
+		region_state: = {
+			create_pop = {
+				culture = strohestepp
+				size = 5626
+			}
+
+		}
+	}
+	s:STATE_Hoahiq = {
+		region_state: = {
+			create_pop = {
+				culture = gauc
+				size = 88785
+			}
+
+		}
+	}
+	s:STATE_Neih = {
+		region_state: = {
+			create_pop = {
+				culture = riuhand
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stremustond = {
+		region_state: = {
+			create_pop = {
+				culture = riuhand
+				size = 22618
+			}
+
+		}
+	}
+	s:STATE_Foeshaong = {
+		region_state: = {
+			create_pop = {
+				culture = riuhand
+				size = 10083
+			}
+
+		}
+	}
+	s:STATE_Phojoth = {
+		region_state: = {
+			create_pop = {
+				culture = riuhand
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tuugostan = {
+		region_state: = {
+			create_pop = {
+				culture = riuhand
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Costuhiu = {
+		region_state: = {
+			create_pop = {
+				culture = riuhand
+				size = 4848
+			}
+
+		}
+	}
+	s:STATE_Strajoth = {
+		region_state: = {
+			create_pop = {
+				culture = riuhand
+				size = 2779
+			}
+
+		}
+	}
+	s:STATE_Echtechta = {
+		region_state: = {
+			create_pop = {
+				culture = laibeq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tippuu = {
+		region_state: = {
+			create_pop = {
+				culture = stiol
+				size = 8191
+			}
+
+		}
+	}
+	s:STATE_Deabiy = {
+		region_state: = {
+			create_pop = {
+				culture = stiol
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Attubwo = {
+		region_state: = {
+			create_pop = {
+				culture = stiol
+				size = 2937
+			}
+
+		}
+	}
+	s:STATE_Chudistolt = {
+		region_state: = {
+			create_pop = {
+				culture = phushend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ejesro = {
+		region_state: = {
+			create_pop = {
+				culture = phushend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strinothapp = {
+		region_state: = {
+			create_pop = {
+				culture = phittond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ibelto = {
+		region_state: = {
+			create_pop = {
+				culture = phushend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Puuchtoird = {
+		region_state: = {
+			create_pop = {
+				culture = phushend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Perdea = {
+		region_state: = {
+			create_pop = {
+				culture = kastahie
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Daefux = {
+		region_state: = {
+			create_pop = {
+				culture = phushend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Coumbuipp = {
+		region_state: = {
+			create_pop = {
+				culture = phittond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trobwerd = {
+		region_state: = {
+			create_pop = {
+				culture = phushend
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ocasru = {
+		region_state: = {
+			create_pop = {
+				culture = ugicho
+				size = 834905
+			}
+
+		}
+	}
+	s:STATE_Rathocou = {
+		region_state: = {
+			create_pop = {
+				culture = phittond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mappeu = {
+		region_state: = {
+			create_pop = {
+				culture = phittond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Sethunii = {
+		region_state: = {
+			create_pop = {
+				culture = ugicho
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tuobostan = {
+		region_state: = {
+			create_pop = {
+				culture = ugicho
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Erbenme = {
+		region_state: = {
+			create_pop = {
+				culture = phittond
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Echuppi = {
+		region_state: = {
+			create_pop = {
+				culture = phittond
+				size = 1772
+			}
+
+		}
+	}
+	s:STATE_Roipez = {
+		region_state: = {
+			create_pop = {
+				culture = phittond
+				size = 1657
+			}
+
+		}
+	}
+	s:STATE_Nuurduurd = {
+		region_state: = {
+			create_pop = {
+				culture = phushend
+				size = 24840
+			}
+
+		}
+	}
+	s:STATE_Quenuth = {
+		region_state: = {
+			create_pop = {
+				culture = jeottailand
+				size = 12739
+			}
+
+		}
+	}
+	s:STATE_Frocethoss = {
+		region_state: = {
+			create_pop = {
+				culture = gostitia
+				size = 66291
+			}
+
+		}
+	}
+	s:STATE_Esrenza = {
+		region_state: = {
+			create_pop = {
+				culture = gostitia
+				size = 3176
+			}
+
+		}
+	}
+	s:STATE_Stroqualt = {
+		region_state: = {
+			create_pop = {
+				culture = gostitia
+				size = 1525
+			}
+
+		}
+	}
+	s:STATE_Jairtaistan = {
+		region_state: = {
+			create_pop = {
+				culture = gostitia
+				size = 7130
+			}
+
+		}
+	}
+	s:STATE_Baabraird = {
+		region_state: = {
+			create_pop = {
+				culture = gostitia
+				size = 5479
+			}
+
+		}
+	}
+	s:STATE_Soagix = {
+		region_state: = {
+			create_pop = {
+				culture = jeottailand
+				size = 38646
+			}
+
+		}
+	}
+	s:STATE_Tiucerd = {
+		region_state: = {
+			create_pop = {
+				culture = jeottailand
+				size = 22245
+			}
+
+		}
+	}
+	s:STATE_Erderd = {
+		region_state: = {
+			create_pop = {
+				culture = gostitia
+				size = 18981
+			}
+
+		}
+	}
+	s:STATE_Theosthoij = {
+		region_state: = {
+			create_pop = {
+				culture = gostitia
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jissoe = {
+		region_state: = {
+			create_pop = {
+				culture = beupapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jiotupp = {
+		region_state: = {
+			create_pop = {
+				culture = gostitia
+				size = 3037
+			}
+
+		}
+	}
+	s:STATE_Thiomsteen = {
+		region_state: = {
+			create_pop = {
+				culture = ruthilea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Enaque = {
+		region_state: = {
+			create_pop = {
+				culture = ruthilea
+				size = 89045
+			}
+
+		}
+	}
+	s:STATE_Keisrourd = {
+		region_state: = {
+			create_pop = {
+				culture = ruthilea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Doerdiestan = {
+		region_state: = {
+			create_pop = {
+				culture = ruthilea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Niendeind = {
+		region_state: = {
+			create_pop = {
+				culture = ruthilea
+				size = 110648
+			}
+
+		}
+	}
+	s:STATE_Piartoistan = {
+		region_state: = {
+			create_pop = {
+				culture = strandung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kuobroupp = {
+		region_state: = {
+			create_pop = {
+				culture = ruthilea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Otitta = {
+		region_state: = {
+			create_pop = {
+				culture = ruthilea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ogirda = {
+		region_state: = {
+			create_pop = {
+				culture = ruthilea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Secceo = {
+		region_state: = {
+			create_pop = {
+				culture = ruthilea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Poicalt = {
+		region_state: = {
+			create_pop = {
+				culture = ruthilea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ortastan = {
+		region_state: = {
+			create_pop = {
+				culture = ruthilea
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swicethort = {
+		region_state: = {
+			create_pop = {
+				culture = strandung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Foegex = {
+		region_state: = {
+			create_pop = {
+				culture = strandung
+				size = 54142
+			}
+
+		}
+	}
+	s:STATE_Laechtoiss = {
+		region_state: = {
+			create_pop = {
+				culture = seik
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Moquoi = {
+		region_state: = {
+			create_pop = {
+				culture = quacistalt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stoat = {
+		region_state: = {
+			create_pop = {
+				culture = quacistalt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Toemord = {
+		region_state: = {
+			create_pop = {
+				culture = strandung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Erbostan = {
+		region_state: = {
+			create_pop = {
+				culture = strandung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quepostart = {
+		region_state: = {
+			create_pop = {
+				culture = strandung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stuelthaar = {
+		region_state: = {
+			create_pop = {
+				culture = strandung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chubistalt = {
+		region_state: = {
+			create_pop = {
+				culture = trarruss
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swecost = {
+		region_state: = {
+			create_pop = {
+				culture = strandung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frunithard = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kaachuert = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Bios = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Dostinuu = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Taofirt = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Nathepiu = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Daashiing = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shusrapp = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fuutreond = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Steos = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Leanistan = {
+		region_state: = {
+			create_pop = {
+				culture = trutrostan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Suungiult = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strolast = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hierroustan = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Isralt = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shusith = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Anzirba = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gathaloa = {
+		region_state: = {
+			create_pop = {
+				culture = loucastan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shesuth = {
+		region_state: = {
+			create_pop = {
+				culture = loucastan
+				size = 8189
+			}
+
+		}
+	}
+	s:STATE_Shitrird = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gachoo = {
+		region_state: = {
+			create_pop = {
+				culture = titholue
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Baaguy = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Leapey = {
+		region_state: = {
+			create_pop = {
+				culture = trutrostan
+				size = 95173
+			}
+
+		}
+	}
+	s:STATE_Bouchtiird = {
+		region_state: = {
+			create_pop = {
+				culture = sueppuult
+				size = 31506
+			}
+
+		}
+	}
+	s:STATE_Cossei = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 3581
+			}
+
+		}
+	}
+	s:STATE_Triluth = {
+		region_state: = {
+			create_pop = {
+				culture = doakey
+				size = 1156
+			}
+
+		}
+	}
+	s:STATE_Theas = {
+		region_state: = {
+			create_pop = {
+				culture = sueppuult
+				size = 1157
+			}
+
+		}
+	}
+	s:STATE_Goip = {
+		region_state: = {
+			create_pop = {
+				culture = sueppuult
+				size = 39807
+			}
+
+		}
+	}
+	s:STATE_Stoas = {
+		region_state: = {
+			create_pop = {
+				culture = trutrostan
+				size = 91151
+			}
+
+		}
+	}
+	s:STATE_Jeop = {
+		region_state: = {
+			create_pop = {
+				culture = fathoduu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tuthafai = {
+		region_state: = {
+			create_pop = {
+				culture = fathoduu
+				size = 1285
+			}
+
+		}
+	}
+	s:STATE_Eccort = {
+		region_state: = {
+			create_pop = {
+				culture = fathoduu
+				size = 33178
+			}
+
+		}
+	}
+	s:STATE_Enminde = {
+		region_state: = {
+			create_pop = {
+				culture = titholue
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gouppuistan = {
+		region_state: = {
+			create_pop = {
+				culture = titholue
+				size = 43467
+			}
+
+		}
+	}
+	s:STATE_Boifux = {
+		region_state: = {
+			create_pop = {
+				culture = sueppuult
+				size = 17849
+			}
+
+		}
+	}
+	s:STATE_Ittang = {
+		region_state: = {
+			create_pop = {
+				culture = sueppuult
+				size = 4221
+			}
+
+		}
+	}
+	s:STATE_Ingestri = {
+		region_state: = {
+			create_pop = {
+				culture = trutrostan
+				size = 6013
+			}
+
+		}
+	}
+	s:STATE_Strimesterd = {
+		region_state: = {
+			create_pop = {
+				culture = cithadaa
+				size = 23059
+			}
+
+		}
+	}
+	s:STATE_Strinoth = {
+		region_state: = {
+			create_pop = {
+				culture = neurupp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Meotteipp = {
+		region_state: = {
+			create_pop = {
+				culture = neurupp
+				size = 0
+			}
+			create_pop = {
+				culture = ufocca
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chindolt = {
+		region_state: = {
+			create_pop = {
+				culture = naiccaard
+				size = 496419
+			}
+
+		}
+	}
+	s:STATE_Strugastird = {
+		region_state: = {
+			create_pop = {
+				culture = okurta
+				size = 424831
+			}
+
+		}
+	}
+	s:STATE_Hoabweoland = {
+		region_state: = {
+			create_pop = {
+				culture = asrurro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quisostand = {
+		region_state: = {
+			create_pop = {
+				culture = swulastird
+				size = 450648
+			}
+			create_pop = {
+				culture = muor
+				size = 450648
+			}
+
+		}
+	}
+	s:STATE_Eppird = {
+		region_state: = {
+			create_pop = {
+				culture = ikande
+				size = 0
+			}
+			create_pop = {
+				culture = neurupp
+				size = 0
+			}
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Riamolt = {
+		region_state: = {
+			create_pop = {
+				culture = foebay
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Beanmaeland = {
+		region_state: = {
+			create_pop = {
+				culture = swulastird
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frojastolt = {
+		region_state: = {
+			create_pop = {
+				culture = coodiq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quojast = {
+		region_state: = {
+			create_pop = {
+				culture = cooppeung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shiltirt = {
+		region_state: = {
+			create_pop = {
+				culture = ufocca
+				size = 0
+			}
+			create_pop = {
+				culture = piachtoaland
+				size = 0
+			}
+			create_pop = {
+				culture = irbalte
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Struhost = {
+		region_state: = {
+			create_pop = {
+				culture = fothebiu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stoet = {
+		region_state: = {
+			create_pop = {
+				culture = swulastird
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Sithobeu = {
+		region_state: = {
+			create_pop = {
+				culture = cooppeung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Enerdu = {
+		region_state: = {
+			create_pop = {
+				culture = asrurro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quidostuland = {
+		region_state: = {
+			create_pop = {
+				culture = treshilt
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Eshord = {
+		region_state: = {
+			create_pop = {
+				culture = ajortu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Neppee = {
+		region_state: = {
+			create_pop = {
+				culture = fothebiu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Cechua = {
+		region_state: = {
+			create_pop = {
+				culture = naiccaard
+				size = 0
+			}
+			create_pop = {
+				culture = orrort
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chututhand = {
+		region_state: = {
+			create_pop = {
+				culture = fothebiu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hiasseend = {
+		region_state: = {
+			create_pop = {
+				culture = treshilt
+				size = 0
+			}
+			create_pop = {
+				culture = fothebiu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Noindaord = {
+		region_state: = {
+			create_pop = {
+				culture = ajortu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Rithecuu = {
+		region_state: = {
+			create_pop = {
+				culture = foebay
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Heinziart = {
+		region_state: = {
+			create_pop = {
+				culture = muor
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Taunmeord = {
+		region_state: = {
+			create_pop = {
+				culture = okurta
+				size = 0
+			}
+			create_pop = {
+				culture = shanzoss
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ussurd = {
+		region_state: = {
+			create_pop = {
+				culture = ajortu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Larbue = {
+		region_state: = {
+			create_pop = {
+				culture = asrurro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Satrao = {
+		region_state: = {
+			create_pop = {
+				culture = strodith
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Toehuz = {
+		region_state: = {
+			create_pop = {
+				culture = foebay
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Dondui = {
+		region_state: = {
+			create_pop = {
+				culture = swulastird
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frakisteland = {
+		region_state: = {
+			create_pop = {
+				culture = piachtoaland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Buobwiustan = {
+		region_state: = {
+			create_pop = {
+				culture = naiccaard
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Heofepp = {
+		region_state: = {
+			create_pop = {
+				culture = piachtoaland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fuok = {
+		region_state: = {
+			create_pop = {
+				culture = neurupp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Uruppo = {
+		region_state: = {
+			create_pop = {
+				culture = neurupp
+				size = 1543281
+			}
+
+		}
+	}
+	s:STATE_Stiec = {
+		region_state: = {
+			create_pop = {
+				culture = ajortu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Paucheastan = {
+		region_state: = {
+			create_pop = {
+				culture = ajortu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chifithung = {
+		region_state: = {
+			create_pop = {
+				culture = ajortu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mabreo = {
+		region_state: = {
+			create_pop = {
+				culture = asrurro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jeanzaustan = {
+		region_state: = {
+			create_pop = {
+				culture = okurta
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frippird = {
+		region_state: = {
+			create_pop = {
+				culture = coodiq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Neafurd = {
+		region_state: = {
+			create_pop = {
+				culture = asrurro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Laardault = {
+		region_state: = {
+			create_pop = {
+				culture = asrurro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ugulto = {
+		region_state: = {
+			create_pop = {
+				culture = shanzoss
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Bardii = {
+		region_state: = {
+			create_pop = {
+				culture = shostripp
+				size = 0
+			}
+			create_pop = {
+				culture = coodiq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kirreu = {
+		region_state: = {
+			create_pop = {
+				culture = okurta
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ubwipp = {
+		region_state: = {
+			create_pop = {
+				culture = fothebiu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swachend = {
+		region_state: = {
+			create_pop = {
+				culture = treshilt
+				size = 0
+			}
+			create_pop = {
+				culture = strodith
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Agango = {
+		region_state: = {
+			create_pop = {
+				culture = ajortu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frindopp = {
+		region_state: = {
+			create_pop = {
+				culture = strodith
+				size = 0
+			}
+			create_pop = {
+				culture = orrort
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jeutteeng = {
+		region_state: = {
+			create_pop = {
+				culture = okurta
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Usroland = {
+		region_state: = {
+			create_pop = {
+				culture = swulastird
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Siuchtealand = {
+		region_state: = {
+			create_pop = {
+				culture = ajortu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Estretri = {
+		region_state: = {
+			create_pop = {
+				culture = swulastird
+				size = 0
+			}
+			create_pop = {
+				culture = muor
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Leogepp = {
+		region_state: = {
+			create_pop = {
+				culture = asrurro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Framethass = {
+		region_state: = {
+			create_pop = {
+				culture = naiccaard
+				size = 788338
+			}
+
+		}
+	}
+	s:STATE_Chegith = {
+		region_state: = {
+			create_pop = {
+				culture = naiccaard
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gaessuolt = {
+		region_state: = {
+			create_pop = {
+				culture = okurta
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Deef = {
+		region_state: = {
+			create_pop = {
+				culture = ufocca
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Naicex = {
+		region_state: = {
+			create_pop = {
+				culture = piachtoaland
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strubwend = {
+		region_state: = {
+			create_pop = {
+				culture = ajortu
+				size = 0
+			}
+			create_pop = {
+				culture = coodiq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Efondo = {
+		region_state: = {
+			create_pop = {
+				culture = shostripp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stuib = {
+		region_state: = {
+			create_pop = {
+				culture = ajortu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Poer = {
+		region_state: = {
+			create_pop = {
+				culture = okurta
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ruusapp = {
+		region_state: = {
+			create_pop = {
+				culture = shelisting
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Bobree = {
+		region_state: = {
+			create_pop = {
+				culture = irbalte
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thuuc = {
+		region_state: = {
+			create_pop = {
+				culture = shostripp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shicuthing = {
+		region_state: = {
+			create_pop = {
+				culture = asrurro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ishuchto = {
+		region_state: = {
+			create_pop = {
+				culture = fothebiu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chocest = {
+		region_state: = {
+			create_pop = {
+				culture = shanzoss
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Moihoz = {
+		region_state: = {
+			create_pop = {
+				culture = trutrostan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Bishea = {
+		region_state: = {
+			create_pop = {
+				culture = thior
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Achatro = {
+		region_state: = {
+			create_pop = {
+				culture = sueppuult
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frurtend = {
+		region_state: = {
+			create_pop = {
+				culture = cithadaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Heojuy = {
+		region_state: = {
+			create_pop = {
+				culture = cithadaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Desria = {
+		region_state: = {
+			create_pop = {
+				culture = trutrostan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frehithart = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Huad = {
+		region_state: = {
+			create_pop = {
+				culture = cithadaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fuaccialand = {
+		region_state: = {
+			create_pop = {
+				culture = pauquaeng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shumost = {
+		region_state: = {
+			create_pop = {
+				culture = pauquaeng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Aqueng = {
+		region_state: = {
+			create_pop = {
+				culture = pauquaeng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gusrua = {
+		region_state: = {
+			create_pop = {
+				culture = cithadaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Destokua = {
+		region_state: = {
+			create_pop = {
+				culture = sueppuult
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Seuquuurt = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Loamiland = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Neasult = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Usicco = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gustakiu = {
+		region_state: = {
+			create_pop = {
+				culture = pauquaeng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Geapey = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Seuguz = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Astrequi = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Maaqueastan = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Koidestan = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Juom = {
+		region_state: = {
+			create_pop = {
+				culture = pauquaeng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Seoruq = {
+		region_state: = {
+			create_pop = {
+				culture = titholue
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Feurdeand = {
+		region_state: = {
+			create_pop = {
+				culture = titholue
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Usrepp = {
+		region_state: = {
+			create_pop = {
+				culture = choltustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Honmiu = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fueccaand = {
+		region_state: = {
+			create_pop = {
+				culture = chihathort
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tushuo = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Keungoort = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Nuug = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chobrustan = {
+		region_state: = {
+			create_pop = {
+				culture = titholue
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hastufee = {
+		region_state: = {
+			create_pop = {
+				culture = choltustan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Angelt = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Geundaort = {
+		region_state: = {
+			create_pop = {
+				culture = titholue
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jiccaa = {
+		region_state: = {
+			create_pop = {
+				culture = titholue
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trabwess = {
+		region_state: = {
+			create_pop = {
+				culture = pauquaeng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Staehtheaj = {
+		region_state: = {
+			create_pop = {
+				culture = chihathort
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Taat = {
+		region_state: = {
+			create_pop = {
+				culture = pauquaeng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Siufax = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Puissoult = {
+		region_state: = {
+			create_pop = {
+				culture = titholue
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Theek = {
+		region_state: = {
+			create_pop = {
+				culture = titholue
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fienuz = {
+		region_state: = {
+			create_pop = {
+				culture = pauquaeng
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gestreo = {
+		region_state: = {
+			create_pop = {
+				culture = chihathort
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phurtund = {
+		region_state: = {
+			create_pop = {
+				culture = chihathort
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kaefoz = {
+		region_state: = {
+			create_pop = {
+				culture = chihathort
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Paltae = {
+		region_state: = {
+			create_pop = {
+				culture = phehostapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Angitte = {
+		region_state: = {
+			create_pop = {
+				culture = hardio
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phitrind = {
+		region_state: = {
+			create_pop = {
+				culture = hardio
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Leunestan = {
+		region_state: = {
+			create_pop = {
+				culture = phehostapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Roshai = {
+		region_state: = {
+			create_pop = {
+				culture = imichti
+				size = 8032
+			}
+
+		}
+	}
+	s:STATE_Kastria = {
+		region_state: = {
+			create_pop = {
+				culture = hardio
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Pook = {
+		region_state: = {
+			create_pop = {
+				culture = hardio
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quurdeland = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hendia = {
+		region_state: = {
+			create_pop = {
+				culture = phehostapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Unzerti = {
+		region_state: = {
+			create_pop = {
+				culture = phehostapp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ubechti = {
+		region_state: = {
+			create_pop = {
+				culture = hardio
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Pounduupp = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Nuatruord = {
+		region_state: = {
+			create_pop = {
+				culture = ossorri
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Douchtoirt = {
+		region_state: = {
+			create_pop = {
+				culture = pechia
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quenast = {
+		region_state: = {
+			create_pop = {
+				culture = pechia
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Piuppiung = {
+		region_state: = {
+			create_pop = {
+				culture = pechia
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jicheu = {
+		region_state: = {
+			create_pop = {
+				culture = ikande
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Githimie = {
+		region_state: = {
+			create_pop = {
+				culture = trulist
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trestrostan = {
+		region_state: = {
+			create_pop = {
+				culture = ikande
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Steoh = {
+		region_state: = {
+			create_pop = {
+				culture = stragostong
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Elitti = {
+		region_state: = {
+			create_pop = {
+				culture = stragostong
+				size = 0
+			}
+			create_pop = {
+				culture = rierund
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ochurt = {
+		region_state: = {
+			create_pop = {
+				culture = rierund
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ibritti = {
+		region_state: = {
+			create_pop = {
+				culture = sauness
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trulithard = {
+		region_state: = {
+			create_pop = {
+				culture = stragostong
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Faec = {
+		region_state: = {
+			create_pop = {
+				culture = pechia
+				size = 0
+			}
+			create_pop = {
+				culture = phippistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Sungoe = {
+		region_state: = {
+			create_pop = {
+				culture = rierund
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ortasso = {
+		region_state: = {
+			create_pop = {
+				culture = sauness
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quuchind = {
+		region_state: = {
+			create_pop = {
+				culture = stragostong
+				size = 0
+			}
+			create_pop = {
+				culture = rierund
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trottind = {
+		region_state: = {
+			create_pop = {
+				culture = rierund
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Huer = {
+		region_state: = {
+			create_pop = {
+				culture = sauness
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Obettu = {
+		region_state: = {
+			create_pop = {
+				culture = sauness
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jiatix = {
+		region_state: = {
+			create_pop = {
+				culture = rierund
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Taifalt = {
+		region_state: = {
+			create_pop = {
+				culture = sauness
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Frosastord = {
+		region_state: = {
+			create_pop = {
+				culture = sauness
+				size = 1571481
+			}
+
+		}
+	}
+	s:STATE_Gaodeland = {
+		region_state: = {
+			create_pop = {
+				culture = stragostong
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phittepp = {
+		region_state: = {
+			create_pop = {
+				culture = sauness
+				size = 431146
+			}
+
+		}
+	}
+	s:STATE_Cholistostan = {
+		region_state: = {
+			create_pop = {
+				culture = sauness
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Usucco = {
+		region_state: = {
+			create_pop = {
+				culture = rierund
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ubrirbo = {
+		region_state: = {
+			create_pop = {
+				culture = rierund
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thuapthaih = {
+		region_state: = {
+			create_pop = {
+				culture = stragostong
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ahembu = {
+		region_state: = {
+			create_pop = {
+				culture = rierund
+				size = 611090
+			}
+
+		}
+	}
+	s:STATE_Theod = {
+		region_state: = {
+			create_pop = {
+				culture = rierund
+				size = 515314
+			}
+
+		}
+	}
+	s:STATE_Haojoland = {
+		region_state: = {
+			create_pop = {
+				culture = stragostong
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tiudaz = {
+		region_state: = {
+			create_pop = {
+				culture = stragostong
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Accerte = {
+		region_state: = {
+			create_pop = {
+				culture = sauness
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Nuatroastan = {
+		region_state: = {
+			create_pop = {
+				culture = rierund
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ochtiland = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phufest = {
+		region_state: = {
+			create_pop = {
+				culture = sauness
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swecoth = {
+		region_state: = {
+			create_pop = {
+				culture = rierund
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Obwopp = {
+		region_state: = {
+			create_pop = {
+				culture = ikande
+				size = 3637
+			}
+
+		}
+	}
+	s:STATE_Streccard = {
+		region_state: = {
+			create_pop = {
+				culture = charrind
+				size = 7776
+			}
+
+		}
+	}
+	s:STATE_Oquarre = {
+		region_state: = {
+			create_pop = {
+				culture = charrind
+				size = 2489
+			}
+
+		}
+	}
+	s:STATE_Ibrossi = {
+		region_state: = {
+			create_pop = {
+				culture = trulist
+				size = 24920
+			}
+
+		}
+	}
+	s:STATE_Swuputhaland = {
+		region_state: = {
+			create_pop = {
+				culture = charrind
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Eppepp = {
+		region_state: = {
+			create_pop = {
+				culture = charrind
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Leusert = {
+		region_state: = {
+			create_pop = {
+				culture = charrind
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Feuchtuilt = {
+		region_state: = {
+			create_pop = {
+				culture = phippistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hianmuand = {
+		region_state: = {
+			create_pop = {
+				culture = phippistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fricust = {
+		region_state: = {
+			create_pop = {
+				culture = phippistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shoshand = {
+		region_state: = {
+			create_pop = {
+				culture = phippistan
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quertond = {
+		region_state: = {
+			create_pop = {
+				culture = coodiq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Olecco = {
+		region_state: = {
+			create_pop = {
+				culture = coodiq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swojuthestan = {
+		region_state: = {
+			create_pop = {
+				culture = ikande
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tuupix = {
+		region_state: = {
+			create_pop = {
+				culture = coodiq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phogist = {
+		region_state: = {
+			create_pop = {
+				culture = coodiq
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Trosuth = {
+		region_state: = {
+			create_pop = {
+				culture = ikande
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Onmiland = {
+		region_state: = {
+			create_pop = {
+				culture = ikande
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stiic = {
+		region_state: = {
+			create_pop = {
+				culture = ikande
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Lioc = {
+		region_state: = {
+			create_pop = {
+				culture = ikande
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Lirbiu = {
+		region_state: = {
+			create_pop = {
+				culture = asrurro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Juolez = {
+		region_state: = {
+			create_pop = {
+				culture = asrurro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Arterd = {
+		region_state: = {
+			create_pop = {
+				culture = asrurro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Kerbua = {
+		region_state: = {
+			create_pop = {
+				culture = cooppeung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strachapp = {
+		region_state: = {
+			create_pop = {
+				culture = cooppeung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Olurba = {
+		region_state: = {
+			create_pop = {
+				culture = cooppeung
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Theer = {
+		region_state: = {
+			create_pop = {
+				culture = ukibwu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ambirt = {
+		region_state: = {
+			create_pop = {
+				culture = asrurro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shodast = {
+		region_state: = {
+			create_pop = {
+				culture = asrurro
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Itrarti = {
+		region_state: = {
+			create_pop = {
+				culture = ukibwu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ertoland = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Essaland = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tridest = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ortostan = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gaacey = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Cendoi = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Iminge = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Batharii = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strirbalt = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Umburru = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Etrolti = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Steab = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Eppapp = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Fruquiland = {
+		region_state: = {
+			create_pop = {
+				culture = strojathipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Orducci = {
+		region_state: = {
+			create_pop = {
+				culture = ukibwu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ertastan = {
+		region_state: = {
+			create_pop = {
+				culture = strojathipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Mostoria = {
+		region_state: = {
+			create_pop = {
+				culture = ukibwu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Hiet = {
+		region_state: = {
+			create_pop = {
+				culture = ukibwu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Stiab = {
+		region_state: = {
+			create_pop = {
+				culture = strojathipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Chamestoss = {
+		region_state: = {
+			create_pop = {
+				culture = strojathipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thiag = {
+		region_state: = {
+			create_pop = {
+				culture = strojathipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Thoar = {
+		region_state: = {
+			create_pop = {
+				culture = strojathipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Nuob = {
+		region_state: = {
+			create_pop = {
+				culture = strojathipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ibwabwo = {
+		region_state: = {
+			create_pop = {
+				culture = strojathipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Tuac = {
+		region_state: = {
+			create_pop = {
+				culture = strojathipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ebrassu = {
+		region_state: = {
+			create_pop = {
+				culture = strojathipp
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Gothuniu = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Duinard = {
+		region_state: = {
+			create_pop = {
+				culture = quagust
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Beakix = {
+		region_state: = {
+			create_pop = {
+				culture = ukibwu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Michtuu = {
+		region_state: = {
+			create_pop = {
+				culture = ukibwu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shepaststregeth = {
+		region_state: = {
+			create_pop = {
+				culture = ukibwu
+				size = 7947
+			}
+
+		}
+	}
+	s:STATE_Stief = {
+		region_state: = {
+			create_pop = {
+				culture = ukibwu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Phenust = {
+		region_state: = {
+			create_pop = {
+				culture = sashaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Qualoth = {
+		region_state: = {
+			create_pop = {
+				culture = ukibwu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Echotri = {
+		region_state: = {
+			create_pop = {
+				culture = sashaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Suuppiund = {
+		region_state: = {
+			create_pop = {
+				culture = ukibwu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swombepp = {
+		region_state: = {
+			create_pop = {
+				culture = ukibwu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jeepepp = {
+		region_state: = {
+			create_pop = {
+				culture = sashaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Icesra = {
+		region_state: = {
+			create_pop = {
+				culture = sashaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Itusso = {
+		region_state: = {
+			create_pop = {
+				culture = sashaa
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Suichteilt = {
+		region_state: = {
+			create_pop = {
+				culture = ukibwu
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Swotastord = {
+		region_state: = {
+			create_pop = {
+				culture = oquarru
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Noes = {
+		region_state: = {
+			create_pop = {
+				culture = oquarru
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Quutost = {
+		region_state: = {
+			create_pop = {
+				culture = oquarru
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Niep = {
+		region_state: = {
+			create_pop = {
+				culture = oquarru
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Jootreing = {
+		region_state: = {
+			create_pop = {
+				culture = oquarru
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Issung = {
+		region_state: = {
+			create_pop = {
+				culture = oquarru
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Ipparra = {
+		region_state: = {
+			create_pop = {
+				culture = oquarru
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Cattui = {
+		region_state: = {
+			create_pop = {
+				culture = oquarru
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Attirto = {
+		region_state: = {
+			create_pop = {
+				culture = oquarru
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Strikith = {
+		region_state: = {
+			create_pop = {
+				culture = oquarru
+				size = 0
+			}
+
+		}
+	}
+	s:STATE_Shilustiland = {
+		region_state: = {
+
+		}
+	}
+	s:STATE_Neohong = {
+		region_state: = {
+
+		}
+	}
+	s:STATE_Juistroalt = {
+		region_state: = {
+
+		}
+	}
+	s:STATE_Nestinau = {
+		region_state: = {
+
+		}
+	}
+	s:STATE_Laegepp = {
+		region_state: = {
+
+		}
+	}
+
+}

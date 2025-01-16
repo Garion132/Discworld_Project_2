@@ -1,0 +1,212 @@
+﻿# Important note: Only use capital letters and numbers for tags, or else you may get weird bugs in civil wars
+
+RUS = {
+	color = { 47 91 18 }
+
+	country_type = decentralized
+
+	tier = empire
+	
+	cultures = { russian }
+	capital = STATE_Endess
+}
+AMP = {
+	color = { 209 66 58 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { morporkian }
+	capital = STATE_Ankh
+}
+QRM = {
+	color = { 19 44 153 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { quirmian }
+	capital = STATE_Quirm
+}
+PSE = {
+	color = { 87 50 90 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { pseudopolian }
+	capital = STATE_Quirm
+}
+STL = {
+	color = { 41 91 20 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { sto_plainer }
+	capital = STATE_StoLat
+}
+STH = {
+	color = { 73 29 0 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { sto_plainer }
+	capital = STATE_Lower_Sto_Plains
+}
+STK = {
+	color = { 47 196 45 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { sto_plainer }
+	capital = STATE_Lower_Sto_Plains
+}
+STQ = {
+	color = { 113 151 32 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { sto_plainer }
+	capital = STATE_Lower_Sto_Plains
+}
+STM = {
+	color = { 89 193 32 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { sto_plainer }
+	capital = STATE_Lower_Sto_Plains
+}
+STN = {
+	color = { 85 136 12 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { sto_plainer }
+	capital = STATE_Lower_Sto_Plains
+}
+CHR = {
+	color = { 43 191 151 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { sto_plainer }
+	capital = STATE_Chirm
+}
+SHR = {
+	color = { 204 127 97 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { morporkian sto_plainer }
+	capital = STATE_Shires
+}
+KLA = {
+	color = { 255 216 81  }
+
+	country_type = recognized
+
+	tier = empire
+	
+	cultures = { klatchian }
+	capital = STATE_Chirm
+}
+ZEM = {
+	color = { 192 240 128 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { sto_plainer }
+	capital = STATE_Theic
+}
+SKN = {
+	color = { 64 160 128 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { skundlander }
+	capital = STATE_Swocciland
+}
+BCG = {
+	color = { 138 204 174 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { sto_plainer }
+	capital = STATE_Asesre
+} 
+STE = {
+	color = { 222 255 10 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { sto_plainer }
+	capital = STATE_Asesre
+}
+STR = {
+	color = { 222 255 10 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { sto_plainer }
+	capital = STATE_Asesre
+}
+FRW = {
+	color = { 255 124 122 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { sto_plainer }
+	capital = STATE_Asesre
+}
+IST = {
+	color = { 87 50 90 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { istanzian }
+	capital = STATE_Aporbo
+}
+OMA = {
+	color = { 24 198 198 }
+
+	country_type = recognized
+
+	tier = empire
+	
+	cultures = { omnian }
+	capital = STATE_Strocust
+}

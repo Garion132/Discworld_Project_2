@@ -1,0 +1,137 @@
+﻿COUNTRIES = {
+	c:CHR ?= {
+		effect_starting_technology_tier_2_tech = yes
+		
+		effect_starting_politics_conservative = yes
+		activate_law = law_type:law_freedom_of_conscience
+		
+		add_taxed_goods = g:liquor
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
+		}
+	}
+	c:STL ?= {
+		effect_starting_technology_tier_2_tech = yes
+		
+		effect_starting_politics_conservative = yes
+		activate_law = law_type:law_freedom_of_conscience
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
+		}
+	}
+	c:STH ?= {
+		effect_starting_technology_tier_2_tech = yes
+		
+		effect_starting_politics_conservative = yes
+		activate_law = law_type:law_freedom_of_conscience
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
+		}
+	}
+	c:STK ?= {
+		effect_starting_technology_tier_2_tech = yes
+		
+		effect_starting_politics_conservative = yes
+		activate_law = law_type:law_freedom_of_conscience
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
+		}
+	}
+	c:STQ ?= {
+		effect_starting_technology_tier_2_tech = yes
+		
+		effect_starting_politics_conservative = yes
+		activate_law = law_type:law_freedom_of_conscience
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
+		}
+	}
+	c:SHR ?= {
+		effect_starting_technology_tier_2_tech = yes
+		
+		effect_starting_politics_conservative = yes
+		activate_law = law_type:law_freedom_of_conscience
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
+		}
+	}
+	c:ZEM ?= {
+		effect_starting_technology_tier_2_tech = yes
+		
+		effect_starting_politics_conservative = yes
+		activate_law = law_type:law_freedom_of_conscience
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
+		}
+	}
+	c:STM ?= {
+		effect_starting_technology_tier_2_tech = yes
+		
+		effect_starting_politics_conservative = yes
+		activate_law = law_type:law_freedom_of_conscience
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
+		}
+	}
+	c:STN ?= {
+		effect_starting_technology_tier_2_tech = yes
+		
+		effect_starting_politics_conservative = yes
+		activate_law = law_type:law_freedom_of_conscience
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
+		}
+	}
+	c:FRW ?= {
+		effect_starting_technology_tier_2_tech = yes
+		
+		effect_starting_politics_conservative = yes
+		activate_law = law_type:law_freedom_of_conscience
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
+		}
+	}
+	c:SKN ?= {
+		effect_starting_technology_tier_2_tech = yes
+		
+		effect_starting_politics_conservative = yes
+		activate_law = law_type:law_freedom_of_conscience
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
+		}
+	}
+	c:STR ?= {
+		effect_starting_technology_tier_2_tech = yes
+		
+		effect_starting_politics_conservative = yes
+		activate_law = law_type:law_freedom_of_conscience
+		
+		set_institution_investment_level = {
+			institution = institution_schools
+			level = 2
+		}
+	}
+	
+}

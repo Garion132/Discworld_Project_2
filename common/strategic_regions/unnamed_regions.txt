@@ -1,0 +1,5 @@
+﻿region_sto_plains = {
+	capital_province = xCCE598
+	map_color = { 0.392 0.863 1 }
+	states = { STATE_ANKH }
+}

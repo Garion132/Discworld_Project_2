@@ -1,0 +1,9856 @@
+﻿STATES = {
+	
+	s:STATE_Endess = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8C6301"  }
+		}
+		
+		add_homeland = cu:quuhotheng
+		
+	}
+	
+	s:STATE_Shires = {
+		create_state = {
+			country = c:SHR
+			owned_provinces = { "xF4B789"  }
+		}
+		
+		add_homeland = cu:sto_plainer
+		
+	}
+
+	s:STATE_Boan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1FAD01"  }
+		}
+		
+		add_homeland = cu:osrappa
+		
+	}
+
+	s:STATE_Huthasue = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "xF36801"  }
+		}
+		
+		add_homeland = cu:klatchian
+		
+	}
+
+	s:STATE_Lathocou = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x25BE01"  }
+		}
+		
+		add_homeland = cu:jaedaq
+		
+	}
+
+	s:STATE_Puil = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1F8401"  }
+		}
+		
+		add_homeland = cu:berbeu
+		
+	}
+
+	s:STATE_Luod = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEF2F01" "xCA2201" "xDF3A01" "xDB0701"  }
+		}
+		
+		add_homeland = cu:unzuss
+		add_homeland = cu:paitiq
+		add_homeland = cu:toichtaurt
+		add_homeland = cu:uningo
+		
+	}
+
+	s:STATE_Stair = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAC7301" "x7C5401"  }
+		}
+		
+		add_homeland = cu:osrindi
+		add_homeland = cu:quodistapp
+		
+	}
+
+	s:STATE_Frosast = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA9C301"  }
+		}
+		
+		add_homeland = cu:laibeq
+		
+	}
+
+	s:STATE_Shangird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1B1E01"  }
+		}
+		
+		add_homeland = cu:faartialt
+		
+	}
+
+	s:STATE_Kastibiu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x526201"  }
+		}
+		
+		add_homeland = cu:beupapp
+		
+	}
+
+	s:STATE_Luakind = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2BA401"  }
+		}
+		
+		add_homeland = cu:gaisaland
+		
+	}
+
+	s:STATE_Nestopuu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x11E701"  }
+		}
+		
+		add_homeland = cu:ortonmo
+		
+	}
+
+	s:STATE_Moim = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x240001" "x240D01" "x413B01"  }
+		}
+		
+		add_homeland = cu:gothacie
+		
+	}
+
+	s:STATE_Otrind = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x39BF01" "x5BD101"  }
+		}
+		
+		add_homeland = cu:mearteond
+		
+	}
+
+	s:STATE_Swemothing = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB99001" "xB84F01"  }
+		}
+		
+		add_homeland = cu:baechiupp
+		
+	}
+
+	s:STATE_Batharea = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCABD01" "xCEC701"  }
+		}
+		
+		add_homeland = cu:hael
+		
+	}
+
+	s:STATE_Ettostan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE51301"  }
+		}
+		
+		add_homeland = cu:tritterd
+		
+	}
+
+	s:STATE_Oppinza = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1CAC01"  }
+		}
+		
+		add_homeland = cu:irenzo
+		
+	}
+
+	s:STATE_Fiofurt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6FC001"  }
+		}
+		
+		add_homeland = cu:trihithistan
+		
+	}
+
+	s:STATE_Frosuth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x415501" "x664801"  }
+		}
+		
+		add_homeland = cu:shojuth
+		
+	}
+
+	s:STATE_Sartia = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6F8001"  }
+		}
+		
+		add_homeland = cu:quuchtond
+		
+	}
+
+	s:STATE_Ottiland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD7C301"  }
+		}
+		
+		add_homeland = cu:ibrustan
+		
+	}
+
+	s:STATE_Hiipass = {
+		create_state = {
+			country = c:SKN
+			owned_provinces = { "x04BF01"  }
+		}
+		
+		add_homeland = cu:skundlander
+		
+	}
+
+	s:STATE_Nassea = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5E0D01"  }
+		}
+		
+		add_homeland = cu:kastahie
+		
+	}
+
+	s:STATE_Baep = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x234101" "x215F01" "x015401" "x0D5B01" "x325301" "x1D3F01" "x2B4701"  }
+		}
+		
+		add_homeland = cu:frahoth
+		add_homeland = cu:thior
+		add_homeland = cu:choltustan
+		add_homeland = cu:cithadaa
+		
+	}
+
+	s:STATE_Swostreland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9D0301"  }
+		}
+		
+		add_homeland = cu:nastihai
+		
+	}
+
+	s:STATE_Ohossoibestru = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x273901" "x395001"  }
+		}
+		
+		add_homeland = cu:strekistirt
+		
+	}
+
+	s:STATE_Moepiy = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x568E01"  }
+		}
+		
+		add_homeland = cu:chunist
+		
+	}
+
+	s:STATE_Pothehao = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x326D01"  }
+		}
+		
+		add_homeland = cu:jeushaert
+		
+	}
+
+	s:STATE_Luthegua = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5BF101" "x4EDE01"  }
+		}
+		
+		add_homeland = cu:doagoss
+		
+	}
+
+	s:STATE_Gendai = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x742301"  }
+		}
+		
+		add_homeland = cu:chibast
+		
+	}
+
+	s:STATE_Seafurt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4D7A01"  }
+		}
+		
+		add_homeland = cu:pheltend
+		
+	}
+
+	s:STATE_Uppichte = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9B1201"  }
+		}
+		
+		add_homeland = cu:shojuth
+		
+	}
+
+	s:STATE_Frubrastan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCB3F01" "x9F6B01"  }
+		}
+		
+		add_homeland = cu:quodistapp
+		add_homeland = cu:trihithistan
+		
+	}
+
+	s:STATE_Geag = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF67301" "xE25901"  }
+		}
+		
+		add_homeland = cu:faig
+		
+	}
+
+	s:STATE_Mouppaiss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x548D01"  }
+		}
+		
+		add_homeland = cu:biccuo
+		
+	}
+
+	s:STATE_Guog = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x135201"  }
+		}
+		
+		add_homeland = cu:uningo
+		
+	}
+
+	s:STATE_Raecax = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x82D501" "x7CAC01" "x67D001" "x8CBE01"  }
+		}
+		
+		add_homeland = cu:kuisaq
+		add_homeland = cu:paitiq
+		add_homeland = cu:uningo
+		
+	}
+
+	s:STATE_Trahost = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x06EE01"  }
+		}
+		
+		add_homeland = cu:stiol
+		
+	}
+
+	s:STATE_Quartipp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7D2501"  }
+		}
+		
+		add_homeland = cu:distufuu
+		
+	}
+
+	s:STATE_Ciuruz = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x137801"  }
+		}
+		
+		add_homeland = cu:niajaland
+		
+	}
+
+	s:STATE_Ochord = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x989A01"  }
+		}
+		
+		add_homeland = cu:quuhotheng
+		
+	}
+
+	s:STATE_Theuh = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD51801" "xE91901"  }
+		}
+		
+		add_homeland = cu:frefistestan
+		
+	}
+
+	s:STATE_Diokiy = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD97B01" "xED4901"  }
+		}
+		
+		add_homeland = cu:uningo
+		
+	}
+
+	s:STATE_Buebruort = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1E1701"  }
+		}
+		
+		add_homeland = cu:fathoduu
+		
+	}
+
+	s:STATE_Custibua = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB25501"  }
+		}
+		
+		add_homeland = cu:quuhotheng
+		
+	}
+
+	s:STATE_Jeinmuustan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xABCE01"  }
+		}
+		
+		add_homeland = cu:stoib
+		
+	}
+
+	s:STATE_Icholand = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x965201" "x905501"  }
+		}
+		
+		add_homeland = cu:dastuseu
+		
+	}
+
+	s:STATE_Pindue = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEF5701"  }
+		}
+		
+		add_homeland = cu:stiol
+		
+	}
+
+	s:STATE_Soirtiert = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x81A401"  }
+		}
+		
+		add_homeland = cu:trihithistan
+		
+	}
+
+	s:STATE_Jenzea = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC6F101"  }
+		}
+		
+		add_homeland = cu:doagoss
+		
+	}
+
+	s:STATE_Mougox = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x772001" "x4B2B01"  }
+		}
+		
+		add_homeland = cu:isrind
+		
+	}
+
+	s:STATE_Thius = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE67A01"  }
+		}
+		
+		add_homeland = cu:unmishu
+		
+	}
+
+	s:STATE_Stueb = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8FD401" "x758601" "x6ACE01"  }
+		}
+		
+		add_homeland = cu:ombobru
+		add_homeland = cu:gothacie
+		
+	}
+
+	s:STATE_Apparte = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7ACF01" "xA8FD01"  }
+		}
+		
+		add_homeland = cu:irenzo
+		
+	}
+
+	s:STATE_Haopupp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8C3A01"  }
+		}
+		
+		add_homeland = cu:tethahaa
+		
+	}
+
+	s:STATE_Suekex = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1C6B01"  }
+		}
+		
+		add_homeland = cu:inmotre
+		
+	}
+
+	s:STATE_Nuaboy = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xED1A01" "xAA2B01" "xA70D01"  }
+		}
+		
+		add_homeland = cu:enasro
+		
+	}
+
+	s:STATE_Hiucoy = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x788301" "x865301"  }
+		}
+		
+		add_homeland = cu:theujthoih
+		add_homeland = cu:faig
+		
+	}
+
+	s:STATE_Feereq = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x28FA01"  }
+		}
+		
+		add_homeland = cu:trihithistan
+		
+	}
+
+	s:STATE_Phifithapp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x583D01"  }
+		}
+		
+		add_homeland = cu:berbeu
+		
+	}
+
+	s:STATE_Jaeb = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x89FE01" "x94E101" "x56EE01"  }
+		}
+		
+		add_homeland = cu:geefiy
+		
+	}
+
+	s:STATE_Swebrird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0F2601" "x293001" "x445401"  }
+		}
+		
+		add_homeland = cu:hael
+		add_homeland = cu:trihithistan
+		
+	}
+
+	s:STATE_Daonzualt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xFCCC01" "xDAB201"  }
+		}
+		
+		add_homeland = cu:tethahaa
+		
+	}
+
+	s:STATE_Haalteurt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD92701"  }
+		}
+		
+		add_homeland = cu:dastuseu
+		
+	}
+
+	s:STATE_Jiubwoord = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4C4301" "x765201"  }
+		}
+		
+		add_homeland = cu:stracuth
+		
+	}
+
+	s:STATE_Thiol = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xFC7001"  }
+		}
+		
+		add_homeland = cu:doagoss
+		
+	}
+
+	s:STATE_Quirm = {
+		create_state = {
+			country = c:QRM
+			owned_provinces = { "x45BC01" "x49F101"  }
+		}
+		
+		add_homeland = cu:quirmian
+		
+	}
+
+	s:STATE_Quachtung = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x55CB01"  }
+		}
+		
+		add_homeland = cu:beupapp
+		
+	}
+
+	s:STATE_Daofiy = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD22301"  }
+		}
+		
+		add_homeland = cu:shojuth
+		
+	}
+
+	s:STATE_Daoltiopp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x97EE01" "x8BE301"  }
+		}
+		
+		add_homeland = cu:theujthoih
+		
+	}
+
+	s:STATE_Tostalea = {
+		create_state = {
+			country = c:IST
+			owned_provinces = { "x8A9101"  }
+		}
+		
+		add_homeland = cu:istanzian
+		
+	}
+
+	s:STATE_Thead = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAD9501" "xE3B701"  }
+		}
+		
+		add_homeland = cu:quuhotheng
+		
+	}
+
+	s:STATE_Taujind = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB6BE01" "xA69A01"  }
+		}
+		
+		add_homeland = cu:phocith
+		add_homeland = cu:osrappa
+		
+	}
+
+	s:STATE_Phacust = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x45F701"  }
+		}
+		
+		add_homeland = cu:dein
+		
+	}
+
+	s:STATE_Tungie = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCB7201"  }
+		}
+		
+		add_homeland = cu:erdipp
+		
+	}
+
+	s:STATE_Thour = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC7BE01"  }
+		}
+		
+		add_homeland = cu:joibung
+		
+	}
+
+	s:STATE_Mausseang = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x39E701"  }
+		}
+		
+		add_homeland = cu:erbistre
+		
+	}
+
+	s:STATE_Staur = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEB3301"  }
+		}
+		
+		add_homeland = cu:stuob
+		
+	}
+
+	s:STATE_Thiud = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1D8501"  }
+		}
+		
+		add_homeland = cu:jeottailand
+		
+	}
+
+	s:STATE_Swocciland = {
+		create_state = {
+			country = c:SKN
+			owned_provinces = { "xC7AD01" }
+		}
+		
+		add_homeland = cu:skundlander
+		
+	}
+
+	s:STATE_Tachia = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAE6701" "x913101"  }
+		}
+		
+		add_homeland = cu:faig
+		
+	}
+
+	s:STATE_Umeppa = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x927C01"  }
+		}
+		
+		add_homeland = cu:dein
+		
+	}
+
+	s:STATE_Ajacce = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD3BF01"  }
+		}
+		
+		add_homeland = cu:ochtass
+		
+	}
+
+	s:STATE_Poupey = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x792101" "x7D0801"  }
+		}
+		
+		add_homeland = cu:shojuth
+		
+	}
+
+	s:STATE_Deettiopp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDC4301"  }
+		}
+		
+		add_homeland = cu:enasro
+		
+	}
+
+	s:STATE_Stoil = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x198301" "x0F8D01"  }
+		}
+		
+		add_homeland = cu:hoaport
+		
+	}
+
+	s:STATE_Theob = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x85C201" "x6BBD01"  }
+		}
+		
+		add_homeland = cu:attutte
+		
+	}
+
+	s:STATE_Shebwiland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x17C301"  }
+		}
+		
+		add_homeland = cu:dethikou
+		
+	}
+
+	s:STATE_Erterd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x355001" "x572901" "x634401"  }
+		}
+		
+		add_homeland = cu:stracuth
+		add_homeland = cu:staik
+		
+	}
+
+	s:STATE_Tuic = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x389401"  }
+		}
+		
+		add_homeland = cu:seurdaond
+		
+	}
+
+	s:STATE_Shehust = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x64DE01"  }
+		}
+		
+		add_homeland = cu:trihithistan
+		
+	}
+
+	s:STATE_Theic = {
+		create_state = {
+			country = c:ZEM
+			owned_provinces = { "x621901" }
+		}
+		
+		add_homeland = cu:sto_plainer
+		
+	}
+
+	s:STATE_Swerotheng = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x507601"  }
+		}
+		
+		add_homeland = cu:tethahaa
+		
+	}
+
+	s:STATE_Ottelt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF0DF01"  }
+		}
+		
+		add_homeland = cu:jaedaq
+		
+	}
+
+	s:STATE_Swejisturt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF73601"  }
+		}
+		
+		add_homeland = cu:stairstiek
+		
+	}
+
+	s:STATE_Soaj = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEA7701"  }
+		}
+		
+		add_homeland = cu:frimethird
+		
+	}
+
+	s:STATE_Seafjuag = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4BBE01"  }
+		}
+		
+		add_homeland = cu:uchustan
+		
+	}
+
+	s:STATE_Phechteland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x092D01" "x350801"  }
+		}
+		
+		add_homeland = cu:jaedaq
+		
+	}
+
+	s:STATE_Doos = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC63901"  }
+		}
+		
+		add_homeland = cu:kiobiq
+		
+	}
+
+	s:STATE_Egesri = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x51B801"  }
+		}
+		
+		add_homeland = cu:trihithistan
+		
+	}
+
+	s:STATE_Theor = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC3E601"  }
+		}
+		
+		add_homeland = cu:trobististan
+		
+	}
+
+	s:STATE_Frodostirt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x257701" "x214C01" "x088E01"  }
+		}
+		
+		add_homeland = cu:pheltend
+		add_homeland = cu:stoib
+		
+	}
+
+	s:STATE_Pseudopolis = {
+		create_state = {
+			country = c:PSE
+			owned_provinces = { "x7DAF01" "xEA5601" "xB94301"  }
+		}
+		
+		add_homeland = cu:pseudopolian
+		
+	}
+
+	s:STATE_Jaeropp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3D2601" "x2A0501"  }
+		}
+		
+		add_homeland = cu:phogotheng
+		
+	}
+
+	s:STATE_Shirtang = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD37F01" "xCC7201" "xE48701"  }
+		}
+		
+		add_homeland = cu:seestriord
+		
+	}
+
+	s:STATE_Udocha = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA91D01"  }
+		}
+		
+		add_homeland = cu:niajaland
+		
+	}
+
+	s:STATE_Traputh = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC77601"  }
+		}
+		
+		add_homeland = cu:uchustan
+		
+	}
+
+	s:STATE_Heandaird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x21B501" "x187101"  }
+		}
+		
+		add_homeland = cu:nastokou
+		
+	}
+
+	s:STATE_Ritrau = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE32E01" "xDA2501"  }
+		}
+		
+		add_homeland = cu:doagoss
+		
+	}
+
+	s:STATE_Gaobriiland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x450C01"  }
+		}
+		
+		add_homeland = cu:swefestupp
+		
+	}
+
+	s:STATE_Booltealt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5F9101"  }
+		}
+		
+		add_homeland = cu:laibeq
+		
+	}
+
+	s:STATE_Ingisho = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6ED701"  }
+		}
+		
+		add_homeland = cu:huichtoeland
+		
+	}
+
+	s:STATE_Arrocce = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDE5F01"  }
+		}
+		
+		add_homeland = cu:juujux
+		
+	}
+
+	s:STATE_Trandiss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6A9301" "x468601"  }
+		}
+		
+		add_homeland = cu:liij
+		
+	}
+
+	s:STATE_Fiuserd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6FEA01"  }
+		}
+		
+		add_homeland = cu:beupapp
+		
+	}
+
+	s:STATE_Strilostung = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD21501" "xBE0501"  }
+		}
+		
+		add_homeland = cu:berbeu
+		add_homeland = cu:ossecha
+		
+	}
+
+	s:STATE_Maissuustan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2B5101" "x565A01"  }
+		}
+		
+		add_homeland = cu:stracuth
+		
+	}
+
+	s:STATE_Mothifue = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE98D01"  }
+		}
+		
+		add_homeland = cu:theujthoih
+		
+	}
+
+	s:STATE_Ajirra = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1DE101"  }
+		}
+		
+		add_homeland = cu:faartialt
+		
+	}
+
+	s:STATE_Ottolte = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0D2101" "x260101"  }
+		}
+		
+		add_homeland = cu:dastuseu
+		
+	}
+
+	s:STATE_Stiuj = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x705B01"  }
+		}
+		
+		add_homeland = cu:jeushaert
+		
+	}
+
+	s:STATE_Phonmuss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x029301" "x249D01" "x2F8401"  }
+		}
+		
+		add_homeland = cu:ossecha
+		
+	}
+
+	s:STATE_Kuabey = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x60D301"  }
+		}
+		
+		add_homeland = cu:erbistre
+		
+	}
+
+	s:STATE_Thied = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3ED901"  }
+		}
+		
+		add_homeland = cu:nastihai
+		
+	}
+
+	s:STATE_Jaucceart = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7C1101" "xB32601" "x7B1A01" "x852601" "x710701" "xA11A01"  }
+		}
+		
+		add_homeland = cu:ombobru
+		add_homeland = cu:chunist
+		add_homeland = cu:tritterd
+		
+	}
+
+	s:STATE_Iquunga = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3B9301"  }
+		}
+		
+		add_homeland = cu:huichtoeland
+		
+	}
+
+	s:STATE_Fiokay = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x37C801"  }
+		}
+		
+		add_homeland = cu:tethahaa
+		
+	}
+
+	s:STATE_Mechtei = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAF0401"  }
+		}
+		
+		add_homeland = cu:faig
+		
+	}
+
+	s:STATE_Strimethort = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF6AD01"  }
+		}
+		
+		add_homeland = cu:frahoth
+		
+	}
+
+	s:STATE_Riutird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3DDD01" "x40E101"  }
+		}
+		
+		add_homeland = cu:tritterd
+		
+	}
+
+	s:STATE_Pharothert = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0A5801" "x146001"  }
+		}
+		
+		add_homeland = cu:justidua
+		
+	}
+
+	s:STATE_Heobuz = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE7B501"  }
+		}
+		
+		add_homeland = cu:beupapp
+		
+	}
+
+	s:STATE_Thiomstual = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x65FC01"  }
+		}
+		
+		add_homeland = cu:uchustan
+		
+	}
+
+	s:STATE_Suubruolt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x183701"  }
+		}
+		
+		add_homeland = cu:lailoq
+		
+	}
+
+	s:STATE_Bitrio = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x395801"  }
+		}
+		
+		add_homeland = cu:uchustan
+		
+	}
+
+	s:STATE_Tethocau = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x607401"  }
+		}
+		
+		add_homeland = cu:faig
+		
+	}
+
+	s:STATE_Seichieland = {
+		create_state = {
+			country = c:SKN
+			owned_provinces = { "x791301"  }
+		}
+		
+		add_homeland = cu:skundlander
+		
+	}
+
+	s:STATE_Oquabwu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x07FD01"  }
+		}
+		
+		add_homeland = cu:chibast
+		
+	}
+
+	s:STATE_Foeh = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAF2801" "x9A2501" "x9E1D01" "xDA1501" "xD91101"  }
+		}
+		
+		add_homeland = cu:quuchtond
+		add_homeland = cu:phocith
+		add_homeland = cu:reudang
+		
+	}
+
+	s:STATE_Engusro = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE2A701" "xA3DC01" "xA9AB01" "xB0A701" }
+		}
+		
+		add_homeland = cu:kuisaq
+		add_homeland = cu:kiobiq
+		
+	}
+
+	s:STATE_Eccisra = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x49DC01" "x5BF301" "x5FEC01"  }
+		}
+		
+		add_homeland = cu:mearteond
+		
+	}
+
+	s:STATE_Stoan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6C4001"  }
+		}
+		
+		add_homeland = cu:dein
+		
+	}
+
+	s:STATE_Miedoz = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x316F01"  }
+		}
+		
+		add_homeland = cu:jiambiard
+		
+	}
+
+	s:STATE_Moakax = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBAA701"  }
+		}
+		
+		add_homeland = cu:jeottailand
+		
+	}
+
+	s:STATE_Ogucco = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x33E601" "x58EA01" "x2FF801" "x67F201" "x76ED01" "x77F201" "x61D301"  }
+		}
+		
+		add_homeland = cu:urrord
+		add_homeland = cu:toujez
+		add_homeland = cu:muad
+		
+	}
+
+	s:STATE_Coonmiult = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x755C01"  }
+		}
+		
+		add_homeland = cu:hoaport
+		
+	}
+
+	s:STATE_Issiland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7A6A01" "x7AA301" "x70A701"  }
+		}
+		
+		add_homeland = cu:justidua
+		
+	}
+
+	s:STATE_Kothunia = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF0E601"  }
+		}
+		
+		add_homeland = cu:quupath
+		
+	}
+
+	s:STATE_Sochtea = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA12B01"  }
+		}
+		
+		add_homeland = cu:huichtoeland
+		
+	}
+
+	s:STATE_Guthimee = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x19E301"  }
+		}
+		
+		add_homeland = cu:tethahaa
+		
+	}
+
+	s:STATE_Heedix = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x431B01"  }
+		}
+		
+		add_homeland = cu:inmotre
+		
+	}
+
+	s:STATE_Quarrurt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8EA701" "x889001"  }
+		}
+		
+		add_homeland = cu:swefestupp
+		
+	}
+
+	s:STATE_Bainguilt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4BDF01"  }
+		}
+		
+		add_homeland = cu:jeottailand
+		
+	}
+
+	s:STATE_Rouchaestan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8A5C01"  }
+		}
+		
+		add_homeland = cu:justidua
+		
+	}
+
+	s:STATE_Trogoth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA59C01"  }
+		}
+		
+		add_homeland = cu:stoib
+		
+	}
+
+	s:STATE_Arrango = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x347701" "x5D7401" "x52BC01" "x2A9801"  }
+		}
+		
+		add_homeland = cu:nastihai
+		add_homeland = cu:mearteond
+		
+	}
+
+	s:STATE_Suekond = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD7F301"  }
+		}
+		
+		add_homeland = cu:dastuseu
+		
+	}
+
+	s:STATE_Phisrult = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2A1A01"  }
+		}
+		
+		add_homeland = cu:uningo
+		
+	}
+
+	s:STATE_Stooj = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x621E01"  }
+		}
+		
+		add_homeland = cu:fathoduu
+		
+	}
+
+	s:STATE_Ebwert = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6EA001" "x44C301"  }
+		}
+		
+		add_homeland = cu:pheltend
+		add_homeland = cu:stoib
+		
+	}
+
+	s:STATE_Neug = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8CF401"  }
+		}
+		
+		add_homeland = cu:ombobru
+		
+	}
+
+	s:STATE_Quibriland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x994901"  }
+		}
+		
+		add_homeland = cu:uchustan
+		
+	}
+
+	s:STATE_Meer = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBEED01"  }
+		}
+		
+		add_homeland = cu:pheltend
+		
+	}
+
+	s:STATE_Igilti = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9F8801"  }
+		}
+		
+		add_homeland = cu:pheltend
+		
+	}
+
+	s:STATE_Stroluth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB7F201" "xDEF901"  }
+		}
+		
+		add_homeland = cu:reudang
+		
+	}
+
+	s:STATE_Siag = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x062F01"  }
+		}
+		
+		add_homeland = cu:ochtass
+		
+	}
+
+	s:STATE_Maiteland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB89401"  }
+		}
+		
+		add_homeland = cu:jiem
+		
+	}
+
+	s:STATE_Utrarbo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF59F01"  }
+		}
+		
+		add_homeland = cu:dastuseu
+		
+	}
+
+	s:STATE_Cairruupp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA93A01"  }
+		}
+		
+		add_homeland = cu:joibung
+		
+	}
+
+	s:STATE_Stios = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x542C01"  }
+		}
+		
+		add_homeland = cu:laibeq
+		
+	}
+
+	s:STATE_Destirei = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x818F01" "x6F7201"  }
+		}
+		
+		add_homeland = cu:tethahaa
+		
+	}
+
+	s:STATE_Poabiq = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x77E901"  }
+		}
+		
+		add_homeland = cu:uningo
+		
+	}
+
+	s:STATE_Shefuthquesast = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC02E01"  }
+		}
+		
+		add_homeland = cu:jiem
+		
+	}
+
+	s:STATE_Trurost = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAE9301"  }
+		}
+		
+		add_homeland = cu:justidua
+		
+	}
+
+	s:STATE_Orbuss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDB9701"  }
+		}
+		
+		add_homeland = cu:quombipp
+		
+	}
+
+	s:STATE_Maccoe = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x46F701"  }
+		}
+		
+		add_homeland = cu:jiambiard
+		
+	}
+
+	s:STATE_Steec = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD65101"  }
+		}
+		
+		add_homeland = cu:distufuu
+		
+	}
+
+	s:STATE_Luthifou = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x368501"  }
+		}
+		
+		add_homeland = cu:erbistre
+		
+	}
+
+	s:STATE_Mouccauland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x00A001"  }
+		}
+		
+		add_homeland = cu:justidua
+		
+	}
+
+	s:STATE_Shepast = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x802301"  }
+		}
+		
+		add_homeland = cu:chomast
+		
+	}
+
+	s:STATE_Swirdoland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1A2001"  }
+		}
+		
+		add_homeland = cu:uchustan
+		
+	}
+
+	s:STATE_Tuamend = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x656401"  }
+		}
+		
+		add_homeland = cu:trihithistan
+		
+	}
+
+	s:STATE_Siiltiilt = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "x0AD601"  }
+		}
+		
+		add_homeland = cu:klatchian
+		
+	}
+
+	s:STATE_Meukeng = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA8B201"  }
+		}
+		
+		add_homeland = cu:endonmu
+		
+	}
+
+	s:STATE_Jaunez = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x10EF01"  }
+		}
+		
+		add_homeland = cu:baechiupp
+		
+	}
+
+	s:STATE_Baug = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDD1901" "xCF3701"  }
+		}
+		
+		add_homeland = cu:frahoth
+		
+	}
+
+	s:STATE_Stoag = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF66D01"  }
+		}
+		
+		add_homeland = cu:ossecha
+		
+	}
+
+	s:STATE_Kiasay = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x442E01"  }
+		}
+		
+		add_homeland = cu:quulath
+		
+	}
+
+	s:STATE_Tustajie = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0F6701"  }
+		}
+		
+		add_homeland = cu:jiambiard
+		
+	}
+
+	s:STATE_Mestodei = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1FAC01" "x0ACF01" "x05C401"  }
+		}
+		
+		add_homeland = cu:distufuu
+		
+	}
+
+	s:STATE_Achilt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x340101" "x591601"  }
+		}
+		
+		add_homeland = cu:baechiupp
+		
+	}
+
+	s:STATE_Efusro = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x798801"  }
+		}
+		
+		add_homeland = cu:jiem
+		
+	}
+
+	s:STATE_Strojuth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x59EB01"  }
+		}
+		
+		add_homeland = cu:dethikou
+		
+	}
+
+	s:STATE_Onicca = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE6FD01"  }
+		}
+		
+		add_homeland = cu:quodistapp
+		
+	}
+
+	s:STATE_Noappourd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDC4401"  }
+		}
+		
+		add_homeland = cu:enasro
+		
+	}
+
+	s:STATE_Charost = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDB5401"  }
+		}
+		
+		add_homeland = cu:frefistestan
+		
+	}
+
+	s:STATE_Caisuss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB6B001"  }
+		}
+		
+		add_homeland = cu:frefistestan
+		
+	}
+
+	s:STATE_Stritath = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC70201"  }
+		}
+		
+		add_homeland = cu:nastihai
+		
+	}
+
+	s:STATE_Ciaralt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x365201" "x003C01" "x3A3401"  }
+		}
+		
+		add_homeland = cu:frahoth
+		add_homeland = cu:fathoduu
+		
+	}
+
+	s:STATE_Ahembe = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDE5D01" "xDD6701"  }
+		}
+		
+		add_homeland = cu:justidua
+		
+	}
+
+	s:STATE_Faak = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCF9E01" "xCEB201" "xD1A401"  }
+		}
+		
+		add_homeland = cu:gothacie
+		
+	}
+
+	s:STATE_Jertao = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x77EE01" "xC2D901" }
+		}
+		
+		add_homeland = cu:gaisaland
+		
+	}
+
+	s:STATE_Frecath = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9D2501"  }
+		}
+		
+		add_homeland = cu:quuhotheng
+		
+	}
+
+	s:STATE_Jothapoi = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x80A201"  }
+		}
+		
+		add_homeland = cu:kiobiq
+		
+	}
+
+	s:STATE_Hirrii = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA1F901"  }
+		}
+		
+		add_homeland = cu:erdipp
+		
+	}
+
+	s:STATE_Obrart = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x995801" "x966B01"  }
+		}
+		
+		add_homeland = cu:altustan
+		
+	}
+
+	s:STATE_Kuthelai = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAB9001"  }
+		}
+		
+		add_homeland = cu:justidua
+		
+	}
+
+	s:STATE_Anmabwe = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3C0A01" "x4B0F01"  }
+		}
+		
+		add_homeland = cu:chabrord
+		
+	}
+
+	s:STATE_Hiobwierd = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "x335201" "x1F2601"  }
+		}
+		
+		add_homeland = cu:klatchian
+		
+	}
+
+	s:STATE_Rothidei = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x267C01" "x369801"  }
+		}
+		
+		add_homeland = cu:irenzo
+		
+	}
+
+	s:STATE_Chehuth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x37E701" "x60BA01"  }
+		}
+		
+		add_homeland = cu:seestriord
+		add_homeland = cu:irenzo
+		
+	}
+
+	s:STATE_Stoif = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x891D01" "x832401"  }
+		}
+		
+		add_homeland = cu:quodistapp
+		
+	}
+
+	s:STATE_Suetaz = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x485701"  }
+		}
+		
+		add_homeland = cu:ochtass
+		
+	}
+
+	s:STATE_Cuanzealt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x466001"  }
+		}
+		
+		add_homeland = cu:jaedaq
+		
+	}
+
+	s:STATE_Puifeng = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7AA501" "x9EA301"  }
+		}
+		
+		add_homeland = cu:liij
+		
+	}
+
+	s:STATE_Achoqua = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x81DA01" "x59F601"  }
+		}
+		
+		add_homeland = cu:stuob
+		add_homeland = cu:raumung
+		
+	}
+
+	s:STATE_Soiralt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6D4001"  }
+		}
+		
+		add_homeland = cu:ortonmo
+		
+	}
+
+	s:STATE_Swefitholt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7D9901"  }
+		}
+		
+		add_homeland = cu:jaedaq
+		
+	}
+
+	s:STATE_Thaaf = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB70501"  }
+		}
+		
+		add_homeland = cu:erdipp
+		
+	}
+
+	s:STATE_Dunmea = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x927201" "x994D01"  }
+		}
+		
+		add_homeland = cu:quuchtond
+		add_homeland = cu:jiambiard
+		
+	}
+
+	s:STATE_Goac = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x248101"  }
+		}
+		
+		add_homeland = cu:ibrustan
+		
+	}
+
+	s:STATE_Duec = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x377E01"  }
+		}
+		
+		add_homeland = cu:ortonmo
+		
+	}
+
+	s:STATE_Beenend = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "x15C001"  }
+		}
+		
+		add_homeland = cu:klatchian
+		
+	}
+
+	s:STATE_Irdashu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x032E01"  }
+		}
+		
+		add_homeland = cu:berbeu
+		
+	}
+
+	s:STATE_Unzing = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4B7B01"  }
+		}
+		
+		add_homeland = cu:theujthoih
+		
+	}
+
+	s:STATE_Chadistend = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x79D901"  }
+		}
+		
+		add_homeland = cu:osrindi
+		
+	}
+
+	s:STATE_Lower_Sto_Plains = {
+		create_state = {
+			country = c:STQ
+			owned_provinces = { "x1AEF01" }
+		}
+		create_state = {
+			country = c:STK
+			owned_provinces = { "x75CEC4" }
+		}
+		create_state = {
+			country = c:STH
+			owned_provinces = { "x8CCE61"}
+		}
+		create_state = {
+			country = c:STM
+			owned_provinces = { "xDB9701"}
+		}
+		create_state = {
+			country = c:STN
+			owned_provinces = { "x918042"}
+		}
+		
+		add_homeland = cu:sto_plainer
+		
+	}
+
+	s:STATE_Fethofoi = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x240901"  }
+		}
+		
+		add_homeland = cu:uningo
+		
+	}
+
+	s:STATE_Doltio = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD64501"  }
+		}
+		
+		add_homeland = cu:endonmu
+		
+	}
+
+	s:STATE_Strondend = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF37201"  }
+		}
+		
+		add_homeland = cu:attutte
+		
+	}
+
+	s:STATE_Trardiss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE89D01"  }
+		}
+		
+		add_homeland = cu:paitiq
+		
+	}
+
+	s:STATE_Ceasoz = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBA0901"  }
+		}
+		
+		add_homeland = cu:endonmu
+		
+	}
+
+	s:STATE_Asesre = {
+		create_state = {
+			country = c:BCG
+			owned_provinces = { "xC07801" }
+		}
+		create_state = {
+			country = c:STE
+			owned_provinces = { "x8D5301" }
+		}
+		create_state = {
+			country = c:STR
+			owned_provinces = { "xA3824E" }
+		}
+		
+		add_homeland = cu:sto_plainer
+		
+	}
+
+	s:STATE_Neoc = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x287101"  }
+		}
+		
+		add_homeland = cu:stairstiek
+		
+	}
+
+	s:STATE_Luunduepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCDC801" "xD7C401"  }
+		}
+		
+		add_homeland = cu:jaedaq
+		add_homeland = cu:altustan
+		
+	}
+
+	s:STATE_Ankh = {
+		create_state = {
+			country = c:AMP
+			owned_provinces = { "x6F3A01" "x0E7701" }
+		}
+		
+		add_homeland = cu:morporkian
+		
+	}
+
+	s:STATE_Oluque = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9D8401"  }
+		}
+		
+		add_homeland = cu:stoib
+		
+	}
+
+	s:STATE_Maehey = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7BA101"  }
+		}
+		
+		add_homeland = cu:quuhotheng
+		
+	}
+
+	s:STATE_Ebwing = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7C1A01"  }
+		}
+		
+		add_homeland = cu:onastro
+		
+	}
+
+	s:STATE_Mustekuu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC95C01"  }
+		}
+		
+		add_homeland = cu:chomast
+		
+	}
+
+	s:STATE_Thuat = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAD9701" "xB19A01"  }
+		}
+		
+		add_homeland = cu:altustan
+		add_homeland = cu:chabrord
+		
+	}
+
+	s:STATE_Jingao = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA8F501" "xB7D301" "xAAF801" "xB9FD01"  }
+		}
+		
+		add_homeland = cu:osrindi
+		
+	}
+
+	s:STATE_Shofestalt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x621801" "x744401"  }
+		}
+		
+		add_homeland = cu:quuhotheng
+		
+	}
+
+	s:STATE_Artushi = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA75901" "x979201" "xE18101"  }
+		}
+		
+		add_homeland = cu:jeottailand
+		
+	}
+
+	s:STATE_Trobostshepest = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x66DD01"  }
+		}
+		
+		add_homeland = cu:beupapp
+		
+	}
+
+	s:STATE_Poimard = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC97201"  }
+		}
+		
+		add_homeland = cu:erdipp
+		
+	}
+
+	s:STATE_Moec = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC69B01"  }
+		}
+		
+		add_homeland = cu:osrindi
+		
+	}
+
+	s:STATE_Ippasro = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBB0101"  }
+		}
+		
+		add_homeland = cu:beupapp
+		
+	}
+
+	s:STATE_Ejisse = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4E2101"  }
+		}
+		
+		add_homeland = cu:pheltend
+		
+	}
+
+	s:STATE_Theicthead = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x507401"  }
+		}
+		
+		add_homeland = cu:mithikie
+		
+	}
+
+	s:STATE_Taanguond = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x22AC01"  }
+		}
+		
+		add_homeland = cu:jaedaq
+		
+	}
+
+	s:STATE_StoLat = {
+		create_state = {
+			country = c:STL
+			owned_provinces = { "x42C301"  }
+		}
+		
+		add_homeland = cu:sto_plainer
+		
+	}
+
+	s:STATE_Otorri = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x730801"  }
+		}
+		
+		add_homeland = cu:joibung
+		
+	}
+
+	s:STATE_Echerda = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x46BF01"  }
+		}
+		
+		add_homeland = cu:ibrustan
+		
+	}
+
+	s:STATE_Maudestan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x41DE01" "x78F601"  }
+		}
+		
+		add_homeland = cu:swefestupp
+		add_homeland = cu:huichtoeland
+		
+	}
+
+	s:STATE_Kuepend = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD21F01"  }
+		}
+		
+		add_homeland = cu:onastro
+		
+	}
+
+	s:STATE_Ushistan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x392701"  }
+		}
+		
+		add_homeland = cu:inzinga
+		
+	}
+
+	s:STATE_Reshoa = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDA9501" "xE17C01"  }
+		}
+		
+		add_homeland = cu:osrindi
+		add_homeland = cu:unmishu
+		
+	}
+
+	s:STATE_Swanast = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD0CE01" "xDDCF01"  }
+		}
+		
+		add_homeland = cu:ingelandusrass
+		
+	}
+
+	s:STATE_Meambeart = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x02AD01"  }
+		}
+		
+		add_homeland = cu:tethahaa
+		
+	}
+
+	s:STATE_Fiilult = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x09AB01" "x1FD101"  }
+		}
+		
+		add_homeland = cu:osrindi
+		add_homeland = cu:quodistapp
+		
+	}
+
+	s:STATE_Ichoche = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x86C701"  }
+		}
+		
+		add_homeland = cu:jiambiard
+		
+	}
+
+	s:STATE_Maitriapp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA20101" "xB02F01" "xD74801" "xD11901"  }
+		}
+		
+		add_homeland = cu:hael
+		add_homeland = cu:chabrord
+		
+	}
+
+	s:STATE_Strocuth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7F4A01"  }
+		}
+		
+		add_homeland = cu:jaedaq
+		
+	}
+
+	s:STATE_Ultung = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB29B01"  }
+		}
+		
+		add_homeland = cu:tritterd
+		
+	}
+
+	s:STATE_Iquilt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9BD801"  }
+		}
+		
+		add_homeland = cu:biccuo
+		
+	}
+
+	s:STATE_Anzeland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCC4101"  }
+		}
+		
+		add_homeland = cu:seurdaond
+		
+	}
+
+	s:STATE_Stoojsteis = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDC4A01"  }
+		}
+		
+		add_homeland = cu:ortonmo
+		
+	}
+
+	s:STATE_Oltepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCDA801" "xAE8F01"  }
+		}
+		
+		add_homeland = cu:uningo
+		
+	}
+
+	s:STATE_Ceossuastan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x00FD01"  }
+		}
+		
+		add_homeland = cu:erdipp
+		
+	}
+
+	s:STATE_Nithucaa = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE52901"  }
+		}
+		
+		add_homeland = cu:ossecha
+		
+	}
+
+	s:STATE_Isarda = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF7D501"  }
+		}
+		
+		add_homeland = cu:erdipp
+		
+	}
+
+	s:STATE_Artird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x34D701"  }
+		}
+		
+		add_homeland = cu:geefiy
+		
+	}
+
+	s:STATE_Daibweort = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x242801" "x213D01" "x083A01" "x1E0601"  }
+		}
+		
+		add_homeland = cu:kuisaq
+		add_homeland = cu:paitiq
+		add_homeland = cu:chomast
+		
+	}
+
+	s:STATE_Quenzeng = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD75701"  }
+		}
+		
+		add_homeland = cu:mithikie
+		
+	}
+
+	s:STATE_Hethafou = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8F8801"  }
+		}
+		
+		add_homeland = cu:toujez
+		
+	}
+
+	s:STATE_Ishipp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD3C001"  }
+		}
+		
+		add_homeland = cu:justidua
+		
+	}
+
+	s:STATE_Phuhest = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8F1901"  }
+		}
+		
+		add_homeland = cu:enasro
+		
+	}
+
+	s:STATE_Stiosthiep = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "x892801"  }
+		}
+		
+		add_homeland = cu:klatchian
+		
+	}
+
+	s:STATE_Saarbiiss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x91BC01"  }
+		}
+		
+		add_homeland = cu:tethahaa
+		
+	}
+
+	s:STATE_Tregathepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB11901" "x943401"  }
+		}
+		
+		add_homeland = cu:dethikou
+		
+	}
+
+	s:STATE_Ubacci = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAA5101"  }
+		}
+		
+		add_homeland = cu:inmotre
+		
+	}
+
+	s:STATE_Steotthuus = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3E6901"  }
+		}
+		
+		add_homeland = cu:quulath
+		
+	}
+
+	s:STATE_Quodathaland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x78C901"  }
+		}
+		
+		add_homeland = cu:chunist
+		
+	}
+
+	s:STATE_Diusheoss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4DFA01"  }
+		}
+		
+		add_homeland = cu:theujthoih
+		
+	}
+
+	s:STATE_Onzuque = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0F5001" "x255101"  }
+		}
+		
+		add_homeland = cu:distufuu
+		
+	}
+
+	s:STATE_Restudee = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x438401"  }
+		}
+		
+		add_homeland = cu:mearteond
+		
+	}
+
+	s:STATE_Kaoduy = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x93B801"  }
+		}
+		
+		add_homeland = cu:staik
+		
+	}
+
+	s:STATE_Noshou = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7ACE01"  }
+		}
+		
+		add_homeland = cu:osrappa
+		
+	}
+
+	s:STATE_Tribrord = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7C5E01"  }
+		}
+		
+		add_homeland = cu:hoaport
+		
+	}
+
+	s:STATE_Bashua = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2D7001"  }
+		}
+		
+		add_homeland = cu:joibung
+		
+	}
+
+	s:STATE_Muosuy = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB80E01"  }
+		}
+		
+		add_homeland = cu:dastuseu
+		
+	}
+
+	s:STATE_Thuof = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x178401"  }
+		}
+		
+		add_homeland = cu:tethahaa
+		
+	}
+
+	s:STATE_Phostrapp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2C2C01" "x180901" "x052301" "x070901"  }
+		}
+		
+		add_homeland = cu:justidua
+		add_homeland = cu:osrindi
+		
+	}
+
+	s:STATE_Mustimai = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD05B01"  }
+		}
+		
+		add_homeland = cu:endonmu
+		
+	}
+
+	s:STATE_Froshult = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0D9B01"  }
+		}
+		
+		add_homeland = cu:niajaland
+		
+	}
+
+	s:STATE_Giagneal = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE1DB01"  }
+		}
+		
+		add_homeland = cu:beupapp
+		
+	}
+
+	s:STATE_Aporbo = {
+		create_state = {
+			country = c:IST
+			owned_provinces = { "xEE1601"  }
+		}
+		
+		add_homeland = cu:istanzian
+		
+	}
+
+	s:STATE_Eltilt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x389501"  }
+		}
+		
+		add_homeland = cu:dethikou
+		
+	}
+
+	s:STATE_Obwurta = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x368201"  }
+		}
+		
+		add_homeland = cu:uchustan
+		
+	}
+
+	s:STATE_Huchao = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x09E101"  }
+		}
+		
+		add_homeland = cu:niajaland
+		
+	}
+
+	s:STATE_Foetriupp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAA4A01"  }
+		}
+		
+		add_homeland = cu:stairstiek
+		
+	}
+
+	s:STATE_Stuas = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xFE6201"  }
+		}
+		
+		add_homeland = cu:faig
+		
+	}
+
+	s:STATE_Quushand = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9EE401"  }
+		}
+		
+		add_homeland = cu:ingelandusrass
+		
+	}
+
+	s:STATE_Liissoapp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAC3501"  }
+		}
+		
+		add_homeland = cu:juujux
+		
+	}
+
+	s:STATE_Fristring = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x07B401"  }
+		}
+		
+		add_homeland = cu:osrappa
+		
+	}
+
+	s:STATE_Moochuiland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC8B301" "xEBC001"  }
+		}
+		
+		add_homeland = cu:chunist
+		
+	}
+
+	s:STATE_Theuj = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBD0A01"  }
+		}
+		
+		add_homeland = cu:endonmu
+		
+	}
+
+	s:STATE_Phepost = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2C2F01"  }
+		}
+		
+		add_homeland = cu:staik
+		
+	}
+
+	s:STATE_Jorrai = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x636C01"  }
+		}
+		
+		add_homeland = cu:liij
+		
+	}
+
+	s:STATE_Goeh = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x729201"  }
+		}
+		
+		add_homeland = cu:trihithistan
+		
+	}
+
+	s:STATE_Ajatra = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "x695801"  }
+		}
+		
+		add_homeland = cu:klatchian
+		
+	}
+
+	s:STATE_Ruar = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCF5901" "xA44C01"  }
+		}
+		
+		add_homeland = cu:unmishu
+		add_homeland = cu:quodistapp
+		
+	}
+
+	s:STATE_Fastotei = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x65B201"  }
+		}
+		
+		add_homeland = cu:ochtass
+		
+	}
+
+	s:STATE_Ifostre = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x86E601" "x71FD01"  }
+		}
+		
+		add_homeland = cu:reesrault
+		add_homeland = cu:nastihai
+		
+	}
+
+	s:STATE_Swaccand = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDC3301"  }
+		}
+		
+		add_homeland = cu:pheltend
+		
+	}
+
+	s:STATE_Fripping = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x352601"  }
+		}
+		
+		add_homeland = cu:joibung
+		
+	}
+
+	s:STATE_Ombestan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x01B601"  }
+		}
+		
+		add_homeland = cu:bustufei
+		
+	}
+
+	s:STATE_Risrua = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "x3D0E01"  }
+		}
+		
+		add_homeland = cu:klatchian
+		
+	}
+
+	s:STATE_Taag = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x11BB01"  }
+		}
+		
+		add_homeland = cu:distufuu
+		
+	}
+
+	s:STATE_Buustriert = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5A2501"  }
+		}
+		
+		add_homeland = cu:chibast
+		
+	}
+
+	s:STATE_Dambuu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x556101"  }
+		}
+		
+		add_homeland = cu:tritterd
+		
+	}
+
+	s:STATE_Mebroi = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x488501" "x1B6501"  }
+		}
+		
+		add_homeland = cu:theujthoih
+		
+	}
+
+	s:STATE_Leurdiass = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x89CF01"  }
+		}
+		
+		add_homeland = cu:pheltend
+		
+	}
+
+	s:STATE_Rithireu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x971401" "x9D3B01" "x790B01" "x7B1001"  }
+		}
+		
+		add_homeland = cu:mithikie
+		
+	}
+
+	s:STATE_Jathusoi = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x764701"  }
+		}
+		
+		add_homeland = cu:berbeu
+		
+	}
+
+	s:STATE_Ardastan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x728A01"  }
+		}
+		
+		add_homeland = cu:chunist
+		
+	}
+
+	s:STATE_Dethusia = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2FCC01"  }
+		}
+		
+		add_homeland = cu:riip
+		
+	}
+
+	s:STATE_Phibross = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE31C01" "xD82801"  }
+		}
+		
+		add_homeland = cu:stuob
+		add_homeland = cu:unmishu
+		
+	}
+
+	s:STATE_Soamilt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD39001"  }
+		}
+		
+		add_homeland = cu:uchustan
+		
+	}
+
+	s:STATE_Stresholand = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x03D901"  }
+		}
+		
+		add_homeland = cu:niajaland
+		
+	}
+
+	s:STATE_Teuteng = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x233601" "x241801" "x0A4C01" "x152A01"  }
+		}
+		
+		add_homeland = cu:stoed
+		
+	}
+
+	s:STATE_Juihiq = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x899B01"  }
+		}
+		
+		add_homeland = cu:distufuu
+		
+	}
+
+	s:STATE_Chirm = {
+		create_state = {
+			country = c:CHR
+			owned_provinces = { "xEAB001"  }
+		}
+		
+		add_homeland = cu:sto_plainer
+		
+	}
+
+	s:STATE_Staef = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x992601" "x871A01"  }
+		}
+		
+		add_homeland = cu:reudang
+		
+	}
+
+	s:STATE_Hoijard = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = {"xC05E01"  }
+		}
+		
+		add_homeland = cu:uningo
+		
+	}
+
+	s:STATE_Goegux = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD5AA01" "xDC9701"  }
+		}
+		
+		add_homeland = cu:erdipp
+		
+	}
+
+	s:STATE_Reekux = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD3F901"  }
+		}
+		
+		add_homeland = cu:theujthoih
+		
+	}
+
+	s:STATE_Theit = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAE4B01"  }
+		}
+		
+		add_homeland = cu:tethahaa
+		
+	}
+
+	s:STATE_Kookind = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x646E01"  }
+		}
+		
+		add_homeland = cu:jaedaq
+		
+	}
+
+	s:STATE_Swerastirt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5DC101"  }
+		}
+		
+		add_homeland = cu:kastahie
+		
+	}
+
+	s:STATE_Meetraass = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x76FE01"  }
+		}
+		
+		add_homeland = cu:trihithistan
+		
+	}
+
+	s:STATE_Rathubaa = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5A5601" "x412B01" "x4B3901"  }
+		}
+		
+		add_homeland = cu:baechiupp
+		
+	}
+
+	s:STATE_Chabwung = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x54AC01" "x576B01"  }
+		}
+		
+		add_homeland = cu:swefestupp
+		
+	}
+
+	s:STATE_Shifost = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x87DD01"  }
+		}
+		
+		add_homeland = cu:laibeq
+		
+	}
+
+	s:STATE_Suetgout = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "x6AAA01"  }
+		}
+		
+		add_homeland = cu:klatchian
+		
+	}
+
+	s:STATE_Stuut = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4BE601" "x4DD501"  }
+		}
+		
+		add_homeland = cu:riip
+		
+	}
+
+	s:STATE_Giiluy = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5F4601"  }
+		}
+		
+		add_homeland = cu:quulath
+		
+	}
+
+	s:STATE_Soeshuirt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9EEE01"  }
+		}
+		
+		add_homeland = cu:erbistre
+		
+	}
+
+	s:STATE_Unzurd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x972101"  }
+		}
+		
+		add_homeland = cu:raumung
+		
+	}
+
+	s:STATE_Jaltie = {
+		create_state = {
+			country = c:IST
+			owned_provinces = { "x7B2401" "xA62C01"  }
+		}
+		
+		add_homeland = cu:istanzian
+		
+	}
+
+	s:STATE_Phitath = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x218201" "x086401"  }
+		}
+		
+		add_homeland = cu:phocith
+		add_homeland = cu:toujez
+		
+	}
+
+	s:STATE_Phumothess = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x668F01"  }
+		}
+		
+		add_homeland = cu:ochtass
+		
+	}
+
+	s:STATE_Tattii = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0AED01" "x0BE801"  }
+		}
+		
+		add_homeland = cu:huichtoeland
+		
+	}
+
+	s:STATE_Phikust = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x242F01" "x010601" "x131701" "x091601" "x001001" "x261F01"  }
+		}
+		
+		add_homeland = cu:ossorri
+		add_homeland = cu:trarruss
+		add_homeland = cu:toichtaurt
+		
+	}
+
+	s:STATE_Trutoth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x39CE01" "x5FFC01"  }
+		}
+		
+		add_homeland = cu:ingelandusrass
+		add_homeland = cu:liij
+		
+	}
+
+	s:STATE_Osresro = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x511501" "x565201"  }
+		}
+		
+		add_homeland = cu:stuob
+		add_homeland = cu:peenmaapp
+		
+	}
+
+	s:STATE_Quettilt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD26E01" "xE45A01"  }
+		}
+		
+		add_homeland = cu:peenmaapp
+		
+	}
+
+	s:STATE_Hienuy = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF67C01" "xF08101" "xFA7401"  }
+		}
+		
+		add_homeland = cu:reesrault
+		add_homeland = cu:stoib
+		
+	}
+
+	s:STATE_Beokeq = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA4CC01"  }
+		}
+		
+		add_homeland = cu:osrappa
+		
+	}
+
+	s:STATE_Muem = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE55F01"  }
+		}
+		
+		add_homeland = cu:dethikou
+		
+	}
+
+	s:STATE_Fuunmaistan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x348301" "x117101"  }
+		}
+		
+		add_homeland = cu:altustan
+		add_homeland = cu:strekistirt
+		
+	}
+
+	s:STATE_Huuqueapp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD53901" "xCE0601"  }
+		}
+		
+		add_homeland = cu:theujthoih
+		
+	}
+
+	s:STATE_Chettort = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x654A01" "x702401"  }
+		}
+		
+		add_homeland = cu:ingelandusrass
+		
+	}
+
+	s:STATE_Ifutri = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x885001"  }
+		}
+		
+		add_homeland = cu:faartialt
+		
+	}
+
+	s:STATE_Uchtoqua = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x68AF01" "x56BA01"  }
+		}
+		
+		add_homeland = cu:shojuth
+		
+	}
+
+	s:STATE_Hochei = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x91DF01"  }
+		}
+		
+		add_homeland = cu:dethikou
+		
+	}
+
+	s:STATE_Geisruard = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x714901"  }
+		}
+		
+		add_homeland = cu:erdipp
+		
+	}
+
+	s:STATE_Ochostan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCB5401"  }
+		}
+		
+		add_homeland = cu:staik
+		
+	}
+
+	s:STATE_Futtou = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB6BF01"  }
+		}
+		
+		add_homeland = cu:beupapp
+		
+	}
+
+	s:STATE_Trorreng = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xACEB01"  }
+		}
+		
+		add_homeland = cu:niajaland
+		
+	}
+
+	s:STATE_Hoaquaard = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDD0F01" "xDF5101"  }
+		}
+		
+		add_homeland = cu:faig
+		add_homeland = cu:uningo
+		
+	}
+
+	s:STATE_Staeg = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = {  "xBD8401" "x1C2901" }
+		}
+		
+		add_homeland = cu:stuob
+		
+	}
+	s:STATE_Strocust = {
+		create_state = {
+			country = c:OMN
+			owned_provinces = { "x1A1201" "x918401" }
+		}
+		
+		add_homeland = cu:omnian
+		
+	}
+
+	s:STATE_Cuetolt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC1CF01" "xD2B801" "xA49F01"  }
+		}
+		
+		add_homeland = cu:trarruss
+		add_homeland = cu:trutrostan
+		
+	}
+
+	s:STATE_Joefistan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE31D01" "xF01B01"  }
+		}
+		
+		add_homeland = cu:quuchtond
+		add_homeland = cu:inzinga
+		
+	}
+
+	s:STATE_Steul = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x025D01"  }
+		}
+		
+		add_homeland = cu:uchustan
+		
+	}
+
+	s:STATE_Stuil = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF16301" "xD35B01"  }
+		}
+		
+		add_homeland = cu:tethahaa
+		
+	}
+
+	s:STATE_Shicoth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xFBB701"  }
+		}
+		
+		add_homeland = cu:inmotre
+		
+	}
+
+	s:STATE_Achtass = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x53B401"  }
+		}
+		
+		add_homeland = cu:onastro
+		
+	}
+
+	s:STATE_Deilang = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB53901"  }
+		}
+		
+		add_homeland = cu:ortonmo
+		
+	}
+
+	s:STATE_Trassustan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x595101" "x623501"  }
+		}
+		
+		add_homeland = cu:liij
+		
+	}
+
+	s:STATE_Ichirro = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9BD101" "x5CE301" "xA2E701"  }
+		}
+		
+		add_homeland = cu:quodistapp
+		add_homeland = cu:isrind
+		
+	}
+
+	s:STATE_Phenzung = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x963601"  }
+		}
+		
+		add_homeland = cu:staik
+		
+	}
+
+	s:STATE_Fracust = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7A8101" "x74AD01"  }
+		}
+		
+		add_homeland = cu:stiol
+		
+	}
+
+	s:STATE_Hairey = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x049F01"  }
+		}
+		
+		add_homeland = cu:hoaport
+		
+	}
+
+	s:STATE_Ipocca = {
+		create_state = {
+			country = c:SKN
+			owned_provinces = { "x5CF701"  }
+		}
+		
+		add_homeland = cu:skundlander
+		
+	}
+
+	s:STATE_Coel = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x291D01"  }
+		}
+		
+		add_homeland = cu:laibeq
+		
+	}
+
+	s:STATE_Ussabwu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x225E01"  }
+		}
+		
+		add_homeland = cu:inmotre
+		
+	}
+
+	s:STATE_Atrottu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x731601"  }
+		}
+		
+		add_homeland = cu:dethikou
+		
+	}
+
+	s:STATE_Achettu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x256301"  }
+		}
+		
+		add_homeland = cu:dethikou
+		
+	}
+
+	s:STATE_Titholuo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA48301"  }
+		}
+		
+		add_homeland = cu:pheltend
+		
+	}
+
+	s:STATE_Juukart = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xFAD301"  }
+		}
+		
+		add_homeland = cu:frefistestan
+		
+	}
+
+	s:STATE_Diotrualt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD79401"  }
+		}
+		
+		add_homeland = cu:osrindi
+		
+	}
+
+	s:STATE_Keurbaustan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3FEA01"  }
+		}
+		
+		add_homeland = cu:chunist
+		
+	}
+
+	s:STATE_Chapeth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF20F01"  }
+		}
+		
+		add_homeland = cu:doagoss
+		
+	}
+
+	s:STATE_Essult = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF27001" "xD36001"  }
+		}
+		
+		add_homeland = cu:juujux
+		
+	}
+
+	s:STATE_Huijustan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0B3B01"  }
+		}
+		
+		add_homeland = cu:dethikou
+		
+	}
+
+	s:STATE_Justrae = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xFB4101" "xD56101"  }
+		}
+		
+		add_homeland = cu:stairstiek
+		
+	}
+
+	s:STATE_Ajerto = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x739C01"  }
+		}
+		
+		add_homeland = cu:dastuseu
+		
+	}
+
+	s:STATE_Buachtiang = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA6B301"  }
+		}
+		
+		add_homeland = cu:dein
+		
+	}
+
+	s:STATE_Thain = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x833401"  }
+		}
+		
+		add_homeland = cu:tritterd
+		
+	}
+
+	s:STATE_Ebwurt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x098F01"  }
+		}
+		
+		add_homeland = cu:staik
+		
+	}
+
+	s:STATE_Puimux = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9CE501"  }
+		}
+		
+		add_homeland = cu:endonmu
+		
+	}
+
+	s:STATE_Koebwailt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9C3D01" "x833A01"  }
+		}
+		
+		add_homeland = cu:trarruss
+		add_homeland = cu:quulath
+		
+	}
+
+	s:STATE_Aquochu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x295C01"  }
+		}
+		
+		add_homeland = cu:frefistestan
+		
+	}
+
+	s:STATE_Swefast = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x429601"  }
+		}
+		
+		add_homeland = cu:juujux
+		
+	}
+
+	s:STATE_Ubweltu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x351B01"  }
+		}
+		
+		add_homeland = cu:phocith
+		
+	}
+
+	s:STATE_Anarta = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD47001"  }
+		}
+		
+		add_homeland = cu:tritterd
+		
+	}
+
+	s:STATE_Poefox = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x36B501"  }
+		}
+		
+		add_homeland = cu:stiol
+		
+	}
+
+	s:STATE_Duof = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7CFA01"  }
+		}
+		
+		add_homeland = cu:quuhotheng
+		
+	}
+
+	s:STATE_Erbalti = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3A1201"  }
+		}
+		
+		add_homeland = cu:trihithistan
+		
+	}
+
+	s:STATE_Nurrii = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD94901"  }
+		}
+		
+		add_homeland = cu:stuob
+		
+	}
+
+	s:STATE_Fostedie = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF87401"  }
+		}
+		
+		add_homeland = cu:jeottailand
+		
+	}
+
+	s:STATE_Riostrooss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE9C201"  }
+		}
+		
+		add_homeland = cu:doagoss
+		
+	}
+
+	s:STATE_Thieh = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCC1101"  }
+		}
+		
+		add_homeland = cu:onastro
+		
+	}
+
+	s:STATE_Gianird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3FA201"  }
+		}
+		
+		add_homeland = cu:ossecha
+		
+	}
+
+	s:STATE_Swostrong = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x992301"  }
+		}
+		
+		add_homeland = cu:ibrustan
+		
+	}
+
+	s:STATE_Ubwiltu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBD9801"  }
+		}
+		
+		add_homeland = cu:uchustan
+		
+	}
+
+	s:STATE_Ojaqui = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x79E601"  }
+		}
+		
+		add_homeland = cu:distufuu
+		
+	}
+
+	s:STATE_Stoaf = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4D0001"  }
+		}
+		
+		add_homeland = cu:dein
+		
+	}
+
+	s:STATE_Echturd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xACAA01"  }
+		}
+		
+		add_homeland = cu:staik
+		
+	}
+
+	s:STATE_Siig = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6A7801"  }
+		}
+		
+		add_homeland = cu:faig
+		
+	}
+
+	s:STATE_Chipist = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5DDB01"  }
+		}
+		
+		add_homeland = cu:jeottailand
+		
+	}
+
+	s:STATE_Quicceng = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC81F01"  }
+		}
+		
+		add_homeland = cu:lailoq
+		
+	}
+
+	s:STATE_Tiecheond = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "xBDB001"  }
+		}
+		
+		add_homeland = cu:klatchian
+		
+	}
+
+	s:STATE_Muattoeland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAAE901"  }
+		}
+		
+		add_homeland = cu:irenzo
+		
+	}
+
+	s:STATE_Cachoa = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF04201"  }
+		}
+		
+		add_homeland = cu:onastro
+		
+	}
+
+	s:STATE_Shumuth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x228F01" "x294B01"  }
+		}
+		
+		add_homeland = cu:distufuu
+		
+	}
+
+	s:STATE_Anmaquo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xFC9501"  }
+		}
+		
+		add_homeland = cu:shojuth
+		
+	}
+
+	s:STATE_Lausriurd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6AF001"  }
+		}
+		
+		add_homeland = cu:niajaland
+		
+	}
+
+	s:STATE_Shucuthert = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x827B01" "x725A01"  }
+		}
+		
+		add_homeland = cu:endonmu
+		
+	}
+
+	s:STATE_Nashio = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "x60C601"  }
+		}
+		
+		add_homeland = cu:klatchian
+		
+	}
+
+	s:STATE_Shonath = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD8DE01" "xFAE601" "xF6D601"  }
+		}
+		
+		add_homeland = cu:osrepp
+		
+	}
+
+	s:STATE_Thuum = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7C1201"  }
+		}
+		
+		add_homeland = cu:laibeq
+		
+	}
+
+	s:STATE_Swubast = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAE2B01"  }
+		}
+		
+		add_homeland = cu:osrindi
+		
+	}
+
+	s:STATE_Sairbeeng = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "x1BD201"  }
+		}
+		
+		add_homeland = cu:klatchian
+		
+	}
+
+	s:STATE_Beolex = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x145101"  }
+		}
+		
+		add_homeland = cu:onastro
+		
+	}
+
+	s:STATE_Paic = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x21A501" "x129A01" "x2B7701"  }
+		}
+		
+		add_homeland = cu:trarruss
+		add_homeland = cu:faig
+		
+	}
+
+	s:STATE_Thiaf = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9BDC01"  }
+		}
+		
+		add_homeland = cu:unmishu
+		
+	}
+
+	s:STATE_Trogithung = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x280601"  }
+		}
+		
+		add_homeland = cu:doagoss
+		
+	}
+
+	s:STATE_Stoifsteih = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA40C01" "x622D01"  }
+		}
+		
+		add_homeland = cu:justidua
+		
+	}
+
+	s:STATE_Stripothess = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x296E01"  }
+		}
+		
+		add_homeland = cu:faig
+		
+	}
+
+	s:STATE_Eppand = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE8B101"  }
+		}
+		
+		add_homeland = cu:stuob
+		
+	}
+
+	s:STATE_Hishee = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDEF401" "xEEEC01"  }
+		}
+		
+		add_homeland = cu:hoaport
+		
+	}
+
+	s:STATE_Cuuj = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCF3E01"  }
+		}
+		
+		add_homeland = cu:staik
+		
+	}
+
+	s:STATE_Thaig = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2CBD01"  }
+		}
+		
+		add_homeland = cu:staik
+		
+	}
+
+	s:STATE_Sworross = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD5E401"  }
+		}
+		
+		add_homeland = cu:riip
+		
+	}
+
+	s:STATE_Ordepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x816301" "xBF5201"  }
+		}
+		
+		add_homeland = cu:osrappa
+		
+	}
+
+	s:STATE_Stromithert = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x607701" "x84A301"  }
+		}
+		
+		add_homeland = cu:nastokou
+		
+	}
+
+	s:STATE_Saobong = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2EAC01"  }
+		}
+		
+		add_homeland = cu:stuob
+		
+	}
+
+	s:STATE_Thaok = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1A3701"  }
+		}
+		
+		add_homeland = cu:inmotre
+		
+	}
+
+	s:STATE_Noumbaostan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD37C01"  }
+		}
+		
+		add_homeland = cu:theujthoih
+		
+	}
+
+	s:STATE_Chekitherd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x86D901" "x65C201"  }
+		}
+		
+		add_homeland = cu:attutte
+		
+	}
+
+	s:STATE_Ondass = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF01001"  }
+		}
+		
+		add_homeland = cu:niajaland
+		
+	}
+
+	s:STATE_Thuurthouc = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5D3701"  }
+		}
+		
+		add_homeland = cu:strekistirt
+		
+	}
+
+	s:STATE_Rastamee = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x034C01" "x394F01"  }
+		}
+		
+		add_homeland = cu:bustufei
+		
+	}
+
+	s:STATE_Hultau = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD7AE01"  }
+		}
+		
+		add_homeland = cu:hoaport
+		
+	}
+
+	s:STATE_Raortaalt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA73E01"  }
+		}
+		
+		add_homeland = cu:tethahaa
+		
+	}
+
+	s:STATE_Fralistostan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7F8901"  }
+		}
+		
+		add_homeland = cu:baechiupp
+		
+	}
+
+	s:STATE_Assorru = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1B9101"  }
+		}
+		
+		add_homeland = cu:justidua
+		
+	}
+
+	s:STATE_Combaa = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA8D201"  }
+		}
+		
+		add_homeland = cu:shojuth
+		
+	}
+
+	s:STATE_Chamithart = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD12C01" "xE11A01" "xE60301"  }
+		}
+		
+		add_homeland = cu:hael
+		add_homeland = cu:isrind
+		
+	}
+
+	s:STATE_Sailind = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x86A601" "x496C01"  }
+		}
+		
+		add_homeland = cu:unmishu
+		add_homeland = cu:stoed
+		
+	}
+
+	s:STATE_Rombue = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5D9901"  }
+		}
+		
+		add_homeland = cu:doagoss
+		
+	}
+
+	s:STATE_Fuasraing = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x631701"  }
+		}
+		
+		add_homeland = cu:unmishu
+		
+	}
+
+	s:STATE_Cathemeu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x362E01"  }
+		}
+		
+		add_homeland = cu:fathoduu
+		
+	}
+
+	s:STATE_Fuisix = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEFA701"  }
+		}
+		
+		add_homeland = cu:gothacie
+		
+	}
+
+	s:STATE_Atechto = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x81E301"  }
+		}
+		
+		add_homeland = cu:ortonmo
+		
+	}
+
+	s:STATE_Swerothapp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x305101"  }
+		}
+		
+		add_homeland = cu:osrindi
+		
+	}
+
+	s:STATE_Bestuteu = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "x09BC01"  }
+		}
+		
+		add_homeland = cu:klatchian
+		
+	}
+
+	s:STATE_Strissong = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x32D101"  }
+		}
+		
+		add_homeland = cu:doagoss
+		
+	}
+
+	s:STATE_Haikoland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE13401"  }
+		}
+		
+		add_homeland = cu:frefistestan
+		
+	}
+
+	s:STATE_Shisothoss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0FA301"  }
+		}
+		
+		add_homeland = cu:trarruss
+		
+	}
+
+	s:STATE_Bouf = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEAA901"  }
+		}
+		
+		add_homeland = cu:stracuth
+		
+	}
+
+	s:STATE_Cuil = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD3E601"  }
+		}
+		
+		add_homeland = cu:jeushaert
+		
+	}
+
+	s:STATE_Giom = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x71A501" "x36BE01"  }
+		}
+		
+		add_homeland = cu:stoib
+		add_homeland = cu:suolux
+		
+	}
+
+	s:STATE_Inuchi = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC00A01"  }
+		}
+		
+		add_homeland = cu:beupapp
+		
+	}
+
+	s:STATE_Cherdond = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1C9C01"  }
+		}
+		
+		add_homeland = cu:distufuu
+		
+	}
+
+	s:STATE_Reundeung = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE42B01"  }
+		}
+		
+		add_homeland = cu:berbeu
+		
+	}
+
+	s:STATE_Niccia = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x272701" "x0A6001"  }
+		}
+		
+		add_homeland = cu:osrindi
+		
+	}
+
+	s:STATE_Frukustong = {
+		create_state = {
+			country = c:KLA
+			owned_provinces = { "xEC9401"  }
+		}
+		
+		add_homeland = cu:klatchian
+		
+	}
+
+	s:STATE_Stian = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4F2601"  }
+		}
+		
+		add_homeland = cu:faartialt
+		
+	}
+
+	s:STATE_Jiichaistan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCC5B01" "xE03801"  }
+		}
+		
+		add_homeland = cu:osrindi
+		
+	}
+
+	s:STATE_Toac = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2C8B01"  }
+		}
+		
+		add_homeland = cu:osrepp
+		
+	}
+
+	s:STATE_Upelta = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x10B601"  }
+		}
+		
+		add_homeland = cu:distufuu
+		
+	}
+
+	s:STATE_Omessu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDD0201"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Fiup = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE84901"  }
+		}
+		
+		add_homeland = cu:lailoq
+		
+	}
+
+	s:STATE_Pimbie = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4F7F01"  }
+		}
+		
+		add_homeland = cu:lailoq
+		
+	}
+
+	s:STATE_Chetoth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1CE201"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Fuccii = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA0EE01"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Ubwund = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x533701"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Fethosuo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDE8E01"  }
+		}
+		
+		add_homeland = cu:lailoq
+		
+	}
+
+	s:STATE_Elisru = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCF9101"  }
+		}
+		
+		add_homeland = cu:trihithistan
+		
+	}
+
+	s:STATE_Iltird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC22A01"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Ishosho = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x723701"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Lichtea = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x117E01"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Chujist = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC1AE01"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Juel = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x16F901"  }
+		}
+		
+		add_homeland = cu:fromithurt
+		
+	}
+
+	s:STATE_Engestan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE72B01"  }
+		}
+		
+		add_homeland = cu:fromithurt
+		
+	}
+
+	s:STATE_Shasethalt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8F4101"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Quasseland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x60B701"  }
+		}
+		
+		add_homeland = cu:fromithurt
+		
+	}
+
+	s:STATE_Caossoult = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5ACA01"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Meurond = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x042001"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Sties = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD98601"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Foortoipp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA59401"  }
+		}
+		
+		add_homeland = cu:fromithurt
+		
+	}
+
+	s:STATE_Orirda = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB4D401"  }
+		}
+		
+		add_homeland = cu:koed
+		
+	}
+
+	s:STATE_Taereq = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x920101"  }
+		}
+		
+		add_homeland = cu:koed
+		
+	}
+
+	s:STATE_Jeejess = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x641C01"  }
+		}
+		
+		add_homeland = cu:fromithurt
+		
+	}
+
+	s:STATE_Queletholt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x317301"  }
+		}
+		
+		add_homeland = cu:fromithurt
+		
+	}
+
+	s:STATE_Taushoepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0ED701"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Oltistan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC53101"  }
+		}
+		
+		add_homeland = cu:trihithistan
+		
+	}
+
+	s:STATE_Maurdaeland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x842C01"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Riusreepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0F9A01"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Jeejey = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x18A001"  }
+		}
+		
+		add_homeland = cu:fromithurt
+		
+	}
+
+	s:STATE_Phedaststrulith = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCD9E01"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Erbenza = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6CF501"  }
+		}
+		
+		add_homeland = cu:fromithurt
+		
+	}
+
+	s:STATE_Baemiland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x413101"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Ardosre = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x456A01"  }
+		}
+		
+		add_homeland = cu:fromithurt
+		
+	}
+
+	s:STATE_Fiatteind = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x12D901"  }
+		}
+		
+		add_homeland = cu:koed
+		
+	}
+
+	s:STATE_Astrissa = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC10C01"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Okocco = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x564501"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Swucethfrirast = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE78A01"  }
+		}
+		
+		add_homeland = cu:koed
+		
+	}
+
+	s:STATE_Hanmeu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9F9301"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Furbau = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3AFD01"  }
+		}
+		
+		add_homeland = cu:oshippe
+		
+	}
+
+	s:STATE_Ordalti = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xED2101"  }
+		}
+		
+		add_homeland = cu:fustamuo
+		
+	}
+
+	s:STATE_Puottuolt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xFC8801"  }
+		}
+		
+		add_homeland = cu:fromithurt
+		
+	}
+
+	s:STATE_Haurdiuland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB79901"  }
+		}
+		
+		add_homeland = cu:fustamuo
+		
+	}
+
+	s:STATE_Jestisoa = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA68D01"  }
+		}
+		
+		add_homeland = cu:fustamuo
+		
+	}
+
+	s:STATE_Shapasteland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6BF301"  }
+		}
+		
+		add_homeland = cu:koed
+		
+	}
+
+	s:STATE_Uquiss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x220B01"  }
+		}
+		
+		add_homeland = cu:fromithurt
+		
+	}
+
+	s:STATE_Peordieng = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7C5501"  }
+		}
+		
+		add_homeland = cu:fromithurt
+		
+	}
+
+	s:STATE_Stiifthoim = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x60AF01"  }
+		}
+		
+		add_homeland = cu:koed
+		
+	}
+
+	s:STATE_Kostamea = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF4E201"  }
+		}
+		
+		add_homeland = cu:koed
+		
+	}
+
+	s:STATE_Heisupp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC41901"  }
+		}
+		
+		add_homeland = cu:fustamuo
+		
+	}
+
+	s:STATE_Ojubwo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB53B01"  }
+		}
+		
+		add_homeland = cu:fustamuo
+		
+	}
+
+	s:STATE_Chonitheng = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x567701"  }
+		}
+		
+		add_homeland = cu:koed
+		
+	}
+
+	s:STATE_Pistecio = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x23EA01"  }
+		}
+		
+		add_homeland = cu:fustamuo
+		
+	}
+
+	s:STATE_Keengeopp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x30EB01"  }
+		}
+		
+		add_homeland = cu:kuthotoa
+		
+	}
+
+	s:STATE_Luuhix = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCA1F01"  }
+		}
+		
+		add_homeland = cu:fustamuo
+		
+	}
+
+	s:STATE_Ufubwu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x043D01"  }
+		}
+		
+		add_homeland = cu:koed
+		
+	}
+
+	s:STATE_Sostejai = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF16E01"  }
+		}
+		
+		add_homeland = cu:fustamuo
+		
+	}
+
+	s:STATE_Gieg = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6CAC01"  }
+		}
+		
+		add_homeland = cu:kuthotoa
+		
+	}
+
+	s:STATE_Luogix = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x41F301"  }
+		}
+		
+		add_homeland = cu:fustamuo
+		
+	}
+
+	s:STATE_Buerez = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x470501"  }
+		}
+		
+		add_homeland = cu:fustamuo
+		
+	}
+
+	s:STATE_Streccelt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2C3001"  }
+		}
+		
+		add_homeland = cu:gostrea
+		
+	}
+
+	s:STATE_Ohunzu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB3CD01"  }
+		}
+		
+		add_homeland = cu:gostrea
+		
+	}
+
+	s:STATE_Stremust = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x305B01"  }
+		}
+		
+		add_homeland = cu:fustamuo
+		
+	}
+
+	s:STATE_Juestroing = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC5B301"  }
+		}
+		
+		add_homeland = cu:fustamuo
+		
+	}
+
+	s:STATE_Retholio = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x97E401"  }
+		}
+		
+		add_homeland = cu:kuthotoa
+		
+	}
+
+	s:STATE_Roepiq = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x293701"  }
+		}
+		
+		add_homeland = cu:lesrii
+		
+	}
+
+	s:STATE_Strajostuland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x36D701"  }
+		}
+		
+		add_homeland = cu:lesrii
+		
+	}
+
+	s:STATE_Ossunze = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA07A01"  }
+		}
+		
+		add_homeland = cu:lesrii
+		
+	}
+
+	s:STATE_Eppabwu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x705201"  }
+		}
+		
+		add_homeland = cu:lesrii
+		
+	}
+
+	s:STATE_Futhirii = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x558301"  }
+		}
+		
+		add_homeland = cu:lesrii
+		
+	}
+
+	s:STATE_Gueleland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDA7A01"  }
+		}
+		
+		add_homeland = cu:lesrii
+		
+	}
+
+	s:STATE_Quaduth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x62AC01"  }
+		}
+		
+		add_homeland = cu:lesrii
+		
+	}
+
+	s:STATE_Strishird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x015A01"  }
+		}
+		
+		add_homeland = cu:gostrea
+		
+	}
+
+	s:STATE_Frunmess = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB02001"  }
+		}
+		
+		add_homeland = cu:gostrea
+		
+	}
+
+	s:STATE_Shultung = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8C3501"  }
+		}
+		
+		add_homeland = cu:gostrea
+		
+	}
+
+	s:STATE_Gueshaopp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBAA401"  }
+		}
+		
+		add_homeland = cu:gostrea
+		
+	}
+
+	s:STATE_Frudist = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x99DC01"  }
+		}
+		
+		add_homeland = cu:gostrea
+		
+	}
+
+	s:STATE_Lastubie = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x535E01"  }
+		}
+		
+		add_homeland = cu:gostrea
+		
+	}
+
+	s:STATE_Quopistend = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1F9901"  }
+		}
+		
+		add_homeland = cu:hastepuo
+		
+	}
+
+	s:STATE_Eguchto = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCDE301"  }
+		}
+		
+		add_homeland = cu:hastepuo
+		
+	}
+
+	s:STATE_Staet = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x891501"  }
+		}
+		
+		add_homeland = cu:hastepuo
+		
+	}
+
+	s:STATE_Leusheeland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF40301"  }
+		}
+		
+		add_homeland = cu:hastepuo
+		
+	}
+
+	s:STATE_Giet = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x965D01"  }
+		}
+		
+		add_homeland = cu:steoc
+		
+	}
+
+	s:STATE_Artustan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x34A401"  }
+		}
+		
+		add_homeland = cu:steoc
+		
+	}
+
+	s:STATE_Ifimbi = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x29D301"  }
+		}
+		
+		add_homeland = cu:koed
+		
+	}
+
+	s:STATE_Frekuthupp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1C1B01"  }
+		}
+		
+		add_homeland = cu:swubuth
+		
+	}
+
+	s:STATE_Swokuth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE44F01"  }
+		}
+		
+		add_homeland = cu:swubuth
+		
+	}
+
+	s:STATE_Puit = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x68A801"  }
+		}
+		
+		add_homeland = cu:steoc
+		
+	}
+
+	s:STATE_Fuitiy = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x24CA01"  }
+		}
+		
+		add_homeland = cu:swubuth
+		
+	}
+
+	s:STATE_Meojord = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD43001"  }
+		}
+		
+		add_homeland = cu:swubuth
+		
+	}
+
+	s:STATE_Stoubthaum = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x792401"  }
+		}
+		
+		add_homeland = cu:swubuth
+		
+	}
+
+	s:STATE_Quikothopp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x503701"  }
+		}
+		
+		add_homeland = cu:swubuth
+		
+	}
+
+	s:STATE_Mairtaupp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1D5701"  }
+		}
+		
+		add_homeland = cu:swubuth
+		
+	}
+
+	s:STATE_Sianmoord = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC3E301"  }
+		}
+		
+		add_homeland = cu:swubuth
+		
+	}
+
+	s:STATE_Phadest = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9B2E01"  }
+		}
+		
+		add_homeland = cu:swubuth
+		
+	}
+
+	s:STATE_Udonme = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA85901"  }
+		}
+		
+		add_homeland = cu:swubuth
+		
+	}
+
+	s:STATE_Kuthuhuu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x326E01"  }
+		}
+		
+		add_homeland = cu:hestejio
+		
+	}
+
+	s:STATE_Luah = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF5EF01"  }
+		}
+		
+		add_homeland = cu:hestejio
+		
+	}
+
+	s:STATE_Puthemuo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x55F501"  }
+		}
+		
+		add_homeland = cu:thaer
+		
+	}
+
+	s:STATE_Liosey = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x301401"  }
+		}
+		
+		add_homeland = cu:thaer
+		
+	}
+
+	s:STATE_Swofith = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA56901"  }
+		}
+		
+		add_homeland = cu:thaer
+		
+	}
+
+	s:STATE_Randao = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7D9B01"  }
+		}
+		
+		add_homeland = cu:pheltend
+		
+	}
+
+	s:STATE_Maecestan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4EF001"  }
+		}
+		
+		add_homeland = cu:hestejio
+		
+	}
+
+	s:STATE_Irdecce = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x463301"  }
+		}
+		
+		add_homeland = cu:pheltend
+		
+	}
+
+	s:STATE_Gibwio = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xFE7901"  }
+		}
+		
+		add_homeland = cu:gethufoa
+		
+	}
+
+	s:STATE_Shanoth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x448301"  }
+		}
+		
+		add_homeland = cu:gethufoa
+		
+	}
+
+	s:STATE_Laorriung = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x91BE01"  }
+		}
+		
+		add_homeland = cu:gethufoa
+		
+	}
+
+	s:STATE_Lostroe = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8DB801"  }
+		}
+		
+		add_homeland = cu:hestejio
+		
+	}
+
+	s:STATE_Erbort = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x54F101"  }
+		}
+		
+		add_homeland = cu:gethufoa
+		
+	}
+
+	s:STATE_Fichtai = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEC3101"  }
+		}
+		
+		add_homeland = cu:pheltend
+		
+	}
+
+	s:STATE_Peud = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA37D01"  }
+		}
+		
+		add_homeland = cu:stuabthouk
+		
+	}
+
+	s:STATE_Reistraird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB3BC01"  }
+		}
+		
+		add_homeland = cu:gethufoa
+		
+	}
+
+	s:STATE_Philast = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7CE101"  }
+		}
+		
+		add_homeland = cu:gauc
+		
+	}
+
+	s:STATE_Atriss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8B1101"  }
+		}
+		
+		add_homeland = cu:gauc
+		
+	}
+
+	s:STATE_Irdaquu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x182201"  }
+		}
+		
+		add_homeland = cu:stuabthouk
+		
+	}
+
+	s:STATE_Uchtert = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE67B01"  }
+		}
+		
+		add_homeland = cu:riuhand
+		
+	}
+
+	s:STATE_Egucce = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0F9801"  }
+		}
+		
+		add_homeland = cu:seurdaond
+		
+	}
+
+	s:STATE_Caihay = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE7DB01"  }
+		}
+		
+		add_homeland = cu:seurdaond
+		
+	}
+
+	s:STATE_Staom = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAC1301"  }
+		}
+		
+		add_homeland = cu:goudepp
+		
+	}
+
+	s:STATE_Lothutii = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8A4F01"  }
+		}
+		
+		add_homeland = cu:riuhand
+		
+	}
+
+	s:STATE_Stiifstiig = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x578701"  }
+		}
+		
+		add_homeland = cu:stuabthouk
+		
+	}
+
+	s:STATE_Strustrelt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD35101"  }
+		}
+		
+		add_homeland = cu:stuabthouk
+		
+	}
+
+	s:STATE_Otrapp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x18C401"  }
+		}
+		
+		add_homeland = cu:seurdaond
+		
+	}
+
+	s:STATE_Daosreupp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC31D01"  }
+		}
+		
+		add_homeland = cu:goudepp
+		
+	}
+
+	s:STATE_Swasrelt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6C5D01"  }
+		}
+		
+		add_homeland = cu:stuabthouk
+		
+	}
+
+	s:STATE_Odunme = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEE7001"  }
+		}
+		
+		add_homeland = cu:riuhand
+		
+	}
+
+	s:STATE_Guechtoind = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9BB801"  }
+		}
+		
+		add_homeland = cu:riuhand
+		
+	}
+
+	s:STATE_Trijastoss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB1BD01"  }
+		}
+		
+		add_homeland = cu:strohestepp
+		
+	}
+
+	s:STATE_Chodestopp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x41F601"  }
+		}
+		
+		add_homeland = cu:strohestepp
+		
+	}
+
+	s:STATE_Jeenastan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1C2501"  }
+		}
+		
+		add_homeland = cu:strohestepp
+		
+	}
+
+	s:STATE_Stuel = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0A8C01"  }
+		}
+		
+		add_homeland = cu:riuhand
+		
+	}
+
+	s:STATE_Strimbipp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6E6E01"  }
+		}
+		
+		add_homeland = cu:riuhand
+		
+	}
+
+	s:STATE_Quudostoss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDAB701"  }
+		}
+		
+		add_homeland = cu:strohestepp
+		
+	}
+
+	s:STATE_Hoahiq = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4EEB01"  }
+		}
+		
+		add_homeland = cu:gauc
+		
+	}
+
+	s:STATE_Neih = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x231C01"  }
+		}
+		
+		add_homeland = cu:riuhand
+		
+	}
+
+	s:STATE_Stremustond = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x863C01"  }
+		}
+		
+		add_homeland = cu:riuhand
+		
+	}
+
+	s:STATE_Foeshaong = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x517401"  }
+		}
+		
+		add_homeland = cu:riuhand
+		
+	}
+
+	s:STATE_Phojoth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDDE401"  }
+		}
+		
+		add_homeland = cu:riuhand
+		
+	}
+
+	s:STATE_Tuugostan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA92301"  }
+		}
+		
+		add_homeland = cu:riuhand
+		
+	}
+
+	s:STATE_Costuhiu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC78101"  }
+		}
+		
+		add_homeland = cu:riuhand
+		
+	}
+
+	s:STATE_Strajoth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA9C501"  }
+		}
+		
+		add_homeland = cu:riuhand
+		
+	}
+
+	s:STATE_Echtechta = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2ED501"  }
+		}
+		
+		add_homeland = cu:laibeq
+		
+	}
+
+	s:STATE_Tippuu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD94301"  }
+		}
+		
+		add_homeland = cu:stiol
+		
+	}
+
+	s:STATE_Deabiy = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8A7501"  }
+		}
+		
+		add_homeland = cu:stiol
+		
+	}
+
+	s:STATE_Attubwo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x53B101"  }
+		}
+		
+		add_homeland = cu:stiol
+		
+	}
+
+	s:STATE_Chudistolt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0BF901"  }
+		}
+		
+		add_homeland = cu:phushend
+		
+	}
+
+	s:STATE_Ejesro = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCE2201"  }
+		}
+		
+		add_homeland = cu:phushend
+		
+	}
+
+	s:STATE_Strinothapp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB88A01"  }
+		}
+		
+		add_homeland = cu:phittond
+		
+	}
+
+	s:STATE_Ibelto = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9EA001"  }
+		}
+		
+		add_homeland = cu:phushend
+		
+	}
+
+	s:STATE_Puuchtoird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB12901"  }
+		}
+		
+		add_homeland = cu:phushend
+		
+	}
+
+	s:STATE_Perdea = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x40E501"  }
+		}
+		
+		add_homeland = cu:kastahie
+		
+	}
+
+	s:STATE_Daefux = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x063A01"  }
+		}
+		
+		add_homeland = cu:phushend
+		
+	}
+
+	s:STATE_Coumbuipp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3C2E01"  }
+		}
+		
+		add_homeland = cu:phittond
+		
+	}
+
+	s:STATE_Trobwerd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3FA101"  }
+		}
+		
+		add_homeland = cu:phushend
+		
+	}
+
+	s:STATE_Ocasru = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA1CC01"  }
+		}
+		
+		add_homeland = cu:ugicho
+		
+	}
+
+	s:STATE_Rathocou = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7DB101"  }
+		}
+		
+		add_homeland = cu:phittond
+		
+	}
+
+	s:STATE_Mappeu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5DC001"  }
+		}
+		
+		add_homeland = cu:phittond
+		
+	}
+
+	s:STATE_Sethunii = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x564B01"  }
+		}
+		
+		add_homeland = cu:ugicho
+		
+	}
+
+	s:STATE_Tuobostan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3EE501"  }
+		}
+		
+		add_homeland = cu:ugicho
+		
+	}
+
+	s:STATE_Erbenme = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5FC901"  }
+		}
+		
+		add_homeland = cu:phittond
+		
+	}
+
+	s:STATE_Echuppi = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB0D701"  }
+		}
+		
+		add_homeland = cu:phittond
+		
+	}
+
+	s:STATE_Roipez = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x602E01"  }
+		}
+		
+		add_homeland = cu:phittond
+		
+	}
+
+	s:STATE_Nuurduurd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6F8701"  }
+		}
+		
+		add_homeland = cu:phushend
+		
+	}
+
+	s:STATE_Quenuth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD7AD01"  }
+		}
+		
+		add_homeland = cu:jeottailand
+		
+	}
+
+	s:STATE_Frocethoss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC40601"  }
+		}
+		
+		add_homeland = cu:gostitia
+		
+	}
+
+	s:STATE_Esrenza = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2B1601"  }
+		}
+		
+		add_homeland = cu:gostitia
+		
+	}
+
+	s:STATE_Stroqualt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE75101"  }
+		}
+		
+		add_homeland = cu:gostitia
+		
+	}
+
+	s:STATE_Jairtaistan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7D8201"  }
+		}
+		
+		add_homeland = cu:gostitia
+		
+	}
+
+	s:STATE_Baabraird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x25DE01"  }
+		}
+		
+		add_homeland = cu:gostitia
+		
+	}
+
+	s:STATE_Soagix = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x503901"  }
+		}
+		
+		add_homeland = cu:jeottailand
+		
+	}
+
+	s:STATE_Tiucerd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6DCD01"  }
+		}
+		
+		add_homeland = cu:jeottailand
+		
+	}
+
+	s:STATE_Erderd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF15E01"  }
+		}
+		
+		add_homeland = cu:gostitia
+		
+	}
+
+	s:STATE_Theosthoij = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF14C01"  }
+		}
+		
+		add_homeland = cu:gostitia
+		
+	}
+
+	s:STATE_Jissoe = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB4AD01"  }
+		}
+		
+		add_homeland = cu:beupapp
+		
+	}
+
+	s:STATE_Jiotupp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5ED601"  }
+		}
+		
+		add_homeland = cu:gostitia
+		
+	}
+
+	s:STATE_Thiomsteen = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9B1901"  }
+		}
+		
+		add_homeland = cu:ruthilea
+		
+	}
+
+	s:STATE_Enaque = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2F3501"  }
+		}
+		
+		add_homeland = cu:ruthilea
+		
+	}
+
+	s:STATE_Keisrourd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x92EC01"  }
+		}
+		
+		add_homeland = cu:ruthilea
+		
+	}
+
+	s:STATE_Doerdiestan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1A8201"  }
+		}
+		
+		add_homeland = cu:ruthilea
+		
+	}
+
+	s:STATE_Niendeind = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5A7801"  }
+		}
+		
+		add_homeland = cu:ruthilea
+		
+	}
+
+	s:STATE_Piartoistan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA14F01"  }
+		}
+		
+		add_homeland = cu:strandung
+		
+	}
+
+	s:STATE_Kuobroupp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2D7201"  }
+		}
+		
+		add_homeland = cu:ruthilea
+		
+	}
+
+	s:STATE_Otitta = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF4BE01"  }
+		}
+		
+		add_homeland = cu:ruthilea
+		
+	}
+
+	s:STATE_Ogirda = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF10301"  }
+		}
+		
+		add_homeland = cu:ruthilea
+		
+	}
+
+	s:STATE_Secceo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBD5501"  }
+		}
+		
+		add_homeland = cu:ruthilea
+		
+	}
+
+	s:STATE_Poicalt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x609001"  }
+		}
+		
+		add_homeland = cu:ruthilea
+		
+	}
+
+	s:STATE_Ortastan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBC5C01"  }
+		}
+		
+		add_homeland = cu:ruthilea
+		
+	}
+
+	s:STATE_Swicethort = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x27AF01"  }
+		}
+		
+		add_homeland = cu:strandung
+		
+	}
+
+	s:STATE_Foegex = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x555301"  }
+		}
+		
+		add_homeland = cu:strandung
+		
+	}
+
+	s:STATE_Laechtoiss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xFABA01"  }
+		}
+		
+		add_homeland = cu:seik
+		
+	}
+
+	s:STATE_Moquoi = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAA0401"  }
+		}
+		
+		add_homeland = cu:quacistalt
+		
+	}
+
+	s:STATE_Stoat = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x392D01"  }
+		}
+		
+		add_homeland = cu:quacistalt
+		
+	}
+
+	s:STATE_Toemord = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2E9401"  }
+		}
+		
+		add_homeland = cu:strandung
+		
+	}
+
+	s:STATE_Erbostan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0DE901"  }
+		}
+		
+		add_homeland = cu:strandung
+		
+	}
+
+	s:STATE_Quepostart = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF61301"  }
+		}
+		
+		add_homeland = cu:strandung
+		
+	}
+
+	s:STATE_Stuelthaar = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8A4601"  }
+		}
+		
+		add_homeland = cu:strandung
+		
+	}
+
+	s:STATE_Chubistalt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x777B01"  }
+		}
+		
+		add_homeland = cu:trarruss
+		
+	}
+
+	s:STATE_Swecost = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB0C801"  }
+		}
+		
+		add_homeland = cu:strandung
+		
+	}
+
+	s:STATE_Frunithard = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x55DE01"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Kaachuert = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0D0901"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Bios = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE56F01"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Dostinuu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB0A801"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Taofirt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x801901"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Nathepiu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x473301"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Daashiing = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x269301"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Shusrapp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x306F01"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Fuutreond = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2FBB01"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Steos = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBA1001"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Leanistan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x844C01"  }
+		}
+		
+		add_homeland = cu:trutrostan
+		
+	}
+
+	s:STATE_Suungiult = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6C8001"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Strolast = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5FD401"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Hierroustan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF83D01"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Isralt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x986001"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Shusith = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1DC101"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Anzirba = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDE8201"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Gathaloa = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD1CF01"  }
+		}
+		
+		add_homeland = cu:loucastan
+		
+	}
+
+	s:STATE_Shesuth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4AF501"  }
+		}
+		
+		add_homeland = cu:loucastan
+		
+	}
+
+	s:STATE_Shitrird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2E3D01"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Gachoo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x048101"  }
+		}
+		
+		add_homeland = cu:titholue
+		
+	}
+
+	s:STATE_Baaguy = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7E7201"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Leapey = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD2BC01"  }
+		}
+		
+		add_homeland = cu:trutrostan
+		
+	}
+
+	s:STATE_Bouchtiird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x86EA01"  }
+		}
+		
+		add_homeland = cu:sueppuult
+		
+	}
+
+	s:STATE_Cossei = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7D3F01"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Triluth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3A6F01"  }
+		}
+		
+		add_homeland = cu:doakey
+		
+	}
+
+	s:STATE_Theas = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBEB301"  }
+		}
+		
+		add_homeland = cu:sueppuult
+		
+	}
+
+	s:STATE_Goip = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x86FE01"  }
+		}
+		
+		add_homeland = cu:sueppuult
+		
+	}
+
+	s:STATE_Stoas = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x683701"  }
+		}
+		
+		add_homeland = cu:trutrostan
+		
+	}
+
+	s:STATE_Jeop = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1C7201"  }
+		}
+		
+		add_homeland = cu:fathoduu
+		
+	}
+
+	s:STATE_Tuthafai = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2DC001"  }
+		}
+		
+		add_homeland = cu:fathoduu
+		
+	}
+
+	s:STATE_Eccort = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB20A01"  }
+		}
+		
+		add_homeland = cu:fathoduu
+		
+	}
+
+	s:STATE_Enminde = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6A4301"  }
+		}
+		
+		add_homeland = cu:titholue
+		
+	}
+
+	s:STATE_Gouppuistan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE01701"  }
+		}
+		
+		add_homeland = cu:titholue
+		
+	}
+
+	s:STATE_Boifux = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB74001"  }
+		}
+		
+		add_homeland = cu:sueppuult
+		
+	}
+
+	s:STATE_Ittang = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x718301"  }
+		}
+		
+		add_homeland = cu:sueppuult
+		
+	}
+
+	s:STATE_Ingestri = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3EE801"  }
+		}
+		
+		add_homeland = cu:trutrostan
+		
+	}
+
+	s:STATE_Strimesterd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDD4201"  }
+		}
+		
+		add_homeland = cu:cithadaa
+		
+	}
+
+	s:STATE_Strinoth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD95001"  }
+		}
+		
+		add_homeland = cu:neurupp
+		
+	}
+
+	s:STATE_Meotteipp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x94A801" "xA48001" "xA38101"  }
+		}
+		
+		add_homeland = cu:neurupp
+		add_homeland = cu:ufocca
+		
+	}
+
+	s:STATE_Chindolt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBC5A01"  }
+		}
+		
+		add_homeland = cu:naiccaard
+		
+	}
+
+	s:STATE_Strugastird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF73801"  }
+		}
+		
+		add_homeland = cu:okurta
+		
+	}
+
+	s:STATE_Hoabweoland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x715201"  }
+		}
+		
+		add_homeland = cu:asrurro
+		
+	}
+
+	s:STATE_Quisostand = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE56E01" "xF37F01"  }
+		}
+		
+		add_homeland = cu:swulastird
+		add_homeland = cu:muor
+		
+	}
+
+	s:STATE_Eppird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEE0801" "xF82801" "xD34201" "xC70501" "xD91D01" "xFD4F01"  }
+		}
+		
+		add_homeland = cu:ikande
+		add_homeland = cu:neurupp
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Riamolt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1E8C01"  }
+		}
+		
+		add_homeland = cu:foebay
+		
+	}
+
+	s:STATE_Beanmaeland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD7F101" "xF0D901"  }
+		}
+		
+		add_homeland = cu:swulastird
+		
+	}
+
+	s:STATE_Frojastolt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9B9E01"  }
+		}
+		
+		add_homeland = cu:coodiq
+		
+	}
+
+	s:STATE_Quojast = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2F3001"  }
+		}
+		
+		add_homeland = cu:cooppeung
+		
+	}
+
+	s:STATE_Shiltirt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x58B001" "x588C01" "x33BE01" "x538C01" "x5A9D01" "x5E9801" "x437E01"  }
+		}
+		
+		add_homeland = cu:ufocca
+		add_homeland = cu:piachtoaland
+		add_homeland = cu:irbalte
+		
+	}
+
+	s:STATE_Struhost = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF68501"  }
+		}
+		
+		add_homeland = cu:fothebiu
+		
+	}
+
+	s:STATE_Stoet = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB38101"  }
+		}
+		
+		add_homeland = cu:swulastird
+		
+	}
+
+	s:STATE_Sithobeu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x210E01" "x1B1C01"  }
+		}
+		
+		add_homeland = cu:cooppeung
+		
+	}
+
+	s:STATE_Enerdu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC90501"  }
+		}
+		
+		add_homeland = cu:asrurro
+		
+	}
+
+	s:STATE_Quidostuland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x669B01"  }
+		}
+		
+		add_homeland = cu:treshilt
+		
+	}
+
+	s:STATE_Eshord = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2A3F01"  }
+		}
+		
+		add_homeland = cu:ajortu
+		
+	}
+
+	s:STATE_Neppee = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x741D01"  }
+		}
+		
+		add_homeland = cu:fothebiu
+		
+	}
+
+	s:STATE_Cechua = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA09C01" "x9ECA01"  }
+		}
+		
+		add_homeland = cu:naiccaard
+		add_homeland = cu:orrort
+		
+	}
+
+	s:STATE_Chututhand = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBC6401"  }
+		}
+		
+		add_homeland = cu:fothebiu
+		
+	}
+
+	s:STATE_Hiasseend = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x325401" "x157101"  }
+		}
+		
+		add_homeland = cu:treshilt
+		add_homeland = cu:fothebiu
+		
+	}
+
+	s:STATE_Noindaord = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7FD901"  }
+		}
+		
+		add_homeland = cu:ajortu
+		
+	}
+
+	s:STATE_Rithecuu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x52EA01"  }
+		}
+		
+		add_homeland = cu:foebay
+		
+	}
+
+	s:STATE_Heinziart = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC46A01" "xA33E01"  }
+		}
+		
+		add_homeland = cu:muor
+		
+	}
+
+	s:STATE_Taunmeord = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF14E01" "xF75A01"  }
+		}
+		
+		add_homeland = cu:okurta
+		add_homeland = cu:shanzoss
+		
+	}
+
+	s:STATE_Ussurd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x22A601"  }
+		}
+		
+		add_homeland = cu:ajortu
+		
+	}
+
+	s:STATE_Larbue = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD50601"  }
+		}
+		
+		add_homeland = cu:asrurro
+		
+	}
+
+	s:STATE_Satrao = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB74601" "xF05601"  }
+		}
+		
+		add_homeland = cu:strodith
+		
+	}
+
+	s:STATE_Toehuz = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDB9E01"  }
+		}
+		
+		add_homeland = cu:foebay
+		
+	}
+
+	s:STATE_Dondui = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6DC501"  }
+		}
+		
+		add_homeland = cu:swulastird
+		
+	}
+
+	s:STATE_Frakisteland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB89A01" "x8B8E01"  }
+		}
+		
+		add_homeland = cu:piachtoaland
+		
+	}
+
+	s:STATE_Buobwiustan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9E1801"  }
+		}
+		
+		add_homeland = cu:naiccaard
+		
+	}
+
+	s:STATE_Heofepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x352201"  }
+		}
+		
+		add_homeland = cu:piachtoaland
+		
+	}
+
+	s:STATE_Fuok = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x259B01" "x58B201" "x687D01"  }
+		}
+		
+		add_homeland = cu:neurupp
+		
+	}
+
+	s:STATE_Uruppo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5F3E01" "x7E3801" "x852F01"  }
+		}
+		
+		add_homeland = cu:neurupp
+		
+	}
+
+	s:STATE_Stiec = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x13B501" "x409E01"  }
+		}
+		
+		add_homeland = cu:ajortu
+		
+	}
+
+	s:STATE_Paucheastan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x868D01"  }
+		}
+		
+		add_homeland = cu:ajortu
+		
+	}
+
+	s:STATE_Chifithung = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA95D01"  }
+		}
+		
+		add_homeland = cu:ajortu
+		
+	}
+
+	s:STATE_Mabreo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0C1D01"  }
+		}
+		
+		add_homeland = cu:asrurro
+		
+	}
+
+	s:STATE_Jeanzaustan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x627301" "x303D01"  }
+		}
+		
+		add_homeland = cu:okurta
+		
+	}
+
+	s:STATE_Frippird = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE4B801"  }
+		}
+		
+		add_homeland = cu:coodiq
+		
+	}
+
+	s:STATE_Neafurd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF68701"  }
+		}
+		
+		add_homeland = cu:asrurro
+		
+	}
+
+	s:STATE_Laardault = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCE6E01"  }
+		}
+		
+		add_homeland = cu:asrurro
+		
+	}
+
+	s:STATE_Ugulto = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1CF301"  }
+		}
+		
+		add_homeland = cu:shanzoss
+		
+	}
+
+	s:STATE_Bardii = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x132E01" "x280C01"  }
+		}
+		
+		add_homeland = cu:shostripp
+		add_homeland = cu:coodiq
+		
+	}
+
+	s:STATE_Kirreu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC49101"  }
+		}
+		
+		add_homeland = cu:okurta
+		
+	}
+
+	s:STATE_Ubwipp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x46BD01"  }
+		}
+		
+		add_homeland = cu:fothebiu
+		
+	}
+
+	s:STATE_Swachend = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x418501" "x379201" "x1A9301"  }
+		}
+		
+		add_homeland = cu:treshilt
+		add_homeland = cu:strodith
+		
+	}
+
+	s:STATE_Agango = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF4A401" "xE5AB01"  }
+		}
+		
+		add_homeland = cu:ajortu
+		
+	}
+
+	s:STATE_Frindopp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0F9E01" "x2E6301" "x109101" "x2C5C01"  }
+		}
+		
+		add_homeland = cu:strodith
+		add_homeland = cu:orrort
+		
+	}
+
+	s:STATE_Jeutteeng = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE80F01" "xB82301" "xB73701"  }
+		}
+		
+		add_homeland = cu:okurta
+		
+	}
+
+	s:STATE_Usroland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8C2501"  }
+		}
+		
+		add_homeland = cu:swulastird
+		
+	}
+
+	s:STATE_Siuchtealand = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x77CB01"  }
+		}
+		
+		add_homeland = cu:ajortu
+		
+	}
+
+	s:STATE_Estretri = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB08E01" "x659201" "x767A01"  }
+		}
+		
+		add_homeland = cu:swulastird
+		add_homeland = cu:muor
+		
+	}
+
+	s:STATE_Leogepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5B8301"  }
+		}
+		
+		add_homeland = cu:asrurro
+		
+	}
+
+	s:STATE_Framethass = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x70CD01"  }
+		}
+		
+		add_homeland = cu:naiccaard
+		
+	}
+
+	s:STATE_Chegith = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB23201"  }
+		}
+		
+		add_homeland = cu:naiccaard
+		
+	}
+
+	s:STATE_Gaessuolt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x332401"  }
+		}
+		
+		add_homeland = cu:okurta
+		
+	}
+
+	s:STATE_Deef = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x005001" "x343801"  }
+		}
+		
+		add_homeland = cu:ufocca
+		
+	}
+
+	s:STATE_Naicex = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x434901"  }
+		}
+		
+		add_homeland = cu:piachtoaland
+		
+	}
+
+	s:STATE_Strubwend = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x4F2801" "x680001"  }
+		}
+		
+		add_homeland = cu:ajortu
+		add_homeland = cu:coodiq
+		
+	}
+
+	s:STATE_Efondo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA57601"  }
+		}
+		
+		add_homeland = cu:shostripp
+		
+	}
+
+	s:STATE_Stuib = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA99F01"  }
+		}
+		
+		add_homeland = cu:ajortu
+		
+	}
+
+	s:STATE_Poer = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x37F701"  }
+		}
+		
+		add_homeland = cu:okurta
+		
+	}
+
+	s:STATE_Ruusapp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8D7101" "x556601"  }
+		}
+		
+		add_homeland = cu:shelisting
+		
+	}
+
+	s:STATE_Bobree = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0DD101"  }
+		}
+		
+		add_homeland = cu:irbalte
+		
+	}
+
+	s:STATE_Thuuc = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x879F01"  }
+		}
+		
+		add_homeland = cu:shostripp
+		
+	}
+
+	s:STATE_Shicuthing = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC0C101"  }
+		}
+		
+		add_homeland = cu:asrurro
+		
+	}
+
+	s:STATE_Ishuchto = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x21C301"  }
+		}
+		
+		add_homeland = cu:fothebiu
+		
+	}
+
+	s:STATE_Chocest = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x96F301"  }
+		}
+		
+		add_homeland = cu:shanzoss
+		
+	}
+
+	s:STATE_Moihoz = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD1A201"  }
+		}
+		
+		add_homeland = cu:trutrostan
+		
+	}
+
+	s:STATE_Bishea = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x49D401"  }
+		}
+		
+		add_homeland = cu:thior
+		
+	}
+
+	s:STATE_Achatro = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x241401"  }
+		}
+		
+		add_homeland = cu:sueppuult
+		
+	}
+
+	s:STATE_Frurtend = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x906F01"  }
+		}
+		
+		add_homeland = cu:cithadaa
+		
+	}
+
+	s:STATE_Heojuy = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x499F01"  }
+		}
+		
+		add_homeland = cu:cithadaa
+		
+	}
+
+	s:STATE_Desria = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC39D01"  }
+		}
+		
+		add_homeland = cu:trutrostan
+		
+	}
+
+	s:STATE_Frehithart = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA50701"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Huad = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB25301"  }
+		}
+		
+		add_homeland = cu:cithadaa
+		
+	}
+
+	s:STATE_Fuaccialand = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x619B01"  }
+		}
+		
+		add_homeland = cu:pauquaeng
+		
+	}
+
+	s:STATE_Shumost = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAA4F01"  }
+		}
+		
+		add_homeland = cu:pauquaeng
+		
+	}
+
+	s:STATE_Aqueng = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC5ED01"  }
+		}
+		
+		add_homeland = cu:pauquaeng
+		
+	}
+
+	s:STATE_Gusrua = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2EB301"  }
+		}
+		
+		add_homeland = cu:cithadaa
+		
+	}
+
+	s:STATE_Destokua = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD00C01"  }
+		}
+		
+		add_homeland = cu:sueppuult
+		
+	}
+
+	s:STATE_Seuquuurt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x162701"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Loamiland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF19201"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Neasult = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x95B201"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Usicco = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x64CC01"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Gustakiu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5E5501"  }
+		}
+		
+		add_homeland = cu:pauquaeng
+		
+	}
+
+	s:STATE_Geapey = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x09A501"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Seuguz = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC1CE01"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Astrequi = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x99DB01"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Maaqueastan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x40E801"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Koidestan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0E3201"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Juom = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBF8E01"  }
+		}
+		
+		add_homeland = cu:pauquaeng
+		
+	}
+
+	s:STATE_Seoruq = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x72CF01"  }
+		}
+		
+		add_homeland = cu:titholue
+		
+	}
+
+	s:STATE_Feurdeand = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x70F401"  }
+		}
+		
+		add_homeland = cu:titholue
+		
+	}
+
+	s:STATE_Usrepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3E4C01"  }
+		}
+		
+		add_homeland = cu:choltustan
+		
+	}
+
+	s:STATE_Honmiu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xFC6A01"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Fueccaand = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9FCC01"  }
+		}
+		
+		add_homeland = cu:chihathort
+		
+	}
+
+	s:STATE_Tushuo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x20E501"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Keungoort = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB52801"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Nuug = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x895A01"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Chobrustan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x29B601"  }
+		}
+		
+		add_homeland = cu:titholue
+		
+	}
+
+	s:STATE_Hastufee = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x61F201"  }
+		}
+		
+		add_homeland = cu:choltustan
+		
+	}
+
+	s:STATE_Angelt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x263A01"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Geundaort = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB14901"  }
+		}
+		
+		add_homeland = cu:titholue
+		
+	}
+
+	s:STATE_Jiccaa = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x908201"  }
+		}
+		
+		add_homeland = cu:titholue
+		
+	}
+
+	s:STATE_Trabwess = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB9B801"  }
+		}
+		
+		add_homeland = cu:pauquaeng
+		
+	}
+
+	s:STATE_Staehtheaj = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x97EF01"  }
+		}
+		
+		add_homeland = cu:chihathort
+		
+	}
+
+	s:STATE_Taat = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x104901"  }
+		}
+		
+		add_homeland = cu:pauquaeng
+		
+	}
+
+	s:STATE_Siufax = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCD4F01"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Puissoult = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xFBBA01"  }
+		}
+		
+		add_homeland = cu:titholue
+		
+	}
+
+	s:STATE_Theek = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9F0C01"  }
+		}
+		
+		add_homeland = cu:titholue
+		
+	}
+
+	s:STATE_Fienuz = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3C1801"  }
+		}
+		
+		add_homeland = cu:pauquaeng
+		
+	}
+
+	s:STATE_Gestreo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x067201"  }
+		}
+		
+		add_homeland = cu:chihathort
+		
+	}
+
+	s:STATE_Phurtund = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x828001"  }
+		}
+		
+		add_homeland = cu:chihathort
+		
+	}
+
+	s:STATE_Kaefoz = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3DE501"  }
+		}
+		
+		add_homeland = cu:chihathort
+		
+	}
+
+	s:STATE_Paltae = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB51001"  }
+		}
+		
+		add_homeland = cu:phehostapp
+		
+	}
+
+	s:STATE_Angitte = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC76F01"  }
+		}
+		
+		add_homeland = cu:hardio
+		
+	}
+
+	s:STATE_Phitrind = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x798F01"  }
+		}
+		
+		add_homeland = cu:hardio
+		
+	}
+
+	s:STATE_Leunestan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x42ED01"  }
+		}
+		
+		add_homeland = cu:phehostapp
+		
+	}
+
+	s:STATE_Roshai = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1F0601"  }
+		}
+		
+		add_homeland = cu:imichti
+		
+	}
+
+	s:STATE_Kastria = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA76801"  }
+		}
+		
+		add_homeland = cu:hardio
+		
+	}
+
+	s:STATE_Pook = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE11B01"  }
+		}
+		
+		add_homeland = cu:hardio
+		
+	}
+
+	s:STATE_Quurdeland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x625F01"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Hendia = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3E9401"  }
+		}
+		
+		add_homeland = cu:phehostapp
+		
+	}
+
+	s:STATE_Unzerti = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC4C101"  }
+		}
+		
+		add_homeland = cu:phehostapp
+		
+	}
+
+	s:STATE_Ubechti = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x110901"  }
+		}
+		
+		add_homeland = cu:hardio
+		
+	}
+
+	s:STATE_Pounduupp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBE5301"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Nuatruord = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x708701"  }
+		}
+		
+		add_homeland = cu:ossorri
+		
+	}
+
+	s:STATE_Douchtoirt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x21B701"  }
+		}
+		
+		add_homeland = cu:pechia
+		
+	}
+
+	s:STATE_Quenast = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x99FB01"  }
+		}
+		
+		add_homeland = cu:pechia
+		
+	}
+
+	s:STATE_Piuppiung = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x323101"  }
+		}
+		
+		add_homeland = cu:pechia
+		
+	}
+
+	s:STATE_Jicheu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE54E01"  }
+		}
+		
+		add_homeland = cu:ikande
+		
+	}
+
+	s:STATE_Githimie = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9F9E01"  }
+		}
+		
+		add_homeland = cu:trulist
+		
+	}
+
+	s:STATE_Trestrostan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDF2001"  }
+		}
+		
+		add_homeland = cu:ikande
+		
+	}
+
+	s:STATE_Steoh = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x734E01" "x485A01"  }
+		}
+		
+		add_homeland = cu:stragostong
+		
+	}
+
+	s:STATE_Elitti = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA5E501" "xA9E301" "xAEE101"  }
+		}
+		
+		add_homeland = cu:stragostong
+		add_homeland = cu:rierund
+		
+	}
+
+	s:STATE_Ochurt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA73501"  }
+		}
+		
+		add_homeland = cu:rierund
+		
+	}
+
+	s:STATE_Ibritti = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x77F701"  }
+		}
+		
+		add_homeland = cu:sauness
+		
+	}
+
+	s:STATE_Trulithard = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x13B101"  }
+		}
+		
+		add_homeland = cu:stragostong
+		
+	}
+
+	s:STATE_Faec = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE5AA01" "xFED901" "xEEBD01" "xE7DA01" "xD5AC01"  }
+		}
+		
+		add_homeland = cu:pechia
+		add_homeland = cu:phippistan
+		
+	}
+
+	s:STATE_Sungoe = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB2DE01"  }
+		}
+		
+		add_homeland = cu:rierund
+		
+	}
+
+	s:STATE_Ortasso = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBAC701" "x9CD401"  }
+		}
+		
+		add_homeland = cu:sauness
+		
+	}
+
+	s:STATE_Quuchind = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xECD901" "xEEBA01"  }
+		}
+		
+		add_homeland = cu:stragostong
+		add_homeland = cu:rierund
+		
+	}
+
+	s:STATE_Trottind = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x614C01"  }
+		}
+		
+		add_homeland = cu:rierund
+		
+	}
+
+	s:STATE_Huer = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3F6301"  }
+		}
+		
+		add_homeland = cu:sauness
+		
+	}
+
+	s:STATE_Obettu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x535601"  }
+		}
+		
+		add_homeland = cu:sauness
+		
+	}
+
+	s:STATE_Jiatix = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCE7101"  }
+		}
+		
+		add_homeland = cu:rierund
+		
+	}
+
+	s:STATE_Taifalt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA49D01"  }
+		}
+		
+		add_homeland = cu:sauness
+		
+	}
+
+	s:STATE_Frosastord = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x655C01"  }
+		}
+		
+		add_homeland = cu:sauness
+		
+	}
+
+	s:STATE_Gaodeland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x246101"  }
+		}
+		
+		add_homeland = cu:stragostong
+		
+	}
+
+	s:STATE_Phittepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x304A01"  }
+		}
+		
+		add_homeland = cu:sauness
+		
+	}
+
+	s:STATE_Cholistostan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEC3401"  }
+		}
+		
+		add_homeland = cu:sauness
+		
+	}
+
+	s:STATE_Usucco = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC8A801"  }
+		}
+		
+		add_homeland = cu:rierund
+		
+	}
+
+	s:STATE_Ubrirbo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC37C01"  }
+		}
+		
+		add_homeland = cu:rierund
+		
+	}
+
+	s:STATE_Thuapthaih = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xCCF001"  }
+		}
+		
+		add_homeland = cu:stragostong
+		
+	}
+
+	s:STATE_Ahembu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7FE601"  }
+		}
+		
+		add_homeland = cu:rierund
+		
+	}
+
+	s:STATE_Theod = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDBCB01"  }
+		}
+		
+		add_homeland = cu:rierund
+		
+	}
+
+	s:STATE_Haojoland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD9C901" "xBFE101"  }
+		}
+		
+		add_homeland = cu:stragostong
+		
+	}
+
+	s:STATE_Tiudaz = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB51C01"  }
+		}
+		
+		add_homeland = cu:stragostong
+		
+	}
+
+	s:STATE_Accerte = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB3FA01"  }
+		}
+		
+		add_homeland = cu:sauness
+		
+	}
+
+	s:STATE_Nuatroastan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xE5B401"  }
+		}
+		
+		add_homeland = cu:rierund
+		
+	}
+
+	s:STATE_Ochtiland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0B1101"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Phufest = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8D4001"  }
+		}
+		
+		add_homeland = cu:sauness
+		
+	}
+
+	s:STATE_Swecoth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x571201"  }
+		}
+		
+		add_homeland = cu:rierund
+		
+	}
+
+	s:STATE_Obwopp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0C7801"  }
+		}
+		
+		add_homeland = cu:ikande
+		
+	}
+
+	s:STATE_Streccard = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC1AA01"  }
+		}
+		
+		add_homeland = cu:charrind
+		
+	}
+
+	s:STATE_Oquarre = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5CBC01"  }
+		}
+		
+		add_homeland = cu:charrind
+		
+	}
+
+	s:STATE_Ibrossi = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEE1401"  }
+		}
+		
+		add_homeland = cu:trulist
+		
+	}
+
+	s:STATE_Swuputhaland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9C3F01"  }
+		}
+		
+		add_homeland = cu:charrind
+		
+	}
+
+	s:STATE_Eppepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x237C01"  }
+		}
+		
+		add_homeland = cu:charrind
+		
+	}
+
+	s:STATE_Leusert = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x87DA01"  }
+		}
+		
+		add_homeland = cu:charrind
+		
+	}
+
+	s:STATE_Feuchtuilt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x133401"  }
+		}
+		
+		add_homeland = cu:phippistan
+		
+	}
+
+	s:STATE_Hianmuand = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEA6B01"  }
+		}
+		
+		add_homeland = cu:phippistan
+		
+	}
+
+	s:STATE_Fricust = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x799201"  }
+		}
+		
+		add_homeland = cu:phippistan
+		
+	}
+
+	s:STATE_Shoshand = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD7E001"  }
+		}
+		
+		add_homeland = cu:phippistan
+		
+	}
+
+	s:STATE_Quertond = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x621B01"  }
+		}
+		
+		add_homeland = cu:coodiq
+		
+	}
+
+	s:STATE_Olecco = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3C8201"  }
+		}
+		
+		add_homeland = cu:coodiq
+		
+	}
+
+	s:STATE_Swojuthestan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x665301"  }
+		}
+		
+		add_homeland = cu:ikande
+		
+	}
+
+	s:STATE_Tuupix = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD5A101"  }
+		}
+		
+		add_homeland = cu:coodiq
+		
+	}
+
+	s:STATE_Phogist = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1ED001"  }
+		}
+		
+		add_homeland = cu:coodiq
+		
+	}
+
+	s:STATE_Trosuth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x21EA01"  }
+		}
+		
+		add_homeland = cu:ikande
+		
+	}
+
+	s:STATE_Onmiland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9D1301"  }
+		}
+		
+		add_homeland = cu:ikande
+		
+	}
+
+	s:STATE_Stiic = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x8E5A01"  }
+		}
+		
+		add_homeland = cu:ikande
+		
+	}
+
+	s:STATE_Lioc = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x457D01"  }
+		}
+		
+		add_homeland = cu:ikande
+		
+	}
+
+	s:STATE_Lirbiu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x139301"  }
+		}
+		
+		add_homeland = cu:asrurro
+		
+	}
+
+	s:STATE_Juolez = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x564701"  }
+		}
+		
+		add_homeland = cu:asrurro
+		
+	}
+
+	s:STATE_Arterd = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x176301"  }
+		}
+		
+		add_homeland = cu:asrurro
+		
+	}
+
+	s:STATE_Kerbua = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB8DC01"  }
+		}
+		
+		add_homeland = cu:cooppeung
+		
+	}
+
+	s:STATE_Strachapp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD4E301"  }
+		}
+		
+		add_homeland = cu:cooppeung
+		
+	}
+
+	s:STATE_Olurba = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x46B801"  }
+		}
+		
+		add_homeland = cu:cooppeung
+		
+	}
+
+	s:STATE_Theer = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD12501"  }
+		}
+		
+		add_homeland = cu:ukibwu
+		
+	}
+
+	s:STATE_Ambirt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xAFE701"  }
+		}
+		
+		add_homeland = cu:asrurro
+		
+	}
+
+	s:STATE_Shodast = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3A2B01"  }
+		}
+		
+		add_homeland = cu:asrurro
+		
+	}
+
+	s:STATE_Itrarti = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3AAF01"  }
+		}
+		
+		add_homeland = cu:ukibwu
+		
+	}
+
+	s:STATE_Ertoland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEBD501"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Essaland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xDE2401"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Tridest = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x452A01"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Ortostan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEF4001"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Gaacey = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x568901"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Cendoi = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x01CE01"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Iminge = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD8E301"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Batharii = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xBE2901"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Strirbalt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD14601"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Umburru = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2DC401"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Etrolti = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD41201" "xBF2601"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Steab = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x886101"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Eppapp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x70EB01"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Fruquiland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1C4E01"  }
+		}
+		
+		add_homeland = cu:strojathipp
+		
+	}
+
+	s:STATE_Orducci = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xC4CB01"  }
+		}
+		
+		add_homeland = cu:ukibwu
+		
+	}
+
+	s:STATE_Ertastan = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x57F701"  }
+		}
+		
+		add_homeland = cu:strojathipp
+		
+	}
+
+	s:STATE_Mostoria = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x002F01"  }
+		}
+		
+		add_homeland = cu:ukibwu
+		
+	}
+
+	s:STATE_Hiet = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA66001"  }
+		}
+		
+		add_homeland = cu:ukibwu
+		
+	}
+
+	s:STATE_Stiab = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x34A101"  }
+		}
+		
+		add_homeland = cu:strojathipp
+		
+	}
+
+	s:STATE_Chamestoss = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD1C501"  }
+		}
+		
+		add_homeland = cu:strojathipp
+		
+	}
+
+	s:STATE_Thiag = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x990201"  }
+		}
+		
+		add_homeland = cu:strojathipp
+		
+	}
+
+	s:STATE_Thoar = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA37101"  }
+		}
+		
+		add_homeland = cu:strojathipp
+		
+	}
+
+	s:STATE_Nuob = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x5F9001"  }
+		}
+		
+		add_homeland = cu:strojathipp
+		
+	}
+
+	s:STATE_Ibwabwo = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x14EF01"  }
+		}
+		
+		add_homeland = cu:strojathipp
+		
+	}
+
+	s:STATE_Tuac = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD70301"  }
+		}
+		
+		add_homeland = cu:strojathipp
+		
+	}
+
+	s:STATE_Ebrassu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x2B4201"  }
+		}
+		
+		add_homeland = cu:strojathipp
+		
+	}
+
+	s:STATE_Gothuniu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD97401"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Duinard = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xABBB01"  }
+		}
+		
+		add_homeland = cu:quagust
+		
+	}
+
+	s:STATE_Beakix = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x26DE01"  }
+		}
+		
+		add_homeland = cu:ukibwu
+		
+	}
+
+	s:STATE_Michtuu = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xF8D101"  }
+		}
+		
+		add_homeland = cu:ukibwu
+		
+	}
+
+	s:STATE_Shepaststregeth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7D1E01"  }
+		}
+		
+		add_homeland = cu:ukibwu
+		
+	}
+
+	s:STATE_Stief = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEF9801"  }
+		}
+		
+		add_homeland = cu:ukibwu
+		
+	}
+
+	s:STATE_Phenust = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB49701"  }
+		}
+		
+		add_homeland = cu:sashaa
+		
+	}
+
+	s:STATE_Qualoth = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x6C2201"  }
+		}
+		
+		add_homeland = cu:ukibwu
+		
+	}
+
+	s:STATE_Echotri = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x0EA301"  }
+		}
+		
+		add_homeland = cu:sashaa
+		
+	}
+
+	s:STATE_Suuppiund = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x41E001"  }
+		}
+		
+		add_homeland = cu:ukibwu
+		
+	}
+
+	s:STATE_Swombepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x455001"  }
+		}
+		
+		add_homeland = cu:ukibwu
+		
+	}
+
+	s:STATE_Jeepepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xD86901"  }
+		}
+		
+		add_homeland = cu:sashaa
+		
+	}
+
+	s:STATE_Icesra = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xB69E01"  }
+		}
+		
+		add_homeland = cu:sashaa
+		
+	}
+
+	s:STATE_Itusso = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x78DA01"  }
+		}
+		
+		add_homeland = cu:sashaa
+		
+	}
+
+	s:STATE_Suichteilt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7D3601"  }
+		}
+		
+		add_homeland = cu:ukibwu
+		
+	}
+
+	s:STATE_Swotastord = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x3D8F01"  }
+		}
+		
+		add_homeland = cu:oquarru
+		
+	}
+
+	s:STATE_Noes = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x936901"  }
+		}
+		
+		add_homeland = cu:oquarru
+		
+	}
+
+	s:STATE_Quutost = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xEFBA01"  }
+		}
+		
+		add_homeland = cu:oquarru
+		
+	}
+
+	s:STATE_Niep = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x741701"  }
+		}
+		
+		add_homeland = cu:oquarru
+		
+	}
+
+	s:STATE_Jootreing = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x044101"  }
+		}
+		
+		add_homeland = cu:oquarru
+		
+	}
+
+	s:STATE_Issung = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7B7801"  }
+		}
+		
+		add_homeland = cu:oquarru
+		
+	}
+
+	s:STATE_Ipparra = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x757501"  }
+		}
+		
+		add_homeland = cu:oquarru
+		
+	}
+
+	s:STATE_Cattui = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x1BF901"  }
+		}
+		
+		add_homeland = cu:oquarru
+		
+	}
+
+	s:STATE_Attirto = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x041601"  }
+		}
+		
+		add_homeland = cu:oquarru
+		
+	}
+
+	s:STATE_Strikith = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "xA15301"  }
+		}
+		
+		add_homeland = cu:oquarru
+		
+	}
+
+	s:STATE_Shilustiland = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x32F980"  }
+		}
+		
+		
+	}
+
+	s:STATE_Neohong = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x9A0A80"  }
+		}
+		
+		
+	}
+
+	s:STATE_Juistroalt = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x526580"  }
+		}
+		
+		
+	}
+
+	s:STATE_Nestinau = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x7CEA80"  }
+		}
+		
+		
+	}
+
+	s:STATE_Laegepp = {
+		create_state = {
+			country = c:RUS
+			owned_provinces = { "x316080"  }
+		}
+		
+		
+	}
+
+}

@@ -330,3 +330,43 @@ KRL = {
 	cultures = { krullian }
 	capital = STATE_Futhirii
 }
+HRS = {
+	color = { 170 255 85 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { hersheban }
+	capital = STATE_Futhirii
+}
+YMI = {
+	color = { 174 174 174 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { yumiturian }
+	capital = STATE_Futhirii
+}
+HOW = {
+	color = { 149 112 191 }
+
+	country_type = decentralized
+
+	tier = empire
+	
+	cultures = { howondalander }
+	capital = STATE_Muosuy
+}
+LAO = {
+	color = { 166 221 168 }
+
+	country_type = recognized
+
+	tier = empire
+	
+	cultures = { laotani }
+	capital = STATE_Icholand
+}

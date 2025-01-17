@@ -24,3 +24,6 @@ agatean_heritage = {
 uberwalder_heritage = {
 	heritage = yes
 }
+howondalander_heritage = {
+	heritage = yes
+}

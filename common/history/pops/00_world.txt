@@ -5291,12 +5291,11 @@
 		}
 	}
 	s:STATE_Roepiq = {
-		region_state: = {
+		region_state:KRL = {
 			create_pop = {
-				culture = lesrii
-				size = 0
+				culture = krullian
+				size = 197310
 			}
-
 		}
 	}
 	s:STATE_Strajostuland = {
@@ -5321,7 +5320,7 @@
 		region_state:KRL = {
 			create_pop = {
 				culture = krullian
-				size = 80000
+				size = 210000
 			}
 
 		}
@@ -5330,7 +5329,7 @@
 		region_state:KRL = {
 			create_pop = {
 				culture = krullian
-				size = 152500
+				size = 452500
 			}
 
 		}

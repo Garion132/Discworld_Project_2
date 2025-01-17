@@ -5335,7 +5335,7 @@
 	s:STATE_Futhirii={
 		region_state:KRL={
 			create_building={
-				building="pmg_base_building_circumfence"
+				building="building_circumfence"
 				add_ownership={
 					country={
 						country="c:KRL"

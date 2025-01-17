@@ -63,6 +63,16 @@
  AGA_ADJ:0 "Agatean"
  KRL:0 "Krull"
  KRL_ADJ:0 "Krullian"
+ HRS:0 "Hersheba"
+ HRS_ADJ:0 "Hersheban"
+ YMI:0 "Yumitury"
+ YMI_ADJ:0 "Yumiturian"
+ HOW:0 "Howondaland"
+ HOW_ADJ:0 "Howondalander"
+ LAO:0 "Laotan"
+ LAO_ADJ:0 "Laotani"
+ 
+ MORPORKIA:0 "Ankh-Morpork Hegemony"
  
 
   # Dynamic countries

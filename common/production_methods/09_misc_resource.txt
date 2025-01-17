@@ -211,7 +211,7 @@ default_building_rubber_plantation = {
 	}
 }
 
-automatic_irrigation_building_rubber_plantation = {
+pm_vulcanization = {
 	texture = "gfx/interface/icons/production_method_icons/automatic_irrigation.dds"
 
 	state_modifiers = {
@@ -221,12 +221,13 @@ automatic_irrigation_building_rubber_plantation = {
 	}
 		
 	unlocking_technologies = {
-		pumpjacks
+		vulcanization
 	}
 	
 	building_modifiers = {
 		workforce_scaled = {
-			goods_input_engines_add = 5
+			goods_input_sulfur_add = 5
+			goods_input_chemicals_add = 5
 			goods_output_rubber_add = 60
 		}
 

@@ -408,7 +408,7 @@ tools = {
 
 chemicals = {
 	texture = "gfx/interface/icons/goods_icons/chemicals.dds"
-	cost = 50
+	cost = 40
 	category = industrial
 	
 	prestige_factor = 10

@@ -80,7 +80,7 @@ combat_unit_type_spear_infantry = {
     group = combat_unit_group_infantry
 
     upkeep_modifier = {
-        goods_input_small_arms_add = 0.5
+        goods_input_polearms_add = 0.5
     }
 
     battle_modifier = {
@@ -137,8 +137,9 @@ combat_unit_type_armored_infantry = {
     group = combat_unit_group_infantry
 
     upkeep_modifier = {
-        goods_input_small_arms_add = 0.5
+        goods_input_polearms_add = 0.5
         goods_input_steel_add = 0.5
+        goods_input_crossbows_add = 0.5
     }
 
     battle_modifier = {
@@ -196,11 +197,13 @@ combat_unit_type_armored_infantry = {
 	}
 }
 
+# Pike & Shot
 combat_unit_type_line_infantry = {
     group = combat_unit_group_infantry
 
     upkeep_modifier = {
-        goods_input_small_arms_add = 2
+        goods_input_small_arms_add = 1
+        goods_input_polearms_add = 1
     }
 
     battle_modifier = {
@@ -252,6 +255,7 @@ combat_unit_type_line_infantry = {
 	}
 }
 
+# Line
 combat_unit_type_skirmish_infantry = {
     group = combat_unit_group_infantry
 
@@ -489,7 +493,7 @@ combat_unit_type_ballista_artillery = {
     }	
 
     upkeep_modifier = {
-        goods_input_artillery_add = 0.5
+        goods_input_crossbows_add = 0.5
     }
     
     battle_modifier = {
@@ -546,6 +550,7 @@ combat_unit_type_ballista_artillery = {
     }
 }
 
+# Mobile
 combat_unit_type_cannon_artillery = {
     group = combat_unit_group_artillery
 	
@@ -556,15 +561,13 @@ combat_unit_type_cannon_artillery = {
     }	
 
     upkeep_modifier = {
-        goods_input_artillery_add = 1
+        goods_input_crossbows_add = 1
     }
     
     battle_modifier = {
-        unit_offense_add = 25
+        unit_offense_add = 20
         unit_defense_add = 15
         unit_morale_loss_add = 10
-        unit_kill_rate_add = 0.1
-        unit_devastation_mult = 0.1
     }
 
     formation_modifier = {
@@ -614,6 +617,7 @@ combat_unit_type_cannon_artillery = {
     }
 }
 
+# Cannon
 combat_unit_type_mobile_artillery = {
     group = combat_unit_group_artillery
 	
@@ -625,6 +629,7 @@ combat_unit_type_mobile_artillery = {
 
     upkeep_modifier = {
         goods_input_artillery_add = 2
+        goods_input_ammunition_add = 1
     }
     
     battle_modifier = {
@@ -928,7 +933,7 @@ combat_unit_type_hussars = {
     }	
     
     upkeep_modifier = {
-        goods_input_small_arms_add = 1
+        goods_input_polearms_add = 1
         goods_input_grain_add = 1
     }
 
@@ -1059,7 +1064,7 @@ combat_unit_type_cuirassiers = {
     
     upkeep_modifier = {
         goods_input_grain_add = 1
-        goods_input_small_arms_add = 2
+        goods_input_polearms_add = 2
     }
 
     battle_modifier = {
@@ -1121,7 +1126,7 @@ combat_unit_type_lancers = {
     
     upkeep_modifier = {
         goods_input_grain_add = 2
-        goods_input_small_arms_add = 2
+        goods_input_polearms_add = 2
 		goods_input_iron_add = 2
     }
 
@@ -1218,8 +1223,9 @@ combat_unit_type_galley = {
     group = combat_unit_group_light_ship
 
     upkeep_modifier = {
-        goods_input_hardwood_add = 1
-        goods_input_fabric_add = 1
+        goods_input_hardwood_add = 0.5
+        goods_input_fabric_add = 0.5
+        goods_input_polearms_add = 0.5
     }
 
     battle_modifier = {
@@ -1248,6 +1254,7 @@ combat_unit_type_caravel = {
 
     upkeep_modifier = {
         goods_input_manowars_add = 1
+        goods_input_crossbows_add = 0.5
     }
 
     battle_modifier = {
@@ -1275,7 +1282,7 @@ combat_unit_type_frigate = {
 
     upkeep_modifier = {
         goods_input_manowars_add = 1
-        goods_input_artillery_add = 1
+        goods_input_crossbows_add = 1
     }
 
     battle_modifier = {
@@ -1393,7 +1400,7 @@ combat_unit_type_carrack = {
 
     upkeep_modifier = {
         goods_input_manowars_add = 2
-        goods_input_artillery_add = 1
+        goods_input_crossbows_add = 1
     }
 
     battle_modifier = {
@@ -1421,7 +1428,7 @@ combat_unit_type_galleon = {
 
     upkeep_modifier = {
         goods_input_manowars_add = 3
-        goods_input_artillery_add = 2
+        goods_input_crossbows_add = 2
     }
 
     battle_modifier = {
@@ -1447,7 +1454,8 @@ combat_unit_type_man_o_war = {
 
     upkeep_modifier = {
         goods_input_manowars_add = 3
-        goods_input_artillery_add = 3
+        goods_input_artillery_add = 2
+        goods_input_ammunition_add = 2
     }
 
     battle_modifier = {
@@ -1608,33 +1616,5 @@ combat_unit_type_submarine = {
 
     combat_unit_image = {
         texture = "gfx/unit_illustrations/support_ships_submarine.dds"
-    }
-}
-
-combat_unit_type_carrier = {
-    group = combat_unit_group_support_ship
-
-    upkeep_modifier = {
-        goods_input_ironclads_add = 8
-        goods_input_ammunition_add = 8
-        goods_input_radios_add = 4
-        goods_input_aeroplanes_add = 8
-    }
-
-    battle_modifier = {
-        unit_offense_add = 120
-        unit_defense_add = 60
-        unit_morale_loss_add = 6
-		unit_convoy_defense_mult = 0.25
-    }
-
-    formation_modifier = {
-        military_formation_movement_speed_mult = -0.2
-    }
-
-	unlocking_technologies = { battleship_tech }
-
-    combat_unit_image = {
-        texture = "gfx/unit_illustrations/support_ships_carrier.dds"
     }
 }

@@ -1,0 +1,13 @@
+﻿INTERESTS = {
+	c:AMP ?= {
+		add_declared_interest = region_Ruodind
+		add_declared_interest = region_Shitrurt
+		add_declared_interest = region_Chukust
+		add_declared_interest = region_Theuf
+		add_declared_interest = region_Strihastilt
+	}
+}	
+
+
+
+

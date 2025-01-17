@@ -5318,19 +5318,19 @@
 		}
 	}
 	s:STATE_Eppabwu = {
-		region_state: = {
+		region_state:KRL = {
 			create_pop = {
-				culture = lesrii
-				size = 0
+				culture = krullian
+				size = 80000
 			}
 
 		}
 	}
 	s:STATE_Futhirii = {
-		region_state: = {
+		region_state:KRL = {
 			create_pop = {
-				culture = lesrii
-				size = 0
+				culture = krullian
+				size = 152500
 			}
 
 		}

@@ -15,3 +15,12 @@ klatchian_heritage = {
 omnian_heritage = {
 	heritage = yes
 }
+hublander_heritage = {
+	heritage = yes
+}
+agatean_heritage = {
+	heritage = yes
+}
+uberwalder_heritage = {
+	heritage = yes
+}

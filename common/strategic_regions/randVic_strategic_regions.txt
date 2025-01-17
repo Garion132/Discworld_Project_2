@@ -78,7 +78,7 @@ region_Kaltuo = {
 }
 region_Chukust = {
 	graphical_culture = "arabic"
-	capital_province = x1A1201
+	capital_province = x1C2901
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Strocust STATE_Achoqua STATE_Phibross STATE_Staeg STATE_Osresro STATE_Jaltie STATE_Soaj STATE_Tostalea STATE_Aporbo STATE_Luthifou STATE_Kuabey}
 }
@@ -195,12 +195,6 @@ region_Custopiu = {
 	capital_province = xCB3F01
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Frubrastan STATE_Onicca STATE_Egesri STATE_Ichirro STATE_Sailind }
-}
-region_Uchtibwi = {
-	graphical_culture = "arabic"
-	capital_province = xF67301
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Geag STATE_Hiucoy STATE_Siig STATE_Tachia STATE_Tethocau STATE_Stripothess }
 }
 region_Elordo = {
 	graphical_culture = "arabic"
@@ -368,7 +362,7 @@ region_Theuf = {
 	graphical_culture = "arabic"
 	capital_province = x97EE01
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Daoltiopp STATE_Reekux STATE_Unzing STATE_Mebroi STATE_Noumbaostan }
+	states = {  STATE_Daoltiopp STATE_Reekux STATE_Unzing STATE_Mebroi STATE_Noumbaostan STATE_Diusheoss STATE_Huuqueapp STATE_Geag STATE_Hiucoy STATE_Siig STATE_Tachia STATE_Tethocau STATE_Stripothess}
 }
 region_Pastokee = {
 	graphical_culture = "arabic"
@@ -384,9 +378,9 @@ region_Ufandi = {
 }
 region_Shitrurt = {
 	graphical_culture = "arabic"
-	capital_province = xC7BE01
+	capital_province = x2D7001
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Thour STATE_Tiecheond STATE_Bashua STATE_Stiosthiep STATE_Anzeland STATE_Nurrii STATE_Tuic}
+	states = {  STATE_Thour STATE_Tiecheond STATE_Bashua STATE_Stiosthiep STATE_Anzeland STATE_Nurrii STATE_Tuic STATE_Caihay STATE_Otrapp STATE_Egucce}
 }
 region_Uttolt = {
 	graphical_culture = "arabic"
@@ -442,12 +436,6 @@ region_Phimuth = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Theor STATE_Ombestan STATE_Engusro STATE_Ipocca STATE_Jothapoi }
 }
-region_Steih = {
-	graphical_culture = "arabic"
-	capital_province = x7DAF01
-	map_color = { 0.5 0 0 }
-	states = { STATE_Huuqueapp }
-}
 region_Tuaj = {
 	graphical_culture = "arabic"
 	capital_province = x450C01
@@ -464,7 +452,7 @@ region_Egerri = {
 	graphical_culture = "arabic"
 	capital_province = xDE5F01
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Arrocce STATE_Shisothoss STATE_Cuetolt }
+	states = {  STATE_Arrocce STATE_Shisothoss STATE_Cuetolt STATE_Leapey }
 }
 region_Giar = {
 	graphical_culture = "arabic"
@@ -675,12 +663,6 @@ region_Gauqueurt = {
 	capital_province = xD75701
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Quenzeng STATE_Ubwiltu }
-}
-region_Buustraess = {
-	graphical_culture = "arabic"
-	capital_province = x4DFA01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Diusheoss }
 }
 region_Shunustopp = {
 	graphical_culture = "arabic"
@@ -1414,18 +1396,6 @@ region_Trenzostan = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Uchtert }
 }
-region_Shipathart = {
-	graphical_culture = "arabic"
-	capital_province = x0F9801
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Egucce }
-}
-region_Asaqua = {
-	graphical_culture = "arabic"
-	capital_province = xE7DB01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Caihay }
-}
 region_Strottelt = {
 	graphical_culture = "arabic"
 	capital_province = xAC1301
@@ -1443,12 +1413,6 @@ region_Usastre = {
 	capital_province = x578701
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Stiifstiig STATE_Strustrelt }
-}
-region_Okanzi = {
-	graphical_culture = "arabic"
-	capital_province = x18C401
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Otrapp }
 }
 region_Heefox = {
 	graphical_culture = "arabic"
@@ -1923,12 +1887,6 @@ region_Leangoastan = {
 	capital_province = x048101
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Gachoo STATE_Baaguy }
-}
-region_Tricuth = {
-	graphical_culture = "arabic"
-	capital_province = xD2BC01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Leapey }
 }
 region_Kaattuurt = {
 	graphical_culture = "arabic"
@@ -3221,9 +3179,6 @@ region_Charastard = {
 	states = {  STATE_Hubwie }
 }
 region_Circle_Sea = {
-	graphical_culture = "arabic"
-	capital_province = x91C8FF
-	map_color = { 0.5 0 0 }
 	states = {  STATE_Circle_Sea }
 }
 

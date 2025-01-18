@@ -3,7 +3,7 @@ Ankh-morpork: arms, heavy & light industry, railway equipment, biothaumic equipm
 Sto Lat: cabbages, cabbage seeds, specialist farming equipment, railway equipment
 Sto Helit: Lace, Bespoke clothing, patchwork quilts
 Sto Kerrig: paper of all sorts (based on cabbages)
-Chirm: shellfish, driftwood, once oysters
+Chirm: shellfish, driftwood, once oysters/pearls
 fratchwood: furniture
 feltwhistles: pigs
 Skund: Sentient timber
@@ -20,7 +20,7 @@ Lancre: Gold, wool, timber, cider, cheese, mediciments
 Ohulan Cutash: "famous market"
 Twoshirts: "flow of lumberjacks around"
 Zemphis: was a rich trading city, now "lawless"
-Llamedos: rain, coal, iron, precious metals, instruments zinc, arsenic
+Llamedos: rain, coal, iron, precious metals, instruments, zinc, arsenic
 Hegen: smoked herring, herring beer, whale oil
 Uberwald: coal, iron, fat, tallow, precious metals, sugar, timber
 	Schmaltzberg: fats
@@ -29,7 +29,7 @@ Uberwald: coal, iron, fat, tallow, precious metals, sugar, timber
 	blintz has institute
 Borogravia: Beets
 Zlobenia: wooden clogs, military style clothing
-mouldavia: grain, dairy, beef, pork
+mouldavia: grain, dairy, beef, pigs
 nothingfjord: fish, iron, timber, hardwood
 great outdoors region: furs, herring, salt, brandy
 	rammerrock: iron, silver
@@ -68,6 +68,7 @@ Bounsea: rubber
 beowill: fish
 Newpork: pearls
 Agatea: gold(lots), rice, porcelain, silk, paper, arms
+nafooi: pigs
 betrobi: hardwood, fruit
 XXXX(fourecks): wool, sheep, opals, bananas, beer
 land of fog: sheep

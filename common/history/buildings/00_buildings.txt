@@ -1414,7 +1414,7 @@
 		}
 	}
 	s:STATE_Taujind={
-		region_state:UTH={
+		region_state:BOR={
 
 		}
 	}
@@ -1930,7 +1930,7 @@
 		}
 	}
 	s:STATE_Foeh={
-		region_state:UTH={
+		region_state:BOR={
 
 		}
 	}
@@ -3647,7 +3647,7 @@
 		}
 	}
 	s:STATE_Staef={
-		region_state:UTH={
+		region_state:BOR={
 
 		}
 	}
@@ -4614,8 +4614,8 @@
 
 		}
 	}
-	s:STATE_Fralistostan={
-		region_state:ABR={
+	s:STATE_Genua={
+		region_state:GEN={
 
 		}
 	}

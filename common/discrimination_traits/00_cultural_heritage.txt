@@ -27,3 +27,6 @@ uberwalder_heritage = {
 howondalander_heritage = {
 	heritage = yes
 }
+ramtops_heritage = {
+	heritage = yes
+}

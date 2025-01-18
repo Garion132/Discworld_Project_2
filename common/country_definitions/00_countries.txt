@@ -370,3 +370,63 @@ LAO = {
 	cultures = { laotani }
 	capital = STATE_Icholand
 }
+ELH = {
+	color = { 166 70 38}
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { elharibian }
+	capital = STATE_Mouccauland
+}
+MET = {
+	color = { 198 177 209}
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { octarine }
+	capital = STATE_Fethofoi
+}
+GEN = {
+	color = { 155 72 93 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { genuan }
+	capital = STATE_Genua
+}
+RHE = {
+	color = { 208 64 96}
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { rheinthalian }
+	capital = STATE_Theor
+}
+BOR = {
+	color = { 159  0  96}
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { borogravian }
+	capital = STATE_Theor
+}
+COP = {
+	color = { 168 102 26}
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { dwarf }
+	capital = STATE_Raecax
+}

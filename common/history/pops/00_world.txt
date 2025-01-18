@@ -51,7 +51,7 @@
 		region_state: = {
 			create_pop = {
 				culture = osrappa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -69,7 +69,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jaedaq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -78,7 +78,7 @@
 		region_state: = {
 			create_pop = {
 				culture = berbeu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -87,19 +87,19 @@
 		region_state: = {
 			create_pop = {
 				culture = unzuss
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = paitiq
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = toichtaurt
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = uningo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -108,11 +108,11 @@
 		region_state: = {
 			create_pop = {
 				culture = osrindi
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = quodistapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -121,7 +121,7 @@
 		region_state: = {
 			create_pop = {
 				culture = laibeq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -130,7 +130,7 @@
 		region_state: = {
 			create_pop = {
 				culture = faartialt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -139,7 +139,7 @@
 		region_state: = {
 			create_pop = {
 				culture = beupapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -148,7 +148,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gaisaland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -157,7 +157,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ortonmo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -166,7 +166,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gothacie
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -175,7 +175,7 @@
 		region_state: = {
 			create_pop = {
 				culture = mearteond
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -193,7 +193,7 @@
 		region_state: = {
 			create_pop = {
 				culture = baechiupp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -202,7 +202,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hael
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -211,7 +211,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tritterd
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -220,7 +220,7 @@
 		region_state: = {
 			create_pop = {
 				culture = irenzo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -229,7 +229,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trihithistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -238,7 +238,7 @@
 		region_state: = {
 			create_pop = {
 				culture = shojuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -247,7 +247,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quuchtond
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -256,7 +256,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ibrustan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -274,7 +274,7 @@
 		region_state: = {
 			create_pop = {
 				culture = kastahie
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -283,19 +283,19 @@
 		region_state: = {
 			create_pop = {
 				culture = frahoth
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = thior
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = choltustan
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = cithadaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -313,7 +313,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strekistirt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -322,7 +322,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chunist
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -331,7 +331,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jeushaert
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -340,7 +340,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doagoss
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -349,7 +349,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chibast
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -358,7 +358,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pheltend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -367,7 +367,7 @@
 		region_state: = {
 			create_pop = {
 				culture = shojuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -376,11 +376,11 @@
 		region_state: = {
 			create_pop = {
 				culture = quodistapp
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = trihithistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -389,7 +389,7 @@
 		region_state: = {
 			create_pop = {
 				culture = faig
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -398,7 +398,7 @@
 		region_state: = {
 			create_pop = {
 				culture = biccuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -407,24 +407,26 @@
 		region_state: = {
 			create_pop = {
 				culture = uningo
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Raecax = {
+		region_state:COP = {
+			create_pop = {
+				culture = dwarf
+				size = 10000
+			}
+		}
 		region_state: = {
 			create_pop = {
-				culture = kuisaq
-				size = 0
-			}
-			create_pop = {
 				culture = paitiq
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = uningo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -433,7 +435,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stiol
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -442,7 +444,7 @@
 		region_state: = {
 			create_pop = {
 				culture = distufuu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -451,7 +453,7 @@
 		region_state: = {
 			create_pop = {
 				culture = niajaland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -460,7 +462,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quuhotheng
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -469,7 +471,7 @@
 		region_state: = {
 			create_pop = {
 				culture = frefistestan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -478,7 +480,7 @@
 		region_state: = {
 			create_pop = {
 				culture = uningo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -487,7 +489,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fathoduu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -496,7 +498,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quuhotheng
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -505,7 +507,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stoib
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -514,7 +516,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dastuseu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -523,7 +525,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stiol
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -532,7 +534,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trihithistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -541,7 +543,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doagoss
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -550,7 +552,7 @@
 		region_state: = {
 			create_pop = {
 				culture = isrind
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -559,7 +561,7 @@
 		region_state: = {
 			create_pop = {
 				culture = unmishu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -568,11 +570,11 @@
 		region_state: = {
 			create_pop = {
 				culture = ombobru
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = gothacie
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -581,7 +583,7 @@
 		region_state: = {
 			create_pop = {
 				culture = irenzo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -590,7 +592,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tethahaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -599,7 +601,7 @@
 		region_state: = {
 			create_pop = {
 				culture = inmotre
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -608,7 +610,7 @@
 		region_state: = {
 			create_pop = {
 				culture = enasro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -617,11 +619,11 @@
 		region_state: = {
 			create_pop = {
 				culture = theujthoih
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = faig
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -630,7 +632,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trihithistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -639,7 +641,7 @@
 		region_state: = {
 			create_pop = {
 				culture = berbeu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -648,7 +650,7 @@
 		region_state: = {
 			create_pop = {
 				culture = geefiy
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -657,11 +659,11 @@
 		region_state: = {
 			create_pop = {
 				culture = hael
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = trihithistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -670,7 +672,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tethahaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -679,7 +681,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dastuseu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -688,7 +690,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stracuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -697,7 +699,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doagoss
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -706,7 +708,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quombipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -715,7 +717,7 @@
 		region_state: = {
 			create_pop = {
 				culture = beupapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -724,7 +726,7 @@
 		region_state: = {
 			create_pop = {
 				culture = shojuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -733,7 +735,7 @@
 		region_state: = {
 			create_pop = {
 				culture = theujthoih
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -742,7 +744,7 @@
 		region_state: = {
 			create_pop = {
 				culture = erbistre
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -751,20 +753,16 @@
 		region_state: = {
 			create_pop = {
 				culture = quuhotheng
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Taujind = {
-		region_state: = {
+		region_state:BOR = {
 			create_pop = {
-				culture = phocith
-				size = 0
-			}
-			create_pop = {
-				culture = osrappa
-				size = 0
+				culture = borogravian
+				size = 10000
 			}
 
 		}
@@ -773,7 +771,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dein
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -782,7 +780,7 @@
 		region_state: = {
 			create_pop = {
 				culture = erdipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -800,7 +798,7 @@
 		region_state: = {
 			create_pop = {
 				culture = erbistre
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -809,7 +807,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stuob
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -818,7 +816,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jeottailand
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -835,7 +833,7 @@
 		region_state: = {
 			create_pop = {
 				culture = faig
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -844,7 +842,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dein
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -853,7 +851,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ochtass
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -862,7 +860,7 @@
 		region_state: = {
 			create_pop = {
 				culture = shojuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -871,7 +869,7 @@
 		region_state: = {
 			create_pop = {
 				culture = enasro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -880,7 +878,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hoaport
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -889,7 +887,7 @@
 		region_state: = {
 			create_pop = {
 				culture = attutte
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -898,7 +896,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dethikou
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -907,11 +905,11 @@
 		region_state: = {
 			create_pop = {
 				culture = stracuth
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = staik
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -929,7 +927,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trihithistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -947,7 +945,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tethahaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -956,7 +954,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jaedaq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -965,7 +963,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stairstiek
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -974,16 +972,16 @@
 		region_state: = {
 			create_pop = {
 				culture = frimethird
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Seafjuag = {
-		region_state: = {
+		region_state:GEN = {
 			create_pop = {
-				culture = uchustan
-				size = 0
+				culture = genuan
+				size = 10000
 			}
 
 		}
@@ -992,16 +990,16 @@
 		region_state: = {
 			create_pop = {
 				culture = jaedaq
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Doos = {
-		region_state: = {
+		region_state:RHE = {
 			create_pop = {
-				culture = kiobiq
-				size = 0
+				culture = rheinthalian
+				size = 10000
 			}
 
 		}
@@ -1010,16 +1008,16 @@
 		region_state: = {
 			create_pop = {
 				culture = trihithistan
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Theor = {
-		region_state: = {
+		region_state:RHE = {
 			create_pop = {
-				culture = trobististan
-				size = 0
+				culture = rheinthalian
+				size = 10000
 			}
 
 		}
@@ -1028,11 +1026,11 @@
 		region_state: = {
 			create_pop = {
 				culture = pheltend
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = stoib
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1041,7 +1039,7 @@
 		region_state: = {
 			create_pop = {
 				culture = uningo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1050,7 +1048,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phogotheng
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1059,7 +1057,7 @@
 		region_state: = {
 			create_pop = {
 				culture = seestriord
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1068,7 +1066,7 @@
 		region_state: = {
 			create_pop = {
 				culture = niajaland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1077,7 +1075,7 @@
 		region_state: = {
 			create_pop = {
 				culture = uchustan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1086,7 +1084,7 @@
 		region_state: = {
 			create_pop = {
 				culture = nastokou
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1095,7 +1093,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doagoss
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1104,7 +1102,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swefestupp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1113,7 +1111,7 @@
 		region_state: = {
 			create_pop = {
 				culture = laibeq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1122,7 +1120,7 @@
 		region_state: = {
 			create_pop = {
 				culture = huichtoeland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1131,7 +1129,7 @@
 		region_state: = {
 			create_pop = {
 				culture = juujux
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1140,7 +1138,7 @@
 		region_state: = {
 			create_pop = {
 				culture = liij
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1149,7 +1147,7 @@
 		region_state: = {
 			create_pop = {
 				culture = beupapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1158,11 +1156,11 @@
 		region_state: = {
 			create_pop = {
 				culture = berbeu
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = ossecha
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1171,7 +1169,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stracuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1180,7 +1178,7 @@
 		region_state: = {
 			create_pop = {
 				culture = theujthoih
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1189,7 +1187,7 @@
 		region_state: = {
 			create_pop = {
 				culture = faartialt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1198,7 +1196,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dastuseu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1207,7 +1205,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jeushaert
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1216,7 +1214,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossecha
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1225,7 +1223,7 @@
 		region_state: = {
 			create_pop = {
 				culture = erbistre
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1243,15 +1241,15 @@
 		region_state: = {
 			create_pop = {
 				culture = ombobru
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = chunist
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = tritterd
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1260,7 +1258,7 @@
 		region_state: = {
 			create_pop = {
 				culture = huichtoeland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1269,7 +1267,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tethahaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1278,7 +1276,7 @@
 		region_state: = {
 			create_pop = {
 				culture = faig
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1287,7 +1285,7 @@
 		region_state: = {
 			create_pop = {
 				culture = frahoth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1296,7 +1294,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tritterd
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1305,7 +1303,7 @@
 		region_state: = {
 			create_pop = {
 				culture = justidua
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1314,7 +1312,7 @@
 		region_state: = {
 			create_pop = {
 				culture = beupapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1323,7 +1321,7 @@
 		region_state: = {
 			create_pop = {
 				culture = uchustan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1332,7 +1330,7 @@
 		region_state: = {
 			create_pop = {
 				culture = lailoq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1341,7 +1339,7 @@
 		region_state: = {
 			create_pop = {
 				culture = uchustan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1350,7 +1348,7 @@
 		region_state: = {
 			create_pop = {
 				culture = faig
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1368,24 +1366,16 @@
 		region_state: = {
 			create_pop = {
 				culture = chibast
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Foeh = {
-		region_state: = {
+		region_state:BOR = {
 			create_pop = {
-				culture = quuchtond
-				size = 0
-			}
-			create_pop = {
-				culture = phocith
-				size = 0
-			}
-			create_pop = {
-				culture = reudang
-				size = 0
+				culture = borogravian
+				size = 10000
 			}
 
 		}
@@ -1394,11 +1384,11 @@
 		region_state: = {
 			create_pop = {
 				culture = kuisaq
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = kiobiq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1407,7 +1397,7 @@
 		region_state: = {
 			create_pop = {
 				culture = mearteond
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1416,7 +1406,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dein
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1425,7 +1415,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jiambiard
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1434,7 +1424,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jeottailand
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1443,15 +1433,15 @@
 		region_state: = {
 			create_pop = {
 				culture = urrord
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = toujez
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = muad
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1460,7 +1450,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hoaport
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1469,7 +1459,7 @@
 		region_state: = {
 			create_pop = {
 				culture = justidua
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1478,7 +1468,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quupath
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1487,7 +1477,7 @@
 		region_state: = {
 			create_pop = {
 				culture = huichtoeland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1496,7 +1486,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tethahaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1505,7 +1495,7 @@
 		region_state: = {
 			create_pop = {
 				culture = inmotre
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1514,7 +1504,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swefestupp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1523,7 +1513,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jeottailand
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1532,7 +1522,7 @@
 		region_state: = {
 			create_pop = {
 				culture = justidua
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1541,7 +1531,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stoib
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1550,11 +1540,11 @@
 		region_state: = {
 			create_pop = {
 				culture = nastihai
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = mearteond
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1563,7 +1553,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dastuseu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1572,7 +1562,7 @@
 		region_state: = {
 			create_pop = {
 				culture = uningo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1581,7 +1571,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fathoduu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1590,11 +1580,11 @@
 		region_state: = {
 			create_pop = {
 				culture = pheltend
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = stoib
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1603,16 +1593,16 @@
 		region_state: = {
 			create_pop = {
 				culture = ombobru
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Quibriland = {
-		region_state: = {
+		region_state:GEN = {
 			create_pop = {
-				culture = uchustan
-				size = 0
+				culture = genuan
+				size = 10000
 			}
 
 		}
@@ -1621,7 +1611,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pheltend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1630,7 +1620,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pheltend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1639,7 +1629,7 @@
 		region_state: = {
 			create_pop = {
 				culture = reudang
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1648,7 +1638,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ochtass
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1657,7 +1647,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jiem
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1666,7 +1656,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dastuseu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1684,7 +1674,7 @@
 		region_state: = {
 			create_pop = {
 				culture = laibeq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1693,7 +1683,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tethahaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1702,7 +1692,7 @@
 		region_state: = {
 			create_pop = {
 				culture = uningo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1711,7 +1701,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jiem
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1720,7 +1710,7 @@
 		region_state: = {
 			create_pop = {
 				culture = justidua
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1729,7 +1719,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quombipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1738,7 +1728,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jiambiard
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1747,7 +1737,7 @@
 		region_state: = {
 			create_pop = {
 				culture = distufuu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1756,16 +1746,16 @@
 		region_state: = {
 			create_pop = {
 				culture = erbistre
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Mouccauland = {
-		region_state: = {
+		region_state:ELH = {
 			create_pop = {
-				culture = justidua
-				size = 0
+				culture = elharibian
+				size = 100
 			}
 
 		}
@@ -1774,7 +1764,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chomast
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1783,7 +1773,7 @@
 		region_state: = {
 			create_pop = {
 				culture = uchustan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1792,7 +1782,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trihithistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1801,7 +1791,7 @@
 		region_state: = {
 			create_pop = {
 				culture = joibung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1810,7 +1800,7 @@
 		region_state: = {
 			create_pop = {
 				culture = endonmu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1819,7 +1809,7 @@
 		region_state: = {
 			create_pop = {
 				culture = baechiupp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1828,7 +1818,7 @@
 		region_state: = {
 			create_pop = {
 				culture = frahoth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1837,7 +1827,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossecha
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1846,7 +1836,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quulath
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1855,7 +1845,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jiambiard
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1864,7 +1854,7 @@
 		region_state: = {
 			create_pop = {
 				culture = distufuu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1873,7 +1863,7 @@
 		region_state: = {
 			create_pop = {
 				culture = baechiupp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1882,7 +1872,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jiem
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1891,7 +1881,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dethikou
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1900,7 +1890,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quodistapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1909,7 +1899,7 @@
 		region_state: = {
 			create_pop = {
 				culture = enasro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1918,7 +1908,7 @@
 		region_state: = {
 			create_pop = {
 				culture = frefistestan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1927,7 +1917,7 @@
 		region_state: = {
 			create_pop = {
 				culture = frefistestan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1945,11 +1935,11 @@
 		region_state: = {
 			create_pop = {
 				culture = frahoth
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = fathoduu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1958,7 +1948,7 @@
 		region_state: = {
 			create_pop = {
 				culture = justidua
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1967,7 +1957,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gothacie
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1976,7 +1966,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gaisaland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1985,7 +1975,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quuhotheng
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -1994,7 +1984,7 @@
 		region_state: = {
 			create_pop = {
 				culture = kiobiq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2003,7 +1993,7 @@
 		region_state: = {
 			create_pop = {
 				culture = erdipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2012,7 +2002,7 @@
 		region_state: = {
 			create_pop = {
 				culture = altustan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2021,7 +2011,7 @@
 		region_state: = {
 			create_pop = {
 				culture = justidua
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2030,7 +2020,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chabrord
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2048,7 +2038,7 @@
 		region_state: = {
 			create_pop = {
 				culture = irenzo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2057,11 +2047,11 @@
 		region_state: = {
 			create_pop = {
 				culture = seestriord
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = irenzo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2070,7 +2060,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quodistapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2088,7 +2078,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jaedaq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2097,7 +2087,7 @@
 		region_state: = {
 			create_pop = {
 				culture = liij
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2106,11 +2096,11 @@
 		region_state: = {
 			create_pop = {
 				culture = stuob
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = raumung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2119,7 +2109,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ortonmo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2128,7 +2118,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jaedaq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2137,20 +2127,16 @@
 		region_state: = {
 			create_pop = {
 				culture = erdipp
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Dunmea = {
-		region_state: = {
+		region_state:BOR = {
 			create_pop = {
-				culture = quuchtond
-				size = 0
-			}
-			create_pop = {
-				culture = jiambiard
-				size = 0
+				culture = borogravian
+				size = 10000
 			}
 
 		}
@@ -2159,7 +2145,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ibrustan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2168,7 +2154,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ortonmo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2177,7 +2163,7 @@
 		region_state:KLA = {
 			create_pop = {
 				culture = klatchian
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2186,7 +2172,7 @@
 		region_state: = {
 			create_pop = {
 				culture = berbeu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2195,7 +2181,7 @@
 		region_state: = {
 			create_pop = {
 				culture = theujthoih
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2204,7 +2190,7 @@
 		region_state: = {
 			create_pop = {
 				culture = osrindi
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2247,10 +2233,10 @@
 		}
 	}
 	s:STATE_Fethofoi = {
-		region_state: = {
+		region_state:MET = {
 			create_pop = {
-				culture = uningo
-				size = 0
+				culture = octarine
+				size = 10000
 			}
 
 		}
@@ -2259,7 +2245,7 @@
 		region_state: = {
 			create_pop = {
 				culture = endonmu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2268,7 +2254,7 @@
 		region_state: = {
 			create_pop = {
 				culture = attutte
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2277,7 +2263,7 @@
 		region_state: = {
 			create_pop = {
 				culture = paitiq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2286,7 +2272,7 @@
 		region_state: = {
 			create_pop = {
 				culture = endonmu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2325,7 +2311,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stairstiek
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2334,11 +2320,11 @@
 		region_state: = {
 			create_pop = {
 				culture = jaedaq
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = altustan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2347,7 +2333,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stoib
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2356,7 +2342,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quuhotheng
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2365,7 +2351,7 @@
 		region_state: = {
 			create_pop = {
 				culture = onastro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2374,7 +2360,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chomast
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2383,11 +2369,11 @@
 		region_state: = {
 			create_pop = {
 				culture = altustan
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = chabrord
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2396,7 +2382,7 @@
 		region_state: = {
 			create_pop = {
 				culture = osrindi
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2405,16 +2391,16 @@
 		region_state: = {
 			create_pop = {
 				culture = quuhotheng
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Artushi = {
-		region_state: = {
+		region_state:GEN = {
 			create_pop = {
-				culture = jeottailand
-				size = 0
+				culture = genuan
+				size = 10000
 			}
 
 		}
@@ -2423,7 +2409,7 @@
 		region_state: = {
 			create_pop = {
 				culture = beupapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2432,7 +2418,7 @@
 		region_state: = {
 			create_pop = {
 				culture = erdipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2441,7 +2427,7 @@
 		region_state: = {
 			create_pop = {
 				culture = osrindi
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2450,7 +2436,7 @@
 		region_state: = {
 			create_pop = {
 				culture = beupapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2459,7 +2445,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pheltend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2468,7 +2454,7 @@
 		region_state: = {
 			create_pop = {
 				culture = mithikie
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2477,7 +2463,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jaedaq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2504,7 +2490,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ibrustan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2513,11 +2499,11 @@
 		region_state: = {
 			create_pop = {
 				culture = swefestupp
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = huichtoeland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2526,7 +2512,7 @@
 		region_state: = {
 			create_pop = {
 				culture = onastro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2535,7 +2521,7 @@
 		region_state: = {
 			create_pop = {
 				culture = inzinga
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2544,11 +2530,11 @@
 		region_state: = {
 			create_pop = {
 				culture = osrindi
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = unmishu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2557,7 +2543,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ingelandusrass
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2566,7 +2552,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tethahaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2575,11 +2561,11 @@
 		region_state: = {
 			create_pop = {
 				culture = osrindi
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = quodistapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2588,7 +2574,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jiambiard
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2597,11 +2583,11 @@
 		region_state: = {
 			create_pop = {
 				culture = hael
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = chabrord
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2610,7 +2596,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jaedaq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2619,7 +2605,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tritterd
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2628,7 +2614,7 @@
 		region_state: = {
 			create_pop = {
 				culture = biccuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2646,7 +2632,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ortonmo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2655,7 +2641,7 @@
 		region_state: = {
 			create_pop = {
 				culture = uningo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2664,7 +2650,7 @@
 		region_state: = {
 			create_pop = {
 				culture = erdipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2673,7 +2659,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossecha
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2682,7 +2668,7 @@
 		region_state: = {
 			create_pop = {
 				culture = erdipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2691,7 +2677,7 @@
 		region_state: = {
 			create_pop = {
 				culture = geefiy
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2700,15 +2686,15 @@
 		region_state: = {
 			create_pop = {
 				culture = kuisaq
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = paitiq
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = chomast
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2717,7 +2703,7 @@
 		region_state: = {
 			create_pop = {
 				culture = mithikie
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2726,7 +2712,7 @@
 		region_state: = {
 			create_pop = {
 				culture = toujez
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2735,7 +2721,7 @@
 		region_state: = {
 			create_pop = {
 				culture = justidua
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2744,7 +2730,7 @@
 		region_state: = {
 			create_pop = {
 				culture = enasro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2753,7 +2739,7 @@
 		region_state: = {
 			create_pop = {
 				culture = joibung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2762,7 +2748,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tethahaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2771,7 +2757,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dethikou
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2780,7 +2766,7 @@
 		region_state: = {
 			create_pop = {
 				culture = inmotre
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2789,7 +2775,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quulath
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2798,7 +2784,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chunist
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2807,7 +2793,7 @@
 		region_state: = {
 			create_pop = {
 				culture = theujthoih
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2816,7 +2802,7 @@
 		region_state: = {
 			create_pop = {
 				culture = distufuu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2825,7 +2811,7 @@
 		region_state: = {
 			create_pop = {
 				culture = mearteond
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2834,7 +2820,7 @@
 		region_state: = {
 			create_pop = {
 				culture = staik
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2843,7 +2829,7 @@
 		region_state: = {
 			create_pop = {
 				culture = osrappa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2852,7 +2838,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hoaport
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2870,7 +2856,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dastuseu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2879,7 +2865,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tethahaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2888,11 +2874,11 @@
 		region_state: = {
 			create_pop = {
 				culture = justidua
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = osrindi
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2901,16 +2887,16 @@
 		region_state: = {
 			create_pop = {
 				culture = endonmu
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Froshult = {
-		region_state: = {
+		region_state:GEN = {
 			create_pop = {
-				culture = niajaland
-				size = 0
+				culture = genuan
+				size = 10000
 			}
 
 		}
@@ -2919,7 +2905,7 @@
 		region_state: = {
 			create_pop = {
 				culture = beupapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2937,7 +2923,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dethikou
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2946,16 +2932,16 @@
 		region_state: = {
 			create_pop = {
 				culture = uchustan
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Huchao = {
-		region_state: = {
+		region_state:GEN = {
 			create_pop = {
-				culture = niajaland
-				size = 0
+				culture = genuan
+				size = 10000
 			}
 
 		}
@@ -2964,7 +2950,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stairstiek
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2973,7 +2959,7 @@
 		region_state: = {
 			create_pop = {
 				culture = faig
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2982,7 +2968,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ingelandusrass
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -2991,7 +2977,7 @@
 		region_state: = {
 			create_pop = {
 				culture = juujux
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3000,7 +2986,7 @@
 		region_state: = {
 			create_pop = {
 				culture = osrappa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3009,7 +2995,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chunist
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3018,7 +3004,7 @@
 		region_state: = {
 			create_pop = {
 				culture = endonmu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3027,7 +3013,7 @@
 		region_state: = {
 			create_pop = {
 				culture = staik
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3036,7 +3022,7 @@
 		region_state: = {
 			create_pop = {
 				culture = liij
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3045,7 +3031,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trihithistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3054,7 +3040,7 @@
 		region_state:KLA = {
 			create_pop = {
 				culture = klatchian
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3063,11 +3049,11 @@
 		region_state: = {
 			create_pop = {
 				culture = unmishu
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = quodistapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3076,7 +3062,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ochtass
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3085,11 +3071,11 @@
 		region_state: = {
 			create_pop = {
 				culture = reesrault
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = nastihai
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3098,25 +3084,25 @@
 		region_state: = {
 			create_pop = {
 				culture = pheltend
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Fripping = {
-		region_state: = {
+		region_state:ELH = {
 			create_pop = {
-				culture = joibung
-				size = 0
+				culture = elharibian
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Ombestan = {
-		region_state: = {
+		region_state:RHE = {
 			create_pop = {
-				culture = bustufei
-				size = 0
+				culture = rheinthalian
+				size = 10000
 			}
 
 		}
@@ -3125,7 +3111,7 @@
 		region_state:KLA = {
 			create_pop = {
 				culture = klatchian
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3134,7 +3120,7 @@
 		region_state: = {
 			create_pop = {
 				culture = distufuu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3143,7 +3129,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chibast
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3152,7 +3138,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tritterd
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3161,7 +3147,7 @@
 		region_state: = {
 			create_pop = {
 				culture = theujthoih
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3170,7 +3156,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pheltend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3179,7 +3165,7 @@
 		region_state: = {
 			create_pop = {
 				culture = mithikie
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3188,7 +3174,7 @@
 		region_state: = {
 			create_pop = {
 				culture = berbeu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3197,7 +3183,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chunist
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3206,7 +3192,7 @@
 		region_state: = {
 			create_pop = {
 				culture = riip
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3215,20 +3201,20 @@
 		region_state: = {
 			create_pop = {
 				culture = stuob
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = unmishu
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Soamilt = {
-		region_state: = {
+		region_state:GEN = {
 			create_pop = {
-				culture = uchustan
-				size = 0
+				culture = genuan
+				size = 10000
 			}
 
 		}
@@ -3237,7 +3223,7 @@
 		region_state: = {
 			create_pop = {
 				culture = niajaland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3246,7 +3232,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stoed
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3255,7 +3241,7 @@
 		region_state: = {
 			create_pop = {
 				culture = distufuu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3279,10 +3265,10 @@
 		}
 	}
 	s:STATE_Staef = {
-		region_state: = {
+		region_state:BOR = {
 			create_pop = {
-				culture = reudang
-				size = 0
+				culture = borogravian
+				size = 10000
 			}
 
 		}
@@ -3291,7 +3277,7 @@
 		region_state: = {
 			create_pop = {
 				culture = uningo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3300,7 +3286,7 @@
 		region_state: = {
 			create_pop = {
 				culture = erdipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3309,7 +3295,7 @@
 		region_state: = {
 			create_pop = {
 				culture = theujthoih
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3318,7 +3304,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tethahaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3327,7 +3313,7 @@
 		region_state: = {
 			create_pop = {
 				culture = jaedaq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3336,7 +3322,7 @@
 		region_state: = {
 			create_pop = {
 				culture = kastahie
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3345,7 +3331,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trihithistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3354,7 +3340,7 @@
 		region_state: = {
 			create_pop = {
 				culture = baechiupp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3363,7 +3349,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swefestupp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3372,7 +3358,7 @@
 		region_state: = {
 			create_pop = {
 				culture = laibeq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3381,7 +3367,7 @@
 		region_state:KLA = {
 			create_pop = {
 				culture = klatchian
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3390,7 +3376,7 @@
 		region_state: = {
 			create_pop = {
 				culture = riip
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3399,7 +3385,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quulath
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3408,7 +3394,7 @@
 		region_state: = {
 			create_pop = {
 				culture = erbistre
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3417,7 +3403,7 @@
 		region_state: = {
 			create_pop = {
 				culture = raumung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3426,11 +3412,11 @@
 		region_state: = {
 			create_pop = {
 				culture = frimethird
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = histumai
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3487,11 +3473,11 @@
 		region_state: = {
 			create_pop = {
 				culture = ingelandusrass
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = liij
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3553,11 +3539,11 @@
 		region_state: = {
 			create_pop = {
 				culture = altustan
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = strekistirt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3584,7 +3570,7 @@
 		region_state: = {
 			create_pop = {
 				culture = faartialt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3593,7 +3579,7 @@
 		region_state: = {
 			create_pop = {
 				culture = shojuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3602,7 +3588,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dethikou
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3620,7 +3606,7 @@
 		region_state: = {
 			create_pop = {
 				culture = staik
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3629,7 +3615,7 @@
 		region_state: = {
 			create_pop = {
 				culture = beupapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3638,7 +3624,7 @@
 		region_state: = {
 			create_pop = {
 				culture = niajaland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3682,11 +3668,11 @@
 		region_state: = {
 			create_pop = {
 				culture = quuchtond
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = inzinga
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3695,7 +3681,7 @@
 		region_state: = {
 			create_pop = {
 				culture = uchustan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3713,7 +3699,7 @@
 		region_state: = {
 			create_pop = {
 				culture = inmotre
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3722,7 +3708,7 @@
 		region_state: = {
 			create_pop = {
 				culture = onastro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3731,7 +3717,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ortonmo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3771,7 +3757,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stiol
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3780,7 +3766,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hoaport
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3798,7 +3784,7 @@
 		region_state: = {
 			create_pop = {
 				culture = laibeq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3807,7 +3793,7 @@
 		region_state: = {
 			create_pop = {
 				culture = inmotre
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3816,7 +3802,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dethikou
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3825,7 +3811,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dethikou
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3834,7 +3820,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pheltend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3843,7 +3829,7 @@
 		region_state: = {
 			create_pop = {
 				culture = frefistestan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3852,7 +3838,7 @@
 		region_state: = {
 			create_pop = {
 				culture = osrindi
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3861,7 +3847,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chunist
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3879,7 +3865,7 @@
 		region_state: = {
 			create_pop = {
 				culture = juujux
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3906,7 +3892,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dastuseu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3924,7 +3910,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tritterd
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3933,7 +3919,7 @@
 		region_state: = {
 			create_pop = {
 				culture = staik
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3942,7 +3928,7 @@
 		region_state: = {
 			create_pop = {
 				culture = endonmu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3964,7 +3950,7 @@
 		region_state: = {
 			create_pop = {
 				culture = frefistestan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3973,7 +3959,7 @@
 		region_state: = {
 			create_pop = {
 				culture = juujux
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3982,7 +3968,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phocith
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -3991,7 +3977,7 @@
 		region_state: = {
 			create_pop = {
 				culture = tritterd
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4018,7 +4004,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trihithistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4033,9 +4019,9 @@
 		}
 	}
 	s:STATE_Fostedie = {
-		region_state: = {
+		region_state:GEN = {
 			create_pop = {
-				culture = jeottailand
+				culture = genuan
 				size = 1158816
 			}
 
@@ -4045,7 +4031,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doagoss
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4054,7 +4040,7 @@
 		region_state: = {
 			create_pop = {
 				culture = onastro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4090,7 +4076,7 @@
 		region_state: = {
 			create_pop = {
 				culture = distufuu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4099,7 +4085,7 @@
 		region_state: = {
 			create_pop = {
 				culture = dein
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4108,7 +4094,7 @@
 		region_state: = {
 			create_pop = {
 				culture = staik
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4117,16 +4103,16 @@
 		region_state: = {
 			create_pop = {
 				culture = faig
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Chipist = {
-		region_state: = {
+		region_state:GEN = {
 			create_pop = {
-				culture = jeottailand
-				size = 0
+				culture = genuan
+				size = 10000
 			}
 
 		}
@@ -4135,7 +4121,7 @@
 		region_state: = {
 			create_pop = {
 				culture = lailoq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4144,7 +4130,7 @@
 		region_state: = {
 			create_pop = {
 				culture = joibung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4153,7 +4139,7 @@
 		region_state: = {
 			create_pop = {
 				culture = irenzo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4180,7 +4166,7 @@
 		region_state: = {
 			create_pop = {
 				culture = shojuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4189,7 +4175,7 @@
 		region_state: = {
 			create_pop = {
 				culture = niajaland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4198,7 +4184,7 @@
 		region_state: = {
 			create_pop = {
 				culture = endonmu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4207,7 +4193,7 @@
 		region_state:KLA = {
 			create_pop = {
 				culture = klatchian
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4225,7 +4211,7 @@
 		region_state: = {
 			create_pop = {
 				culture = laibeq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4234,7 +4220,7 @@
 		region_state: = {
 			create_pop = {
 				culture = osrindi
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4243,7 +4229,7 @@
 		region_state: = {
 			create_pop = {
 				culture = duebiland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4252,7 +4238,7 @@
 		region_state: = {
 			create_pop = {
 				culture = onastro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4274,7 +4260,7 @@
 		region_state: = {
 			create_pop = {
 				culture = unmishu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4283,7 +4269,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doagoss
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4301,16 +4287,16 @@
 		region_state: = {
 			create_pop = {
 				culture = faig
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Eppand = {
-		region_state: = {
+		region_state:ELH = {
 			create_pop = {
-				culture = stuob
-				size = 0
+				culture = elharibian
+				size = 10000
 			}
 
 		}
@@ -4328,7 +4314,7 @@
 		region_state: = {
 			create_pop = {
 				culture = staik
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4337,7 +4323,7 @@
 		region_state: = {
 			create_pop = {
 				culture = staik
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4346,7 +4332,7 @@
 		region_state: = {
 			create_pop = {
 				culture = riip
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4355,7 +4341,7 @@
 		region_state: = {
 			create_pop = {
 				culture = osrappa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4364,16 +4350,16 @@
 		region_state: = {
 			create_pop = {
 				culture = nastokou
-				size = 0
+				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Saobong = {
-		region_state: = {
+		region_state:ELH = {
 			create_pop = {
-				culture = stuob
-				size = 0
+				culture = elharibian
+				size = 10000
 			}
 
 		}
@@ -4382,7 +4368,7 @@
 		region_state: = {
 			create_pop = {
 				culture = inmotre
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4391,7 +4377,7 @@
 		region_state: = {
 			create_pop = {
 				culture = theujthoih
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4450,10 +4436,10 @@
 
 		}
 	}
-	s:STATE_Fralistostan = {
-		region_state: = {
+	s:STATE_Genua = {
+		region_state:GEN = {
 			create_pop = {
-				culture = baechiupp
+				culture = genuan
 				size = 898494
 			}
 
@@ -4543,7 +4529,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gothacie
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4588,7 +4574,7 @@
 		region_state: = {
 			create_pop = {
 				culture = frefistestan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4597,7 +4583,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trarruss
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4606,7 +4592,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stracuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4624,11 +4610,11 @@
 		region_state: = {
 			create_pop = {
 				culture = stoib
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = suolux
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4637,7 +4623,7 @@
 		region_state: = {
 			create_pop = {
 				culture = beupapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4691,7 +4677,7 @@
 		region_state: = {
 			create_pop = {
 				culture = osrindi
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4700,7 +4686,7 @@
 		region_state: = {
 			create_pop = {
 				culture = osrepp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4718,7 +4704,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4736,7 +4722,7 @@
 		region_state: = {
 			create_pop = {
 				culture = lailoq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4763,7 +4749,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4772,7 +4758,7 @@
 		region_state: = {
 			create_pop = {
 				culture = lailoq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4799,7 +4785,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4808,7 +4794,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4826,7 +4812,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fromithurt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4835,7 +4821,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fromithurt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4844,7 +4830,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4871,7 +4857,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4889,7 +4875,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fromithurt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4925,7 +4911,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fromithurt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4934,7 +4920,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4943,7 +4929,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trihithistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4952,7 +4938,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4961,7 +4947,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4970,7 +4956,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fromithurt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4979,7 +4965,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4988,7 +4974,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fromithurt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -4997,7 +4983,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5006,7 +4992,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fromithurt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5015,7 +5001,7 @@
 		region_state: = {
 			create_pop = {
 				culture = koed
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5024,7 +5010,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5033,7 +5019,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5042,7 +5028,7 @@
 		region_state: = {
 			create_pop = {
 				culture = koed
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5051,7 +5037,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5060,7 +5046,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oshippe
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5069,7 +5055,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fustamuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5078,7 +5064,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fromithurt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5087,7 +5073,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fustamuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5096,7 +5082,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fustamuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5105,7 +5091,7 @@
 		region_state: = {
 			create_pop = {
 				culture = koed
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5114,7 +5100,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fromithurt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5123,7 +5109,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fromithurt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5132,7 +5118,7 @@
 		region_state: = {
 			create_pop = {
 				culture = koed
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5141,7 +5127,7 @@
 		region_state: = {
 			create_pop = {
 				culture = koed
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5150,7 +5136,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fustamuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5159,7 +5145,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fustamuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5168,7 +5154,7 @@
 		region_state: = {
 			create_pop = {
 				culture = koed
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5177,7 +5163,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fustamuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5186,7 +5172,7 @@
 		region_state: = {
 			create_pop = {
 				culture = kuthotoa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5195,7 +5181,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fustamuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5204,7 +5190,7 @@
 		region_state: = {
 			create_pop = {
 				culture = koed
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5222,7 +5208,7 @@
 		region_state: = {
 			create_pop = {
 				culture = kuthotoa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5231,7 +5217,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fustamuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5240,7 +5226,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fustamuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5249,7 +5235,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gostrea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5258,7 +5244,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gostrea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5267,7 +5253,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fustamuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5276,7 +5262,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fustamuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5285,7 +5271,7 @@
 		region_state: = {
 			create_pop = {
 				culture = kuthotoa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5302,7 +5288,7 @@
 		region_state: = {
 			create_pop = {
 				culture = lesrii
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5311,7 +5297,7 @@
 		region_state: = {
 			create_pop = {
 				culture = lesrii
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5338,7 +5324,7 @@
 		region_state: = {
 			create_pop = {
 				culture = lesrii
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5347,7 +5333,7 @@
 		region_state: = {
 			create_pop = {
 				culture = lesrii
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5356,7 +5342,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gostrea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5365,7 +5351,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gostrea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5374,7 +5360,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gostrea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5383,7 +5369,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gostrea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5392,7 +5378,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gostrea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5401,7 +5387,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gostrea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5410,7 +5396,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hastepuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5419,7 +5405,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hastepuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5428,7 +5414,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hastepuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5437,7 +5423,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hastepuo
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5446,7 +5432,7 @@
 		region_state: = {
 			create_pop = {
 				culture = steoc
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5455,7 +5441,7 @@
 		region_state: = {
 			create_pop = {
 				culture = steoc
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5464,7 +5450,7 @@
 		region_state: = {
 			create_pop = {
 				culture = koed
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5473,7 +5459,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swubuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5482,7 +5468,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swubuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5491,7 +5477,7 @@
 		region_state: = {
 			create_pop = {
 				culture = steoc
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5500,7 +5486,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swubuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5509,7 +5495,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swubuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5518,7 +5504,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swubuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5527,7 +5513,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swubuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5536,7 +5522,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swubuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5545,7 +5531,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swubuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5554,7 +5540,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swubuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5563,7 +5549,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swubuth
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5572,7 +5558,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hestejio
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5581,7 +5567,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hestejio
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5590,7 +5576,7 @@
 		region_state: = {
 			create_pop = {
 				culture = thaer
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5599,7 +5585,7 @@
 		region_state: = {
 			create_pop = {
 				culture = thaer
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5608,7 +5594,7 @@
 		region_state: = {
 			create_pop = {
 				culture = thaer
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5617,7 +5603,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pheltend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5626,7 +5612,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hestejio
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5635,7 +5621,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pheltend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5644,7 +5630,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gethufoa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5653,7 +5639,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gethufoa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5662,7 +5648,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gethufoa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5671,7 +5657,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hestejio
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5680,7 +5666,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gethufoa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5689,7 +5675,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pheltend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5698,7 +5684,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stuabthouk
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5707,7 +5693,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gethufoa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5716,7 +5702,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gauc
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5725,7 +5711,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gauc
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5734,7 +5720,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stuabthouk
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5743,7 +5729,7 @@
 		region_state: = {
 			create_pop = {
 				culture = riuhand
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5770,7 +5756,7 @@
 		region_state: = {
 			create_pop = {
 				culture = goudepp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5779,7 +5765,7 @@
 		region_state: = {
 			create_pop = {
 				culture = riuhand
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5788,7 +5774,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stuabthouk
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5797,7 +5783,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stuabthouk
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5815,7 +5801,7 @@
 		region_state: = {
 			create_pop = {
 				culture = goudepp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5824,7 +5810,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stuabthouk
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5833,7 +5819,7 @@
 		region_state: = {
 			create_pop = {
 				culture = riuhand
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5842,7 +5828,7 @@
 		region_state: = {
 			create_pop = {
 				culture = riuhand
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5851,7 +5837,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strohestepp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5914,7 +5900,7 @@
 		region_state: = {
 			create_pop = {
 				culture = riuhand
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5941,7 +5927,7 @@
 		region_state: = {
 			create_pop = {
 				culture = riuhand
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5950,7 +5936,7 @@
 		region_state: = {
 			create_pop = {
 				culture = riuhand
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5977,7 +5963,7 @@
 		region_state: = {
 			create_pop = {
 				culture = laibeq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -5995,7 +5981,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stiol
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6013,7 +5999,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phushend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6022,7 +6008,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phushend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6031,7 +6017,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phittond
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6040,7 +6026,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phushend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6049,7 +6035,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phushend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6058,7 +6044,7 @@
 		region_state: = {
 			create_pop = {
 				culture = kastahie
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6067,7 +6053,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phushend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6076,7 +6062,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phittond
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6085,7 +6071,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phushend
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6103,7 +6089,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phittond
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6112,7 +6098,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phittond
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6121,7 +6107,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ugicho
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6130,7 +6116,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ugicho
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6139,7 +6125,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phittond
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6256,7 +6242,7 @@
 		region_state: = {
 			create_pop = {
 				culture = gostitia
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6265,7 +6251,7 @@
 		region_state: = {
 			create_pop = {
 				culture = beupapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6280,10 +6266,10 @@
 		}
 	}
 	s:STATE_Thiomsteen = {
-		region_state: = {
+		region_state:GEN = {
 			create_pop = {
-				culture = ruthilea
-				size = 0
+				culture = genuan
+				size = 10000
 			}
 
 		}
@@ -6301,7 +6287,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ruthilea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6310,7 +6296,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ruthilea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6328,7 +6314,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strandung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6337,7 +6323,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ruthilea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6346,7 +6332,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ruthilea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6355,7 +6341,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ruthilea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6364,7 +6350,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ruthilea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6373,7 +6359,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ruthilea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6382,7 +6368,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ruthilea
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6391,7 +6377,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strandung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6409,7 +6395,7 @@
 		region_state: = {
 			create_pop = {
 				culture = seik
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6418,7 +6404,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quacistalt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6427,7 +6413,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quacistalt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6436,7 +6422,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strandung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6445,7 +6431,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strandung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6454,7 +6440,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strandung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6463,7 +6449,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strandung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6472,7 +6458,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trarruss
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6481,7 +6467,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strandung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6490,7 +6476,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6499,7 +6485,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6508,7 +6494,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6517,7 +6503,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6526,7 +6512,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6535,7 +6521,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6544,7 +6530,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6553,7 +6539,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6562,7 +6548,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6571,7 +6557,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6580,7 +6566,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trutrostan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6589,7 +6575,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6598,7 +6584,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6607,7 +6593,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6616,7 +6602,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6625,7 +6611,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6634,7 +6620,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6643,7 +6629,7 @@
 		region_state: = {
 			create_pop = {
 				culture = loucastan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6661,7 +6647,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6670,7 +6656,7 @@
 		region_state: = {
 			create_pop = {
 				culture = titholue
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6679,7 +6665,7 @@
 		region_state: = {
 			create_pop = {
 				culture = doakey
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6751,7 +6737,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fathoduu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6778,7 +6764,7 @@
 		region_state: = {
 			create_pop = {
 				culture = titholue
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6832,7 +6818,7 @@
 		region_state: = {
 			create_pop = {
 				culture = neurupp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6841,11 +6827,11 @@
 		region_state: = {
 			create_pop = {
 				culture = neurupp
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = ufocca
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6872,7 +6858,7 @@
 		region_state: = {
 			create_pop = {
 				culture = asrurro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6894,15 +6880,15 @@
 		region_state: = {
 			create_pop = {
 				culture = ikande
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = neurupp
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6911,7 +6897,7 @@
 		region_state: = {
 			create_pop = {
 				culture = foebay
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6920,7 +6906,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swulastird
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6929,7 +6915,7 @@
 		region_state: = {
 			create_pop = {
 				culture = coodiq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6938,7 +6924,7 @@
 		region_state: = {
 			create_pop = {
 				culture = cooppeung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6947,15 +6933,15 @@
 		region_state: = {
 			create_pop = {
 				culture = ufocca
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = piachtoaland
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = irbalte
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6964,7 +6950,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fothebiu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6973,7 +6959,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swulastird
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6982,7 +6968,7 @@
 		region_state: = {
 			create_pop = {
 				culture = cooppeung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -6991,7 +6977,7 @@
 		region_state: = {
 			create_pop = {
 				culture = asrurro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7000,7 +6986,7 @@
 		region_state: = {
 			create_pop = {
 				culture = treshilt
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7009,7 +6995,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ajortu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7018,7 +7004,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fothebiu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7027,11 +7013,11 @@
 		region_state: = {
 			create_pop = {
 				culture = naiccaard
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = orrort
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7040,7 +7026,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fothebiu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7049,11 +7035,11 @@
 		region_state: = {
 			create_pop = {
 				culture = treshilt
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = fothebiu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7062,7 +7048,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ajortu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7071,7 +7057,7 @@
 		region_state: = {
 			create_pop = {
 				culture = foebay
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7080,7 +7066,7 @@
 		region_state: = {
 			create_pop = {
 				culture = muor
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7089,11 +7075,11 @@
 		region_state: = {
 			create_pop = {
 				culture = okurta
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = shanzoss
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7102,7 +7088,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ajortu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7111,7 +7097,7 @@
 		region_state: = {
 			create_pop = {
 				culture = asrurro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7120,7 +7106,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strodith
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7129,7 +7115,7 @@
 		region_state: = {
 			create_pop = {
 				culture = foebay
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7138,7 +7124,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swulastird
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7147,7 +7133,7 @@
 		region_state: = {
 			create_pop = {
 				culture = piachtoaland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7156,7 +7142,7 @@
 		region_state: = {
 			create_pop = {
 				culture = naiccaard
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7165,7 +7151,7 @@
 		region_state: = {
 			create_pop = {
 				culture = piachtoaland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7174,7 +7160,7 @@
 		region_state: = {
 			create_pop = {
 				culture = neurupp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7192,7 +7178,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ajortu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7201,7 +7187,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ajortu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7210,7 +7196,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ajortu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7219,7 +7205,7 @@
 		region_state: = {
 			create_pop = {
 				culture = asrurro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7228,7 +7214,7 @@
 		region_state: = {
 			create_pop = {
 				culture = okurta
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7237,7 +7223,7 @@
 		region_state: = {
 			create_pop = {
 				culture = coodiq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7246,7 +7232,7 @@
 		region_state: = {
 			create_pop = {
 				culture = asrurro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7255,7 +7241,7 @@
 		region_state: = {
 			create_pop = {
 				culture = asrurro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7264,7 +7250,7 @@
 		region_state: = {
 			create_pop = {
 				culture = shanzoss
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7273,11 +7259,11 @@
 		region_state: = {
 			create_pop = {
 				culture = shostripp
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = coodiq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7286,7 +7272,7 @@
 		region_state: = {
 			create_pop = {
 				culture = okurta
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7295,7 +7281,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fothebiu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7304,11 +7290,11 @@
 		region_state: = {
 			create_pop = {
 				culture = treshilt
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = strodith
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7317,7 +7303,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ajortu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7326,11 +7312,11 @@
 		region_state: = {
 			create_pop = {
 				culture = strodith
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = orrort
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7339,7 +7325,7 @@
 		region_state: = {
 			create_pop = {
 				culture = okurta
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7348,7 +7334,7 @@
 		region_state: = {
 			create_pop = {
 				culture = swulastird
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7357,7 +7343,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ajortu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7366,11 +7352,11 @@
 		region_state: = {
 			create_pop = {
 				culture = swulastird
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = muor
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7379,7 +7365,7 @@
 		region_state: = {
 			create_pop = {
 				culture = asrurro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7397,7 +7383,7 @@
 		region_state: = {
 			create_pop = {
 				culture = naiccaard
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7406,7 +7392,7 @@
 		region_state: = {
 			create_pop = {
 				culture = okurta
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7415,7 +7401,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ufocca
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7424,7 +7410,7 @@
 		region_state: = {
 			create_pop = {
 				culture = piachtoaland
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7433,11 +7419,11 @@
 		region_state: = {
 			create_pop = {
 				culture = ajortu
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = coodiq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7446,7 +7432,7 @@
 		region_state: = {
 			create_pop = {
 				culture = shostripp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7455,7 +7441,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ajortu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7464,7 +7450,7 @@
 		region_state: = {
 			create_pop = {
 				culture = okurta
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7473,7 +7459,7 @@
 		region_state: = {
 			create_pop = {
 				culture = shelisting
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7482,7 +7468,7 @@
 		region_state: = {
 			create_pop = {
 				culture = irbalte
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7491,7 +7477,7 @@
 		region_state: = {
 			create_pop = {
 				culture = shostripp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7500,7 +7486,7 @@
 		region_state: = {
 			create_pop = {
 				culture = asrurro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7509,7 +7495,7 @@
 		region_state: = {
 			create_pop = {
 				culture = fothebiu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7518,7 +7504,7 @@
 		region_state: = {
 			create_pop = {
 				culture = shanzoss
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7527,7 +7513,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trutrostan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7536,7 +7522,7 @@
 		region_state: = {
 			create_pop = {
 				culture = thior
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7545,7 +7531,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sueppuult
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7554,7 +7540,7 @@
 		region_state: = {
 			create_pop = {
 				culture = cithadaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7563,7 +7549,7 @@
 		region_state: = {
 			create_pop = {
 				culture = cithadaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7572,7 +7558,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trutrostan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7581,7 +7567,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7590,7 +7576,7 @@
 		region_state: = {
 			create_pop = {
 				culture = cithadaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7599,7 +7585,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pauquaeng
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7608,7 +7594,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pauquaeng
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7617,7 +7603,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pauquaeng
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7626,7 +7612,7 @@
 		region_state: = {
 			create_pop = {
 				culture = cithadaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7635,7 +7621,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sueppuult
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7644,7 +7630,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7653,7 +7639,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7662,7 +7648,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7671,7 +7657,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7680,7 +7666,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pauquaeng
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7689,7 +7675,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7698,7 +7684,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7707,7 +7693,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7716,7 +7702,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7725,7 +7711,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7734,7 +7720,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pauquaeng
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7743,7 +7729,7 @@
 		region_state: = {
 			create_pop = {
 				culture = titholue
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7752,7 +7738,7 @@
 		region_state: = {
 			create_pop = {
 				culture = titholue
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7761,7 +7747,7 @@
 		region_state: = {
 			create_pop = {
 				culture = choltustan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7770,7 +7756,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7779,7 +7765,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chihathort
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7788,7 +7774,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7797,7 +7783,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7806,7 +7792,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7815,7 +7801,7 @@
 		region_state: = {
 			create_pop = {
 				culture = titholue
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7824,7 +7810,7 @@
 		region_state: = {
 			create_pop = {
 				culture = choltustan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7833,7 +7819,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7842,7 +7828,7 @@
 		region_state: = {
 			create_pop = {
 				culture = titholue
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7851,7 +7837,7 @@
 		region_state: = {
 			create_pop = {
 				culture = titholue
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7860,7 +7846,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pauquaeng
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7869,7 +7855,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chihathort
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7878,7 +7864,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pauquaeng
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7887,7 +7873,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7896,7 +7882,7 @@
 		region_state: = {
 			create_pop = {
 				culture = titholue
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7905,7 +7891,7 @@
 		region_state: = {
 			create_pop = {
 				culture = titholue
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7914,7 +7900,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pauquaeng
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7923,7 +7909,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chihathort
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7932,7 +7918,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chihathort
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7941,7 +7927,7 @@
 		region_state: = {
 			create_pop = {
 				culture = chihathort
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7950,7 +7936,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phehostapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7959,7 +7945,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hardio
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7968,7 +7954,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hardio
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7977,7 +7963,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phehostapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -7995,7 +7981,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hardio
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8004,7 +7990,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hardio
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8013,7 +7999,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8022,7 +8008,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phehostapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8031,7 +8017,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phehostapp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8040,7 +8026,7 @@
 		region_state: = {
 			create_pop = {
 				culture = hardio
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8049,7 +8035,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8058,7 +8044,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ossorri
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8067,7 +8053,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pechia
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8076,7 +8062,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pechia
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8085,7 +8071,7 @@
 		region_state: = {
 			create_pop = {
 				culture = pechia
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8094,7 +8080,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ikande
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8103,7 +8089,7 @@
 		region_state: = {
 			create_pop = {
 				culture = trulist
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8112,7 +8098,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ikande
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8121,7 +8107,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stragostong
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8130,11 +8116,11 @@
 		region_state: = {
 			create_pop = {
 				culture = stragostong
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = rierund
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8143,7 +8129,7 @@
 		region_state: = {
 			create_pop = {
 				culture = rierund
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8152,7 +8138,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sauness
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8161,7 +8147,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stragostong
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8170,11 +8156,11 @@
 		region_state: = {
 			create_pop = {
 				culture = pechia
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = phippistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8183,7 +8169,7 @@
 		region_state: = {
 			create_pop = {
 				culture = rierund
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8192,7 +8178,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sauness
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8201,11 +8187,11 @@
 		region_state: = {
 			create_pop = {
 				culture = stragostong
-				size = 0
+				size = 10000
 			}
 			create_pop = {
 				culture = rierund
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8214,7 +8200,7 @@
 		region_state: = {
 			create_pop = {
 				culture = rierund
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8223,7 +8209,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sauness
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8232,7 +8218,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sauness
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8241,7 +8227,7 @@
 		region_state: = {
 			create_pop = {
 				culture = rierund
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8250,7 +8236,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sauness
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8268,7 +8254,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stragostong
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8286,7 +8272,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sauness
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8295,7 +8281,7 @@
 		region_state: = {
 			create_pop = {
 				culture = rierund
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8304,7 +8290,7 @@
 		region_state: = {
 			create_pop = {
 				culture = rierund
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8313,7 +8299,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stragostong
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8340,7 +8326,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stragostong
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8349,7 +8335,7 @@
 		region_state: = {
 			create_pop = {
 				culture = stragostong
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8358,7 +8344,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sauness
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8367,7 +8353,7 @@
 		region_state: = {
 			create_pop = {
 				culture = rierund
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8376,7 +8362,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8385,7 +8371,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sauness
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8394,7 +8380,7 @@
 		region_state: = {
 			create_pop = {
 				culture = rierund
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8439,7 +8425,7 @@
 		region_state: = {
 			create_pop = {
 				culture = charrind
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8448,7 +8434,7 @@
 		region_state: = {
 			create_pop = {
 				culture = charrind
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8457,7 +8443,7 @@
 		region_state: = {
 			create_pop = {
 				culture = charrind
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8466,7 +8452,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phippistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8475,7 +8461,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phippistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8484,7 +8470,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phippistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8493,7 +8479,7 @@
 		region_state: = {
 			create_pop = {
 				culture = phippistan
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8502,7 +8488,7 @@
 		region_state: = {
 			create_pop = {
 				culture = coodiq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8511,7 +8497,7 @@
 		region_state: = {
 			create_pop = {
 				culture = coodiq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8520,7 +8506,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ikande
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8529,7 +8515,7 @@
 		region_state: = {
 			create_pop = {
 				culture = coodiq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8538,7 +8524,7 @@
 		region_state: = {
 			create_pop = {
 				culture = coodiq
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8547,7 +8533,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ikande
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8556,7 +8542,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ikande
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8565,7 +8551,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ikande
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8574,7 +8560,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ikande
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8583,7 +8569,7 @@
 		region_state: = {
 			create_pop = {
 				culture = asrurro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8592,7 +8578,7 @@
 		region_state: = {
 			create_pop = {
 				culture = asrurro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8601,7 +8587,7 @@
 		region_state: = {
 			create_pop = {
 				culture = asrurro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8610,7 +8596,7 @@
 		region_state: = {
 			create_pop = {
 				culture = cooppeung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8619,7 +8605,7 @@
 		region_state: = {
 			create_pop = {
 				culture = cooppeung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8628,7 +8614,7 @@
 		region_state: = {
 			create_pop = {
 				culture = cooppeung
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8637,7 +8623,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ukibwu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8646,7 +8632,7 @@
 		region_state: = {
 			create_pop = {
 				culture = asrurro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8655,7 +8641,7 @@
 		region_state: = {
 			create_pop = {
 				culture = asrurro
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8664,7 +8650,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ukibwu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8673,7 +8659,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8682,7 +8668,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8691,7 +8677,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8700,7 +8686,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8709,7 +8695,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8718,7 +8704,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8727,7 +8713,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8736,7 +8722,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8745,7 +8731,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8754,7 +8740,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8763,7 +8749,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8772,7 +8758,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8781,7 +8767,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8790,7 +8776,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strojathipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8799,7 +8785,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ukibwu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8808,7 +8794,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strojathipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8817,7 +8803,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ukibwu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8826,7 +8812,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ukibwu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8835,7 +8821,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strojathipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8844,7 +8830,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strojathipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8853,7 +8839,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strojathipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8862,7 +8848,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strojathipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8871,7 +8857,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strojathipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8880,7 +8866,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strojathipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8889,7 +8875,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strojathipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8898,7 +8884,7 @@
 		region_state: = {
 			create_pop = {
 				culture = strojathipp
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8907,7 +8893,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8916,7 +8902,7 @@
 		region_state: = {
 			create_pop = {
 				culture = quagust
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8925,7 +8911,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ukibwu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8934,7 +8920,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ukibwu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8952,7 +8938,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ukibwu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8961,7 +8947,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sashaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8970,7 +8956,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ukibwu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8979,7 +8965,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sashaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8988,7 +8974,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ukibwu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -8997,7 +8983,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ukibwu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9006,7 +8992,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sashaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9015,7 +9001,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sashaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9024,7 +9010,7 @@
 		region_state: = {
 			create_pop = {
 				culture = sashaa
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9033,7 +9019,7 @@
 		region_state: = {
 			create_pop = {
 				culture = ukibwu
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9042,7 +9028,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oquarru
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9051,7 +9037,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oquarru
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9060,7 +9046,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oquarru
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9069,7 +9055,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oquarru
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9078,7 +9064,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oquarru
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9087,7 +9073,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oquarru
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9096,7 +9082,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oquarru
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9105,7 +9091,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oquarru
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9114,7 +9100,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oquarru
-				size = 0
+				size = 10000
 			}
 
 		}
@@ -9123,7 +9109,7 @@
 		region_state: = {
 			create_pop = {
 				culture = oquarru
-				size = 0
+				size = 10000
 			}
 
 		}

@@ -71,6 +71,18 @@
  HOW_ADJ:0 "Howondalander"
  LAO:0 "Laotan"
  LAO_ADJ:0 "Laotani"
+ ELH:0 "Elharib"
+ ELH_ADJ:0 "Elharibian"
+ MET:0 "Mento"
+ MET_ADJ:0 "Mentan"
+ GEN:0 "Genua"
+ GEN_ADJ:0 "Genuan"
+ BOR:0 "Borogravia"
+ BOR_ADJ:0 "Borogravian"
+ RHE:0 "Rheinthal"
+ RHE_ADJ:0 "Rheinthalian"
+ COP:0 "Copperhead"
+ COP_ADJ:0 "Copperhead"
  
  MORPORKIA:0 "Ankh-Morpork Hegemony"
  

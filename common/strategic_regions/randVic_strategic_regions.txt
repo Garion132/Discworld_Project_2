@@ -86,7 +86,7 @@ region_Kienoss = {
 	graphical_culture = "arabic"
 	capital_province = xB99001
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Swemothing STATE_Fralistostan STATE_Froshult STATE_Trorreng STATE_Achilt STATE_Rathubaa STATE_Udocha STATE_Theit }
+	states = {  STATE_Swemothing STATE_Genua STATE_Froshult STATE_Trorreng STATE_Achilt STATE_Rathubaa STATE_Udocha STATE_Theit }
 }
 region_Strochastan = {
 	graphical_culture = "arabic"

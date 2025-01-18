@@ -156,11 +156,11 @@
 
 	s:STATE_Swemothing = {
 		create_state = {
-			country = c:RUS
-			owned_provinces = { "xB99001" "xB84F01"  }
+			country = c:GEN
+			owned_provinces = { "xB99001" }
 		}
 		
-		add_homeland = cu:baechiupp
+		add_homeland = cu:genuan
 		
 	}
 
@@ -390,13 +390,16 @@
 
 	s:STATE_Raecax = {
 		create_state = {
+			country = c:COP
+			owned_provinces = { "x7CAC01" }
+		}
+		create_state = {
 			country = c:RUS
-			owned_provinces = { "x82D501" "x7CAC01" "x67D001" "x8CBE01"  }
+			owned_provinces = { "x82D501"  "x67D001" "x8CBE01"  }
 		}
 		
-		add_homeland = cu:kuisaq
-		add_homeland = cu:paitiq
-		add_homeland = cu:uningo
+		add_homeland = cu:dwarf
+		add_homeland = cu:ramtopian
 		
 	}
 
@@ -744,12 +747,11 @@
 
 	s:STATE_Taujind = {
 		create_state = {
-			country = c:RUS
+			country = c:BOR
 			owned_provinces = { "xB6BE01" "xA69A01"  }
 		}
 		
-		add_homeland = cu:phocith
-		add_homeland = cu:osrappa
+		add_homeland = cu:borogravian
 		
 	}
 
@@ -966,11 +968,11 @@
 
 	s:STATE_Swejisturt = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "xF73601"  }
 		}
 		
-		add_homeland = cu:stairstiek
+		add_homeland = cu:genuan
 		
 	}
 
@@ -986,11 +988,11 @@
 
 	s:STATE_Seafjuag = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "x4BBE01"  }
 		}
 		
-		add_homeland = cu:uchustan
+		add_homeland = cu:genuan
 		
 	}
 
@@ -1006,11 +1008,11 @@
 
 	s:STATE_Doos = {
 		create_state = {
-			country = c:RUS
-			owned_provinces = { "xC63901"  }
+			country = c:RHE
+			owned_provinces = { "xE2A701" "xC63901"  }
 		}
 		
-		add_homeland = cu:kiobiq
+		add_homeland = cu:rheinthalian
 		
 	}
 
@@ -1026,11 +1028,11 @@
 
 	s:STATE_Theor = {
 		create_state = {
-			country = c:RUS
+			country = c:RHE
 			owned_provinces = { "xC3E601"  }
 		}
 		
-		add_homeland = cu:trobististan
+		add_homeland = cu:rheinthalian
 		
 	}
 
@@ -1086,11 +1088,11 @@
 
 	s:STATE_Traputh = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "xC77601"  }
 		}
 		
-		add_homeland = cu:uchustan
+		add_homeland = cu:genuan
 		
 	}
 
@@ -1349,11 +1351,11 @@
 
 	s:STATE_Thiomstual = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "x65FC01"  }
 		}
 		
-		add_homeland = cu:uchustan
+		add_homeland = cu:genuan
 		
 	}
 
@@ -1409,20 +1411,18 @@
 
 	s:STATE_Foeh = {
 		create_state = {
-			country = c:RUS
+			country = c:BOR
 			owned_provinces = { "xAF2801" "x9A2501" "x9E1D01" "xDA1501" "xD91101"  }
 		}
 		
-		add_homeland = cu:quuchtond
-		add_homeland = cu:phocith
-		add_homeland = cu:reudang
+		add_homeland = cu:borogravian
 		
 	}
 
 	s:STATE_Engusro = {
 		create_state = {
 			country = c:RUS
-			owned_provinces = { "xE2A701" "xA3DC01" "xA9AB01" "xB0A701" }
+			owned_provinces = { "xA3DC01" "xA9AB01" "xB0A701" }
 		}
 		
 		add_homeland = cu:kuisaq
@@ -1554,11 +1554,11 @@
 
 	s:STATE_Bainguilt = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "x4BDF01"  }
 		}
 		
-		add_homeland = cu:jeottailand
+		add_homeland = cu:genuan
 		
 	}
 
@@ -1644,11 +1644,11 @@
 
 	s:STATE_Quibriland = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "x994901"  }
 		}
 		
-		add_homeland = cu:uchustan
+		add_homeland = cu:genuan
 		
 	}
 
@@ -1814,11 +1814,11 @@
 
 	s:STATE_Mouccauland = {
 		create_state = {
-			country = c:RUS
+			country = c:ELH
 			owned_provinces = { "x00A001"  }
 		}
 		
-		add_homeland = cu:justidua
+		add_homeland = cu:elharibian
 		
 	}
 
@@ -1834,11 +1834,11 @@
 
 	s:STATE_Swirdoland = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "x1A2001"  }
 		}
 		
-		add_homeland = cu:uchustan
+		add_homeland = cu:genuan
 		
 	}
 
@@ -2227,12 +2227,11 @@
 
 	s:STATE_Dunmea = {
 		create_state = {
-			country = c:RUS
+			country = c:BOR
 			owned_provinces = { "x927201" "x994D01"  }
 		}
 		
-		add_homeland = cu:quuchtond
-		add_homeland = cu:jiambiard
+		add_homeland = cu:borogravian
 		
 	}
 
@@ -2324,11 +2323,11 @@
 
 	s:STATE_Fethofoi = {
 		create_state = {
-			country = c:RUS
+			country = c:MET
 			owned_provinces = { "x240901"  }
 		}
 		
-		add_homeland = cu:uningo
+		add_homeland = cu:octarine
 		
 	}
 
@@ -2488,11 +2487,11 @@
 
 	s:STATE_Artushi = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "xA75901" "x979201" "xE18101"  }
 		}
 		
-		add_homeland = cu:jeottailand
+		add_homeland = cu:genuan
 		
 	}
 
@@ -3005,11 +3004,11 @@
 
 	s:STATE_Froshult = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "x0D9B01"  }
 		}
 		
-		add_homeland = cu:niajaland
+		add_homeland = cu:genuan
 		
 	}
 
@@ -3045,31 +3044,31 @@
 
 	s:STATE_Obwurta = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "x368201"  }
 		}
 		
-		add_homeland = cu:uchustan
+		add_homeland = cu:genuan
 		
 	}
 
 	s:STATE_Huchao = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "x09E101"  }
 		}
 		
-		add_homeland = cu:niajaland
+		add_homeland = cu:genuan
 		
 	}
 
 	s:STATE_Foetriupp = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "xAA4A01"  }
 		}
 		
-		add_homeland = cu:stairstiek
+		add_homeland = cu:genuan
 		
 	}
 
@@ -3216,21 +3215,21 @@
 
 	s:STATE_Fripping = {
 		create_state = {
-			country = c:RUS
+			country = c:ELH
 			owned_provinces = { "x352601"  }
 		}
 		
-		add_homeland = cu:bustufei
+		add_homeland = cu:elharibian
 		
 	}
 
 	s:STATE_Ombestan = {
 		create_state = {
-			country = c:RUS
+			country = c:RHE
 			owned_provinces = { "x01B601"  }
 		}
 		
-		add_homeland = cu:bustufei
+		add_homeland = cu:rheinthalian
 		
 	}
 
@@ -3397,11 +3396,11 @@
 
 	s:STATE_Staef = {
 		create_state = {
-			country = c:RUS
+			country = c:BOR
 			owned_provinces = { "x992601" "x871A01"  }
 		}
 		
-		add_homeland = cu:reudang
+		add_homeland = cu:borogravian
 		
 	}
 
@@ -3457,11 +3456,11 @@
 
 	s:STATE_Swerastirt = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "x5DC101"  }
 		}
 		
-		add_homeland = cu:kastahie
+		add_homeland = cu:genuan
 		
 	}
 
@@ -4195,11 +4194,11 @@
 
 	s:STATE_Fostedie = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "xF87401"  }
 		}
 		
-		add_homeland = cu:jeottailand
+		add_homeland = cu:genuan
 		
 	}
 
@@ -4295,11 +4294,11 @@
 
 	s:STATE_Chipist = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "x5DDB01"  }
 		}
 		
-		add_homeland = cu:jeottailand
+		add_homeland = cu:genuan
 		
 	}
 
@@ -4566,11 +4565,11 @@
 
 	s:STATE_Saobong = {
 		create_state = {
-			country = c:RUS
+			country = c:ELH
 			owned_provinces = { "x2EAC01"  }
 		}
 		
-		add_homeland = cu:stuob
+		add_homeland = cu:elharibian
 		
 	}
 
@@ -4606,11 +4605,11 @@
 
 	s:STATE_Ondass = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "xF01001"  }
 		}
 		
-		add_homeland = cu:niajaland
+		add_homeland = cu:genuan
 		
 	}
 
@@ -4654,13 +4653,13 @@
 		
 	}
 
-	s:STATE_Fralistostan = {
+	s:STATE_Genua = {
 		create_state = {
-			country = c:RUS
+			country = c:GEN
 			owned_provinces = { "x7F8901"  }
 		}
 		
-		add_homeland = cu:baechiupp
+		add_homeland = cu:genuan
 		
 	}
 

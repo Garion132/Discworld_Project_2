@@ -43,3 +43,215 @@ AMP = {
 		instance = { scale = { 0.85 0.85 } position = { 0.5 0.5 } }		
 	}	
 }
+SHI = {
+	# Base design, default
+	
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+
+	textured_emblem = {
+		texture = "ankh_morpork_coa.dds"
+		instance = { scale = { 0.85 0.85 } position = { 0.5 0.5 } }		
+	}	
+}
+PSE = {
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "ce_tricolor_horizontal_fifth.dds"
+		color1 = "blue"
+		color2 = "purple"
+	}	
+}
+BYK = {
+	# Base design, default
+	
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+	
+	colored_emblem = {
+		texture = "ce_frame_square.dds"
+		color1 = "white"
+	}
+
+	textured_emblem = {
+		texture = "te_uberwald_bat_coa.dds"
+		instance = { scale = { 0.8 0.8 } position = { 0.5 0.5 } }		
+	}	
+}
+KLA = {
+	# Base design, default
+	
+	pattern = "pattern_solid.tga"
+	color1 = "yellow"
+
+	colored_emblem = {
+		texture = "ce_crescent_pale.dds"
+		color1 = "white"
+		instance = { scale = { 0.9 0.9 } position = { 0.5 0.5 } }		
+	}	
+	colored_emblem = {
+		texture = "ce_delta.dds"
+		color1 = "white"
+		instance = { scale = { 0.5 0.5 } position = { 0.5 0.4 } }		
+	}	
+}
+OMN = {
+	# Base design, default
+	
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "ce_bulls_horns.dds"
+		color1 = "teal"
+		instance = { scale = { 0.85 0.85 } position = { 0.5 0.55 } }		
+	}	
+	colored_emblem = {
+		texture = "ce_star_06_comet.dds"
+		color1 = "teal"
+		instance = { scale = { 0.5 0.5 } position = { 0.5 0.4 } }
+	}	
+}
+QRM = {
+	pattern = "pattern_solid.tga"
+	color1 = "blue"
+
+	colored_emblem = {
+		texture = "ce_tricolor_vertical.dds"
+		color1 = "white"
+		color2 = "red"
+	}
+	colored_emblem = {
+		texture = "ce_Hourglass.dds"
+		color1 = "golden"
+		instance = { scale = { 0.5 0.5 } position = { 0.5 0.5 } }		
+	}	
+	colored_emblem = {
+		texture = "ce_wild_rose.dds"
+		color1 = "red"
+		instance = { scale = { 0.15 0.15 } position = { 0.43 0.32 } }
+	}
+	colored_emblem = {
+		texture = "ce_wild_rose.dds"
+		color1 = "red"
+		instance = { scale = { 0.15 0.15 } position = { 0.58 0.32 } }
+	}
+	colored_emblem = {
+		texture = "ce_wild_rose.dds"
+		color1 = "red"
+		instance = { scale = { 0.15 0.15 } position = { 0.43 0.69 } }
+	}
+	colored_emblem = {
+		texture = "ce_wild_rose.dds"
+		color1 = "red"
+		instance = { scale = { 0.15 0.15 } position = { 0.58 0.69 } }
+	}
+}
+STH = {
+	pattern = "pattern_solid.tga"
+	color1 = "black"
+
+	colored_emblem = {
+		texture = "ce_scythe.dds"
+		color1 = "white"
+		instance = { scale = { 1.2 1.1 } position = { 0.42 0.45 } rotation = 0}		
+	}
+	colored_emblem = {
+		texture = "ce_scythe_mirrored.dds"
+		color1 = "white"
+		instance = { scale = { 1.2 1.1 } position = { 0.57 0.45 } rotation = 0}		
+	}
+	colored_emblem = {
+		texture = "ce_Hourglass.dds"
+		color1 = "grey_observer"
+		instance = { scale = { 0.7 0.7 } position = { 0.5 0.55 } }		
+	}	
+}
+DJE = {
+	# Base design, default
+	
+	pattern = "pattern_solid.tga"
+	color1 = "white"
+
+	colored_emblem = {
+		texture = "ce_sun.dds"
+		color1 = "yellow"
+		instance = { scale = { 1.0 1.0 } position = { 0.5 0.5 } }		
+	}
+	colored_emblem = {
+		texture = "ce_circle.dds"
+		color1 = "blue"
+		instance = { scale = { 1.0 1.0 } position = { 0.5 0.5 } }		
+	}		
+	colored_emblem = {
+		texture = "ce_cobra_coiled.dds"
+		color1 = "yellow"
+		instance = { scale = { 0.5 0.5 } position = { 0.5 0.5 } }		
+	}	
+}
+AGA = {
+	# Base design, default
+	
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+	colored_emblem = {
+		texture = "ce_sun.dds"
+		color1 = "yellow"
+		instance = { scale = { 1.10 1.10 } position = { 0.5 0.5 } }		
+	}
+	colored_emblem = {
+		texture = "ce_circle.dds"
+		color1 = "red"
+		instance = { scale = { 1.05 1.05 } position = { 0.5 0.5 } }		
+	}		
+	colored_emblem = {
+		texture = "ce_jin.dds"
+		color1 = "yellow"
+		instance = { scale = { 0.65 0.65 } position = { 0.5 0.5 } }		
+	}	
+}
+URT = {
+	# Base design, default
+	
+	pattern = "pattern_solid.tga"
+	color1 = "red"
+
+}
+CAR = {
+	pattern = "pattern_solid.tga"
+	color1 = "peach"
+
+	colored_emblem = {
+		texture = "ce_galley.dds"
+		color1 = "white"
+		color2 = "white"
+		color3 = "white"
+		instance = { scale = { 1.1 1.1 } position = { 0.5 0.5 } }	
+	}
+}
+COP = {
+	# Base design, default
+	
+	pattern = "pattern_solid.tga"
+	color1 = "orange"
+	
+	colored_emblem = {
+		texture = "ce_hammer_ddr.dds"
+		color1 = "white"
+		instance = { scale = { 0.6 0.9 } position = { 0.4 0.60 } rotation = 310 }		
+	}
+	colored_emblem = {
+		texture = "ce_hammer_ddr.dds"
+		color1 = "white"
+		instance = { scale = { 0.6 0.9 } position = { 0.6 0.60 } rotation = 50 }		
+	}
+	colored_emblem = {
+		texture = "ce_phrygian_cap.dds"
+		color1 = "white"
+		instance = { scale = { 0.65 0.65 } position = { 0.5 0.35 } }		
+	}
+
+}

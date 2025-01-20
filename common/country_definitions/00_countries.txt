@@ -355,7 +355,7 @@ HOW = {
 
 	country_type = decentralized
 
-	tier = empire
+	tier = kingdom
 	
 	cultures = { howondalander }
 	capital = STATE_Muosuy
@@ -365,7 +365,7 @@ LAO = {
 
 	country_type = recognized
 
-	tier = empire
+	tier = kingdom
 	
 	cultures = { laotani }
 	capital = STATE_Icholand
@@ -430,3 +430,94 @@ COP = {
 	cultures = { dwarf }
 	capital = STATE_Raecax
 }
+BYK = {
+	color = { 64 64 64}
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { vampire }
+	capital = STATE_Phitath
+}
+ARK = {
+	color = { 255 245 193 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { octarine }
+	capital = STATE_Guog
+}
+CAR = {
+	color = { 255 102 147 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ramtopian }
+	capital = STATE_Engusro
+}
+URT = {
+	color = { 204 20 50 }
+
+	country_type = unrecognized
+
+	tier = principality
+	
+	cultures = { urtalie }
+	capital = STATE_Urt
+}
+URA = {
+	color = { 81 81 1 }
+
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { bewe }
+	capital = STATE_Ojaqui
+}
+SBE = {
+	color = { 81 81 1 }
+
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { sbelinian }
+	capital = STATE_Shofestalt
+}
+TRL = {
+	color = { 107 155 150 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Ogucco
+}
+MUS = {
+	color = { 155 142 29 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Muskovado
+}
+PKS = {
+	color = { 155 142 29 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Ubweltu
+}
+

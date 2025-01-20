@@ -1408,7 +1408,7 @@
 
 		}
 	}
-	s:STATE_Thead={
+	s:STATE_Urt={
 		region_state:TRO={
 
 		}
@@ -3095,7 +3095,7 @@
 
 		}
 	}
-	s:STATE_Ushistan={
+	s:STATE_Muskovado={
 		region_state:ABR={
 
 		}
@@ -3768,8 +3768,37 @@
 		}
 	}
 	s:STATE_Phitath={
-		region_state:UTH={
-
+		region_state:BYK={
+			create_building={
+				building="building_food_industry"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_bakery" }
+			}
+			create_building={
+				building="building_furniture_manufacturies"
+				level=3
+				reserves=1
+				activate_production_methods={ "pm_lathe" }
+			}
+			create_building={
+				building="building_glassworks"
+				level=2
+				reserves=1
+				activate_production_methods={ "pm_leaded_glass" }
+			}
+			create_building={
+				building="building_paper_mills"
+				level=1
+				reserves=1
+				activate_production_methods={ "pm_sulfite_pulping" }
+			}
+			create_building={
+				building="building_textile_mills"
+				level=3
+				reserves=1
+				activate_production_methods={ "pm_craftsman_sewing" }
+			}
 		}
 	}
 	s:STATE_Phumothess={
@@ -4295,8 +4324,8 @@
 		}
 	}
 	s:STATE_Ubweltu={
-		region_state:UTH={
-
+		region_state:PKS={
+		
 		}
 	}
 	s:STATE_Anarta={

@@ -1,0 +1,20 @@
+﻿CHARACTERS = {
+	c:AMP ?= {
+		create_character = {
+			#
+			first_name = "Havelock"
+			last_name = "Vetinari"
+			historical = yes
+			culture = primary_culture
+			dna = dna_havelock_vetinari
+			ruler = yes
+			age = 28
+			interest_group = ig_intelligentsia
+			ideology = ideology_despotic_utopian
+			traits = {
+				meticulous ruthless
+			}
+		}	
+
+	}
+}

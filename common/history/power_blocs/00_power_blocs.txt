@@ -47,15 +47,20 @@
 			principle = principle_vassalization_1
 			
 			member = c:YMI #
-			member = c:HER #
+			member = c:HRS #
 		}
-		if = {
-			limit = {
-				has_dlc_feature = power_bloc_features
-			}
-			power_bloc = {
-				add_principle = principle_police_coordination_1
-			}
+	}
+	c:BYK = {
+		create_power_bloc = {
+			name = DIET_OF_BUGS
+
+			map_color = { 70 74 96 }
+
+			founding_date = 1834.01.01
+			identity = identity_trade_league
+			principle = principle_internal_trade_1
+			
+			member = c:TRL #
 		}
 	}
 }

@@ -749,7 +749,7 @@
 
 		}
 	}
-	s:STATE_Thead = {
+	s:STATE_Urt = {
 		region_state: = {
 			create_pop = {
 				culture = quuhotheng
@@ -1430,20 +1430,11 @@
 		}
 	}
 	s:STATE_Ogucco = {
-		region_state: = {
+		region_state:TRL = {
 			create_pop = {
-				culture = urrord
+				culture = uberwaldian
 				size = 10000
 			}
-			create_pop = {
-				culture = toujez
-				size = 10000
-			}
-			create_pop = {
-				culture = muad
-				size = 10000
-			}
-
 		}
 	}
 	s:STATE_Coonmiult = {
@@ -1980,15 +1971,6 @@
 
 		}
 	}
-	s:STATE_Jothapoi = {
-		region_state: = {
-			create_pop = {
-				culture = kiobiq
-				size = 10000
-			}
-
-		}
-	}
 	s:STATE_Hirrii = {
 		region_state: = {
 			create_pop = {
@@ -2517,10 +2499,10 @@
 
 		}
 	}
-	s:STATE_Ushistan = {
-		region_state: = {
+	s:STATE_Muskovado = {
+		region_state:MUS = {
 			create_pop = {
-				culture = inzinga
+				culture = uberwaldian
 				size = 10000
 			}
 
@@ -3422,13 +3404,9 @@
 		}
 	}
 	s:STATE_Phitath = {
-		region_state: = {
+		region_state:BYK = {
 			create_pop = {
-				culture = phocith
-				size = 4985775
-			}
-			create_pop = {
-				culture = toujez
+				culture = uberwaldian
 				size = 4985775
 			}
 

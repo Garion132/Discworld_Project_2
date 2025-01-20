@@ -230,7 +230,7 @@ region_Staek = {
 	graphical_culture = "arabic"
 	capital_province = x989A01
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Ochord STATE_Shofestalt STATE_Maehey STATE_Thead STATE_Swerothapp STATE_Frecath STATE_Phostrapp }
+	states = {  STATE_Ochord STATE_Shofestalt STATE_Maehey STATE_Urt STATE_Swerothapp STATE_Frecath STATE_Phostrapp }
 }
 region_Rothogoa = {
 	graphical_culture = "arabic"
@@ -314,7 +314,7 @@ region_Raesreestan = {
 	graphical_culture = "arabic"
 	capital_province = xED1A01
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Nuaboy STATE_Ushistan STATE_Deettiopp STATE_Stuut }
+	states = {  STATE_Nuaboy STATE_Muskovado STATE_Deettiopp STATE_Stuut }
 }
 region_Stoplains = {
 	graphical_culture = "arabic"
@@ -434,7 +434,7 @@ region_Phimuth = {
 	graphical_culture = "arabic"
 	capital_province = xC3E601
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Theor STATE_Ombestan STATE_Engusro STATE_Ipocca STATE_Jothapoi }
+	states = {  STATE_Theor STATE_Ombestan STATE_Engusro STATE_Ipocca }
 }
 region_Tuaj = {
 	graphical_culture = "arabic"

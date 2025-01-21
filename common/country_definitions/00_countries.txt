@@ -520,4 +520,64 @@ PKS = {
 	cultures = { uberwaldian }
 	capital = STATE_Ubweltu
 }
+VEL = {
+	color = { 194  82  97 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { vieuxish }
+	capital = STATE_joefistan
+}
+LPW = {
+	color = { 33 100 224 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Shepast
+}
+SPA = {
+	color = { 140 209 255 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ramtopian uberwaldian }
+	capital = STATE_Mustekuu
+}
+SMA = {
+	color = { 135 255 143 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ramtopian uberwaldian }
+	capital = STATE_Mustekuu
+}
+SLA = {
+	color = { 255 222 132 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ramtopian uberwaldian }
+	capital = STATE_Mustekuu
+}
+VAN = {
+	color = { 62  0  97 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ramtopian }
+	capital = STATE_Mustekuu
+}
 

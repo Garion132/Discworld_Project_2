@@ -216,11 +216,11 @@
 
 	s:STATE_Sartia = {
 		create_state = {
-			country = c:RUS
+			country = c:VEL
 			owned_provinces = { "x6F8001"  }
 		}
 		
-		add_homeland = cu:quuchtond
+		add_homeland = cu:vieuxish
 		
 	}
 
@@ -1829,11 +1829,15 @@
 
 	s:STATE_Shepast = {
 		create_state = {
+			country = c:LPW
+			owned_provinces = { "x5EA89B" }
+		}
+		create_state = {
 			country = c:RUS
-			owned_provinces = { "x802301" "x5EA89B" }
+			owned_provinces = { "x802301" }
 		}
 		
-		add_homeland = cu:chomast
+		add_homeland = cu:uberwaldian
 		
 	}
 
@@ -2441,11 +2445,23 @@
 
 	s:STATE_Mustekuu = {
 		create_state = {
-			country = c:RUS
-			owned_provinces = { "xC95C01" "x80A201" "x1E0601" "x242801" "xA3DC01"}
+			country = c:SPA
+			owned_provinces = { "x1E0601" }
+		}
+		create_state = {
+			country = c:SMA
+			owned_provinces = { "x80A201" }
+		}
+		create_state = {
+			country = c:SLA
+			owned_provinces = { "xC95C01" }
+		}
+		create_state = {
+			country = c:VAN
+			owned_provinces = { "x242801" "xA3DC01"}
 		}
 		
-		add_homeland = cu:chomast
+		add_homeland = cu:ramtopian
 		
 	}
 
@@ -2655,11 +2671,11 @@
 
 	s:STATE_Ichoche = {
 		create_state = {
-			country = c:RUS
+			country = c:VEL
 			owned_provinces = { "x86C701"  }
 		}
 		
-		add_homeland = cu:jiambiard
+		add_homeland = cu:vieuxish
 		
 	}
 
@@ -3811,12 +3827,11 @@
 
 	s:STATE_Joefistan = {
 		create_state = {
-			country = c:RUS
+			country = c:VEL
 			owned_provinces = { "xE31D01" "xF01B01"  }
 		}
 		
-		add_homeland = cu:quuchtond
-		add_homeland = cu:inzinga
+		add_homeland = cu:vieuxish
 		
 	}
 

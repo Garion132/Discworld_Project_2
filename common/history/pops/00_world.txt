@@ -750,10 +750,10 @@
 		}
 	}
 	s:STATE_Urt = {
-		region_state: = {
+		region_state:URT = {
 			create_pop = {
-				culture = quuhotheng
-				size = 10000
+				culture = urtalie
+				size = 351400
 			}
 
 		}
@@ -1752,9 +1752,9 @@
 		}
 	}
 	s:STATE_Shepast = {
-		region_state: = {
+		region_state:LPW = {
 			create_pop = {
-				culture = chomast
+				culture = uberwaldian
 				size = 10000
 			}
 
@@ -2339,10 +2339,31 @@
 		}
 	}
 	s:STATE_Mustekuu = {
-		region_state: = {
+		region_state:SLA = {
 			create_pop = {
-				culture = chomast
-				size = 10000
+				culture = ramtopian
+				size = 86000
+			}
+
+		}
+		region_state:SMA = {
+			create_pop = {
+				culture = ramtopian
+				size = 134000
+			}
+
+		}
+		region_state:SPA = {
+			create_pop = {
+				culture = ramtopian
+				size = 176000
+			}
+
+		}
+		region_state:VAN = {
+			create_pop = {
+				culture = ramtopian
+				size = 227000
 			}
 
 		}
@@ -3943,9 +3964,9 @@
 		}
 	}
 	s:STATE_Ubweltu = {
-		region_state: = {
+		region_state:PKS = {
 			create_pop = {
-				culture = phocith
+				culture = uberwaldian
 				size = 10000
 			}
 

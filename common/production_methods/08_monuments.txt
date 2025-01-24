@@ -41,11 +41,12 @@ pm_default_building_circumfence = {
 			goods_output_wood_add = 30	
 			goods_output_hardwood_add = 20
 			goods_output_furniture_add = 15	
-			goods_output_silk_add = 10	
-			goods_output_tools_add = 10	
+			goods_output_silk_add = 10		
 			goods_output_liquor_add = 10	
 			goods_output_wine_add = 10	
-			goods_output_clippers_add = 2	
+			goods_output_clippers_add = 2
+			goods_input_clippers_add = 2
+			goods_input_tools_add = 10
 		}
 
 		level_scaled = {

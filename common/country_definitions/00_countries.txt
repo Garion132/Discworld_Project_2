@@ -540,6 +540,16 @@ LPW = {
 	cultures = { uberwaldian }
 	capital = STATE_Shepast
 }
+KNC = {
+	color = { 135 123 104 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Ogucco
+}
 SPA = {
 	color = { 140 209 255 }
 
@@ -580,4 +590,83 @@ VAN = {
 	cultures = { ramtopian }
 	capital = STATE_Mustekuu
 }
+NTF = {
+	color = { 158 184 191 }
 
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { nothing }
+	capital = STATE_Strimerthort
+}
+SCT = {
+	color = { 137 110 60 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { nothing }
+	capital = STATE_Trabwess
+}
+ROS = {
+	color = { 255 58 70 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { nothing }
+	capital = STATE_Aqueng
+}
+BLG = {
+	color = { 74 58 196 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Ogucco
+}
+ZLO = {
+	color = { 94 124 97 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { zlobenian }
+	capital = STATE_Stroluth
+}
+TEZ = {
+	color = { 18  136  209 }
+
+	country_type = unrecognized
+
+	tier = empire
+	
+	cultures = { tezuman }
+	capital = STATE_Meetraass
+}
+TET = {
+	color = { 67 99 19 }
+
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { teste }
+	capital = STATE_Feereq
+}
+SUM = {
+	color = { 183 45 18 }
+
+	country_type = unrecognized
+
+	tier = kingdom
+	
+	cultures = { sumtrian }
+	capital = STATE_Ohunzu
+}

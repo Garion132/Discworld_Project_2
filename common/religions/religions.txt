@@ -47,6 +47,14 @@ fate = {
 	color = { 1 1 0.1 }
 }
 
+noddiism = {
+	texture = "gfx/interface/icons/religion_icons/sikh.dds"
+	traits = {
+		
+	}
+	color = { 1 1 0.1 }
+}
+
 catholic = {
 	texture = "gfx/interface/icons/religion_icons/catholic.dds"
 	traits = {

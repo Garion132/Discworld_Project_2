@@ -61,6 +61,7 @@
 			principle = principle_internal_trade_1
 			
 			member = c:TRL #
+			member = c:BLG
 		}
 	}
 }

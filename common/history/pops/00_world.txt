@@ -6,7 +6,7 @@
 				size = 1840000
 			}
 			create_pop = {
-				culture = dwarf
+				culture = high_dwarf
 				size = 50000
 			}
 		}
@@ -48,9 +48,9 @@
 		}
 	}
 	s:STATE_Boan = {
-		region_state: = {
+		region_state:ZLO = {
 			create_pop = {
-				culture = osrappa
+				culture = zlobenian
 				size = 10000
 			}
 
@@ -66,9 +66,9 @@
 		}
 	}
 	s:STATE_Lathocou = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = jaedaq
+				culture = mouldavian
 				size = 10000
 			}
 
@@ -163,9 +163,9 @@
 		}
 	}
 	s:STATE_Moim = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = gothacie
+				culture = mouldavian
 				size = 10000
 			}
 
@@ -244,10 +244,10 @@
 		}
 	}
 	s:STATE_Sartia = {
-		region_state: = {
+		region_state:VEL = {
 			create_pop = {
 				culture = quuchtond
-				size = 10000
+				size = vieuxish
 			}
 
 		}
@@ -310,9 +310,9 @@
 		}
 	}
 	s:STATE_Ohossoibestru = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = strekistirt
+				culture = klatchistani
 				size = 10000
 			}
 
@@ -346,9 +346,9 @@
 		}
 	}
 	s:STATE_Gendai = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = chibast
+				culture = mouldavian
 				size = 10000
 			}
 
@@ -404,10 +404,10 @@
 		}
 	}
 	s:STATE_Guog = {
-		region_state: = {
+		region_state:ARK = {
 			create_pop = {
-				culture = uningo
-				size = 10000
+				culture = octarine
+				size = 648960
 			}
 
 		}
@@ -415,8 +415,8 @@
 	s:STATE_Raecax = {
 		region_state:COP = {
 			create_pop = {
-				culture = dwarf
-				size = 10000
+				culture = high_dwarf
+				size = 397680
 			}
 		}
 		region_state: = {
@@ -558,22 +558,18 @@
 		}
 	}
 	s:STATE_Thius = {
-		region_state: = {
+		region_state:SMA = {
 			create_pop = {
-				culture = unmishu
+				culture = smalian
 				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Stueb = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = ombobru
-				size = 10000
-			}
-			create_pop = {
-				culture = gothacie
+				culture = mouldavian
 				size = 10000
 			}
 
@@ -741,9 +737,9 @@
 		}
 	}
 	s:STATE_Tostalea = {
-		region_state: = {
+		region_state:IST = {
 			create_pop = {
-				culture = erbistre
+				culture = istanzian
 				size = 10000
 			}
 
@@ -795,18 +791,18 @@
 		}
 	}
 	s:STATE_Mausseang = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = erbistre
+				culture = klatchistani
 				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Staur = {
-		region_state: = {
+		region_state:ZLO = {
 			create_pop = {
-				culture = stuob
+				culture = smalian
 				size = 10000
 			}
 
@@ -969,9 +965,9 @@
 		}
 	}
 	s:STATE_Soaj = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = frimethird
+				culture = klatchistani
 				size = 10000
 			}
 
@@ -1117,9 +1113,9 @@
 		}
 	}
 	s:STATE_Ingisho = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = huichtoeland
+				culture = klatchistani
 				size = 10000
 			}
 
@@ -1255,9 +1251,9 @@
 		}
 	}
 	s:STATE_Iquunga = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = huichtoeland
+				culture = mouldavian
 				size = 10000
 			}
 
@@ -1363,9 +1359,9 @@
 		}
 	}
 	s:STATE_Oquabwu = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = chibast
+				culture = mouldavian
 				size = 10000
 			}
 
@@ -1436,6 +1432,12 @@
 				size = 10000
 			}
 		}
+		region_state:KNC = {
+			create_pop = {
+				culture = uberwaldian
+				size = 10000
+			}
+		}
 	}
 	s:STATE_Coonmiult = {
 		region_state: = {
@@ -1465,9 +1467,9 @@
 		}
 	}
 	s:STATE_Sochtea = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = huichtoeland
+				culture = klatchistani
 				size = 10000
 			}
 
@@ -1492,9 +1494,9 @@
 		}
 	}
 	s:STATE_Quarrurt = {
-		region_state: = {
+		region_state:ZLO = {
 			create_pop = {
-				culture = swefestupp
+				culture = zlobenian
 				size = 10000
 			}
 
@@ -1617,9 +1619,9 @@
 		}
 	}
 	s:STATE_Stroluth = {
-		region_state: = {
+		region_state:ZLO = {
 			create_pop = {
-				culture = reudang
+				culture = zlobenian
 				size = 10000
 			}
 
@@ -1734,9 +1736,9 @@
 		}
 	}
 	s:STATE_Luthifou = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = erbistre
+				culture = klatchistani
 				size = 10000
 			}
 
@@ -1779,9 +1781,9 @@
 		}
 	}
 	s:STATE_Siiltiilt = {
-		region_state: = {
+		region_state:KLA = {
 			create_pop = {
-				culture = joibung
+				culture = klatchian
 				size = 10000
 			}
 
@@ -1945,9 +1947,9 @@
 		}
 	}
 	s:STATE_Faak = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = gothacie
+				culture = mouldavian
 				size = 10000
 			}
 
@@ -1981,9 +1983,9 @@
 		}
 	}
 	s:STATE_Obrart = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = altustan
+				culture = klatchistani
 				size = 10000
 			}
 
@@ -1999,9 +2001,9 @@
 		}
 	}
 	s:STATE_Anmabwe = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = chabrord
+				culture = klatchistani
 				size = 10000
 			}
 
@@ -2097,9 +2099,9 @@
 		}
 	}
 	s:STATE_Swefitholt = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = jaedaq
+				culture = mouldavian
 				size = 10000
 			}
 
@@ -2299,13 +2301,9 @@
 		}
 	}
 	s:STATE_Luunduepp = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = jaedaq
-				size = 10000
-			}
-			create_pop = {
-				culture = altustan
+				culture = klatchistani
 				size = 10000
 			}
 
@@ -2499,13 +2497,13 @@
 		}
 	}
 	s:STATE_Maudestan = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = swefestupp
+				culture = mouldavian
 				size = 10000
 			}
 			create_pop = {
-				culture = huichtoeland
+				culture = zlobenian
 				size = 10000
 			}
 
@@ -2574,9 +2572,9 @@
 		}
 	}
 	s:STATE_Ichoche = {
-		region_state: = {
+		region_state:VEL = {
 			create_pop = {
-				culture = jiambiard
+				culture = vieuxish
 				size = 10000
 			}
 
@@ -2596,9 +2594,9 @@
 		}
 	}
 	s:STATE_Strocuth = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = jaedaq
+				culture = klatchistani
 				size = 10000
 			}
 
@@ -2739,9 +2737,9 @@
 		}
 	}
 	s:STATE_Stiosthiep = {
-		region_state: = {
+		region_state:KLA = {
 			create_pop = {
-				culture = joibung
+				culture = klatchian
 				size = 10000
 			}
 
@@ -2986,9 +2984,9 @@
 		}
 	}
 	s:STATE_Fristring = {
-		region_state: = {
+		region_state:ZLO = {
 			create_pop = {
-				culture = osrappa
+				culture = zlobenian
 				size = 10000
 			}
 
@@ -3022,9 +3020,9 @@
 		}
 	}
 	s:STATE_Jorrai = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = liij
+				culture = mouldavian
 				size = 10000
 			}
 
@@ -3129,9 +3127,9 @@
 		}
 	}
 	s:STATE_Buustriert = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = chibast
+				culture = mouldavian
 				size = 10000
 			}
 
@@ -3201,13 +3199,9 @@
 		}
 	}
 	s:STATE_Phibross = {
-		region_state: = {
+		region_state:SMA = {
 			create_pop = {
-				culture = stuob
-				size = 10000
-			}
-			create_pop = {
-				culture = unmishu
+				culture = smalian
 				size = 10000
 			}
 
@@ -3286,9 +3280,9 @@
 		}
 	}
 	s:STATE_Goegux = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = erdipp
+				culture = klatchistani
 				size = 10000
 			}
 
@@ -3313,9 +3307,9 @@
 		}
 	}
 	s:STATE_Kookind = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = jaedaq
+				culture = mouldavian
 				size = 10000
 			}
 
@@ -3412,13 +3406,9 @@
 		}
 	}
 	s:STATE_Jaltie = {
-		region_state: = {
+		region_state:IST = {
 			create_pop = {
-				culture = frimethird
-				size = 10000
-			}
-			create_pop = {
-				culture = histumai
+				culture = istanzian
 				size = 10000
 			}
 
@@ -3429,6 +3419,36 @@
 			create_pop = {
 				culture = uberwaldian
 				size = 4985775
+			}
+
+		}
+		region_state:PLU = {
+			create_pop = {
+				culture = uberwaldian
+				size = 110280
+			}
+
+		}
+		region_state:UGI = {
+			create_pop = {
+				culture = uberwaldian
+				size = 190720
+			}
+
+		}
+		region_state:BLI = {
+			create_pop = {
+				culture = uberwaldian
+				size = 66520
+			}
+
+		}
+	}
+	s:STATE_Schmaltzberg = {
+		region_state:LWD = {
+			create_pop = {
+				culture = low_dwarf
+				size = 365240
 			}
 
 		}
@@ -3443,9 +3463,9 @@
 		}
 	}
 	s:STATE_Tattii = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = huichtoeland
+				culture = mouldavian
 				size = 1331775
 			}
 
@@ -3495,9 +3515,9 @@
 		}
 	}
 	s:STATE_Quettilt = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = peenmaapp
+				culture = klatchistani
 				size = 1209147
 			}
 
@@ -3535,13 +3555,9 @@
 		}
 	}
 	s:STATE_Fuunmaistan = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = altustan
-				size = 10000
-			}
-			create_pop = {
-				culture = strekistirt
+				culture = klatchistani
 				size = 10000
 			}
 
@@ -3557,9 +3573,9 @@
 		}
 	}
 	s:STATE_Chettort = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = ingelandusrass
+				culture = mouldavian
 				size = 858171
 			}
 
@@ -3593,9 +3609,9 @@
 		}
 	}
 	s:STATE_Geisruard = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = erdipp
+				culture = klatchistani
 				size = 723004
 			}
 
@@ -3664,13 +3680,9 @@
 		}
 	}
 	s:STATE_Joefistan = {
-		region_state: = {
+		region_state:VEL = {
 			create_pop = {
-				culture = quuchtond
-				size = 10000
-			}
-			create_pop = {
-				culture = inzinga
+				culture = vieuxish
 				size = 10000
 			}
 
@@ -3722,9 +3734,9 @@
 		}
 	}
 	s:STATE_Trassustan = {
-		region_state: = {
+		region_state:MOU = {
 			create_pop = {
-				culture = liij
+				culture = mouldavian
 				size = 911340
 			}
 
@@ -3969,7 +3981,18 @@
 				culture = uberwaldian
 				size = 10000
 			}
-
+		}
+		region_state:GLZ = {
+			create_pop = {
+				culture = uberwaldian
+				size = 10000
+			}
+		}
+		region_state:BBL = {
+			create_pop = {
+				culture = uberwaldian
+				size = 10000
+			}
 		}
 	}
 	s:STATE_Anarta = {
@@ -4126,9 +4149,9 @@
 		}
 	}
 	s:STATE_Tiecheond = {
-		region_state: = {
+		region_state:KLA = {
 			create_pop = {
-				culture = joibung
+				culture = klatchian
 				size = 10000
 			}
 
@@ -4225,9 +4248,9 @@
 		}
 	}
 	s:STATE_Sairbeeng = {
-		region_state: = {
+		region_state:KLA = {
 			create_pop = {
-				culture = duebiland
+				culture = klatchian
 				size = 10000
 			}
 
@@ -4337,9 +4360,9 @@
 		}
 	}
 	s:STATE_Ordepp = {
-		region_state: = {
+		region_state:ZLO = {
 			create_pop = {
-				culture = osrappa
+				culture = zlobenian
 				size = 10000
 			}
 
@@ -4400,9 +4423,9 @@
 		}
 	}
 	s:STATE_Thuurthouc = {
-		region_state: = {
+		region_state:KTS = {
 			create_pop = {
-				culture = strekistirt
+				culture = klatchistani
 				size = 614250
 			}
 
@@ -5284,18 +5307,18 @@
 		}
 	}
 	s:STATE_Strajostuland = {
-		region_state: = {
+		region_state:KRL = {
 			create_pop = {
-				culture = lesrii
+				culture = krullian
 				size = 10000
 			}
 
 		}
 	}
 	s:STATE_Ossunze = {
-		region_state: = {
+		region_state:KRL = {
 			create_pop = {
-				culture = lesrii
+				culture = krullian
 				size = 10000
 			}
 
@@ -5320,18 +5343,9 @@
 		}
 	}
 	s:STATE_Gueleland = {
-		region_state: = {
+		region_state:KRL = {
 			create_pop = {
-				culture = lesrii
-				size = 10000
-			}
-
-		}
-	}
-	s:STATE_Quaduth = {
-		region_state: = {
-			create_pop = {
-				culture = lesrii
+				culture = krullian
 				size = 10000
 			}
 
@@ -5446,10 +5460,10 @@
 		}
 	}
 	s:STATE_Ifimbi = {
-		region_state: = {
+		region_state:KRL = {
 			create_pop = {
-				culture = koed
-				size = 10000
+				culture = krullian
+				size = 8
 			}
 
 		}
@@ -8103,9 +8117,9 @@
 		}
 	}
 	s:STATE_Steoh = {
-		region_state: = {
+		region_state:XXX = {
 			create_pop = {
-				culture = stragostong
+				culture = foureckian
 				size = 10000
 			}
 

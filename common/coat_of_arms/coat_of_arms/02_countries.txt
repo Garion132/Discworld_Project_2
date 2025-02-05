@@ -43,6 +43,37 @@ AMP = {
 		instance = { scale = { 0.85 0.85 } position = { 0.5 0.5 } }		
 	}	
 }
+XXX = { # XXXX
+	# 
+	pattern = "pattern_solid.tga"
+	color1 = "blue_light"
+	color2 = "white"
+	color3 = "red"
+	
+	colored_emblem = {
+		texture = "ce_frame_square.dds"
+		color1 = "blue"
+		instance = { scale = { 0.85 0.45 } position = { 0.2 0.2 } }	
+	}
+	textured_emblem = {
+		texture = "ankh_morpork_coa.dds"
+		instance = { scale = { 0.45 0.45 } position = { 0.25 0.21 } }		
+	}
+	
+	colored_emblem = {
+		texture = "ce_kangaroo.dds"
+		color1 = "white"
+		color2 = "blue"
+		instance = { scale = { 0.6 0.6 } position = { 0.743 0.6 } }				
+	}
+	colored_emblem = {
+		texture = "ce_star_05.dds"
+		color1 = "white"
+		color2 = "white"
+		instance = { scale = { 0.3 0.3 } position = { 0.43 0.783 } }
+	}
+	
+}
 SHI = {
 	# Base design, default
 	
@@ -132,20 +163,8 @@ QRM = {
 		texture = "ce_wild_rose.dds"
 		color1 = "red"
 		instance = { scale = { 0.15 0.15 } position = { 0.43 0.32 } }
-	}
-	colored_emblem = {
-		texture = "ce_wild_rose.dds"
-		color1 = "red"
 		instance = { scale = { 0.15 0.15 } position = { 0.58 0.32 } }
-	}
-	colored_emblem = {
-		texture = "ce_wild_rose.dds"
-		color1 = "red"
 		instance = { scale = { 0.15 0.15 } position = { 0.43 0.69 } }
-	}
-	colored_emblem = {
-		texture = "ce_wild_rose.dds"
-		color1 = "red"
 		instance = { scale = { 0.15 0.15 } position = { 0.58 0.69 } }
 	}
 }

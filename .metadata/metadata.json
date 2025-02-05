@@ -24,6 +24,7 @@
                 "common/dynamic_country_names",
                 "common/decisions/canal_decisions.txt",
                 "events/canal_events.txt"
+				"map_data/state_regions"
         ],
     "multiplayer_synchronized" : true
 }

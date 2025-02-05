@@ -427,7 +427,7 @@ COP = {
 
 	tier = principality
 	
-	cultures = { dwarf }
+	cultures = { high_dwarf }
 	capital = STATE_Raecax
 }
 BYK = {
@@ -437,7 +437,7 @@ BYK = {
 
 	tier = principality
 	
-	cultures = { vampire }
+	cultures = { vampire uberwaldian}
 	capital = STATE_Phitath
 }
 ARK = {
@@ -460,6 +460,68 @@ CAR = {
 	cultures = { ramtopian }
 	capital = STATE_Engusro
 }
+
+SPR = {
+	color = { 165 141 186 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ramtopian }
+	capital = STATE_Oltepp
+}
+GVH = {
+	color = { 255 191 102 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ramtopian }
+	capital = STATE_Engusro
+}
+TWS = {
+	color = { 255 193 247 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ramtopian }
+	capital = STATE_Engusro
+}
+RMN = {
+	color = { 158 243 255 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ramtopian }
+	capital = STATE_Engusro
+}
+OLC = {
+	color = { 106 115 186 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ramtopian }
+	capital = STATE_Engusro
+}
+LCR = {
+	color = { 186 3 76 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ramtopian }
+	capital = STATE_Engusro
+}
+
 URT = {
 	color = { 204 20 50 }
 
@@ -669,4 +731,264 @@ SUM = {
 	
 	cultures = { sumtrian }
 	capital = STATE_Ohunzu
+}
+KTS = {
+	color = { 239 64 160 }
+
+	country_type = unrecognized
+
+	tier = kingdom
+	
+	cultures = { klatchistani }
+	capital = STATE_Ohossoibestru
+}
+USH = {
+	color = { 179 99 255 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ushistani }
+	capital = STATE_Ohossoibestru
+}
+SML = {
+	color = { 255 68 43 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { smalian }
+	capital = STATE_Phibross
+}
+NEF = {
+	color = { 110 110 110 }
+
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = {  }
+	capital = STATE_Phostrapp
+}
+MOU = {
+	color = { 92 158 39 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { mouldavian }
+	capital = STATE_Phibross
+}
+XXX = {
+	color = { 127 182 255 }
+
+	country_type = unrecognized
+
+	tier = principality
+	
+	cultures = { foureckian }
+	capital = STATE_Steoh
+}
+GLZ = {
+	color = { 167 158 255}
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Ubweltu
+}
+BBL = {
+	color = { 158 53 83 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Ubweltu
+}
+ESC = {
+	color = { 175 96 156}
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Shepast
+}
+BUG = {
+	color = { 255 237 181}
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Daibweort
+}
+LWD = {
+	color = { 137 91 35}
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { low_dwarf }
+	capital = STATE_Phitath
+}
+RDH = {
+	color = { 181 178 255}
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { low_dwarf }
+	capital = STATE_Daibweort
+}
+INA = {
+	color = { 132 255 175}
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { low_dwarf }
+	capital = STATE_Daibweort
+}
+PLU = {
+	color = { 158 139 112 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Phitath
+}
+BLI = {
+	color = { 55 142 71 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Phitath
+}
+UGI = {
+	color = { 145 155 104 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Phitath
+}
+SPL = {
+	color = { 127 111 155 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Phitath
+}
+DLZ = {
+	color = { 56 47 142 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Daibweort
+}
+FWW = {
+	color = { 153 42 38 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { werewolf uberwaldian }
+	capital = STATE_Daibweort
+}
+HIC = {
+	color = { 68 30 32 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ramtopian }
+	capital = STATE_Engusro
+}
+MUN = {
+	color = { 73 67 34 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Trardiss
+}
+KHN = {
+	color = { 240 195 41 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { khanli }
+	capital = STATE_Shefuthquesast
+}
+HRL = {
+	color = { 112 3 100 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { hrullian }
+	capital = STATE_Batharea
+}
+VNG = {
+	color = { 112 64 160 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { vanglemeshi }
+	capital = STATE_Maitriapp
+}
+FRF = {
+	color = { 128 205 64 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { farfereen }
+	capital = STATE_Uppichte
+}
+GHA = {
+	color = { 170 239 97 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { ghatian }
+	capital = STATE_Uppichte
 }

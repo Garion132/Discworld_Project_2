@@ -60,8 +60,34 @@
 			identity = identity_trade_league
 			principle = principle_internal_trade_1
 			
-			member = c:TRL #
+			member = c:BLI #
 			member = c:BLG
+			member = c:RHE #
+			member = c:LPW #
+			member = c:PLU #
+			member = c:UGI #
+			member = c:BUG #
+			member = c:SMA #
+		}
+	}
+	#Low Kingdom
+	c:LWD = {
+		create_power_bloc = {
+			name = LOW_KINGDOM
+
+			map_color = { 137 91 35 }
+
+			founding_date = 721.01.01
+			identity = identity_sovereign_empire
+			principle = principle_vassalization_1
+			
+			member = c:COP #
+			member = c:INA #
+			member = c:RDH #
+			
+		}
+		power_bloc = {
+			add_principle = principle_market_unification_3
 		}
 	}
 }

@@ -56,13 +56,37 @@
 			create_building={
 				building="building_university"
 				add_ownership={
-					country={
+					building={
+						type="building_university"
 						country="c:AMP"
 						levels=5
+						region="STATE_Ankh"
 					}
 				}
 				reserves=1
 				activate_production_methods={ "pm_scholastic_education" "pm_religious_academia" }
+			}
+			create_building={
+				building="building_arms_industry"
+				add_ownership={
+					country={
+						country="c:AMP"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_polearms" "pm_automation_disabled"  }
+			}
+			create_building={
+				building="building_artillery_foundries"
+				add_ownership={
+					country={
+						country="c:AMP"
+						levels=1
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_ballistae" "pm_automation_disabled"  }
 			}
 			create_building={
 				building="building_paper_mills"
@@ -70,12 +94,12 @@
 					building={
 						type="building_financial_district"
 						country="c:AMP"
-						levels=6
+						levels=5
 						region="STATE_Ankh"
 					}
 					country={
 						country="c:AMP"
-						levels=4
+						levels=1
 					}
 				}
 				reserves=1
@@ -87,7 +111,7 @@
 					building={
 						type="building_financial_district"
 						country="c:AMP"
-						levels=17
+						levels=15
 						region="STATE_Ankh"
 					}
 					country={
@@ -141,7 +165,13 @@
 					building={
 						type="building_manor_house"
 						country="c:AMP"
-						levels=15
+						levels=12
+						region="STATE_Ankh"
+					}
+					building={
+						type="building_university"
+						country="c:AMP"
+						levels=3
 						region="STATE_Ankh"
 					}
 				}
@@ -211,6 +241,19 @@
 				activate_production_methods={ "pm_steel" "pm_automation_disabled"  }
 			}
 			create_building={
+				building="building_steel_mills"
+				add_ownership={
+					building={
+						type="building_financial_district"
+						country="c:AMP"
+						levels=1
+						region="STATE_Ankh"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_blister_steel_process" "pm_automation_disabled"  }
+			}
+			create_building={
 				building="building_logging_camp"
 				add_ownership={
 					building={
@@ -243,6 +286,7 @@
 						region="STATE_Lower_Sto_Plains"
 					}
 				}
+				
 				reserves=1
 				activate_production_methods={ "pm_simple_farming" }
 			}
@@ -1409,8 +1453,13 @@
 		}
 	}
 	s:STATE_Urt={
-		region_state:TRO={
-
+		region_state:URT={
+			create_building={
+				building="building_dye_plantation"
+				level=1
+				reserves=1
+				activate_production_methods={ "default_building_dye_plantation" }
+			}
 		}
 	}
 	s:STATE_Taujind={
@@ -1935,7 +1984,7 @@
 		}
 	}
 	s:STATE_Engusro={
-		region_state:UTH={
+		region_state:HIC={
 
 		}
 	}
@@ -2719,7 +2768,7 @@
 		}
 	}
 	s:STATE_Anmabwe={
-		region_state:STR={
+		region_state:KTS={
 
 		}
 	}
@@ -5535,7 +5584,50 @@
 	}
 	s:STATE_Puit={
 		region_state:MOC={
-
+		
+		}
+	}
+	s:STATE_Shires={
+		region_state:SHR={
+			create_building={
+				building="building_wheat_farm"#to be brassicas
+				add_ownership={
+					building={
+						type="building_manor_house"
+						country="c:AMP"
+						levels=7
+						region="STATE_Ankh"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_tools" "pm_no_secondary"  "pm_soil_enriching_farming" }
+			}
+			create_building={
+				building="building_wheat_farm"
+				add_ownership={
+					building={
+						type="building_manor_house"
+						country="c:AMP"
+						levels=6
+						region="STATE_Ankh"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_tools" "pm_no_secondary"  "pm_soil_enriching_farming" }
+			}
+			create_building={
+				building="building_livestock_ranch"
+				add_ownership={
+					building={
+						type="building_manor_house"
+						country="c:AMP"
+						levels=5
+						region="STATE_Ankh"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_sheep_farms"  "pm_standard_fences" "pm_unrefrigerated" "pm_slaughterhouses" }
+			}
 		}
 	}
 	s:STATE_Fuitiy={
@@ -7192,6 +7284,102 @@
 	}
 	s:STATE_Swachend={
 		region_state:PIA={
+
+		}
+	}
+	s:STATE_Schmaltzberg={
+		region_state:LWD={
+			create_building={
+				building="building_coal_mine"
+				add_ownership={
+					building={
+						type="building_financial_district"
+						country="c:LWD"
+						levels=1
+						region="STATE_Schmaltzberg"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_picks_and_shovels_building_coal_mine" }
+			}
+			create_building={
+				building="building_iron_mine"
+				add_ownership={
+					building={
+						type="building_financial_district"
+						country="c:LWD"
+						levels=2
+						region="STATE_Schmaltzberg"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_picks_and_shovels_building_iron_mine" }
+			}
+			create_building={
+				building="building_food_industry"
+				add_ownership={
+					building={
+						type="building_financial_district"
+						country="c:LWD"
+						levels=1
+						region="STATE_Schmaltzberg"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_bakery" }#to be dwarf bread
+			}
+			create_building={
+				building="building_furniture_manufacturies"
+				add_ownership={
+					building={
+						type="building_financial_district"
+						country="c:LWD"
+						levels=3
+						region="STATE_Schmaltzberg"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_handcrafted_furniture" }
+			}
+			create_building={
+				building="building_glassworks"
+				add_ownership={
+					building={
+						type="building_financial_district"
+						country="c:LWD"
+						levels=2
+						region="STATE_Schmaltzberg"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_forest_glass" }
+			}
+			create_building={
+				building="building_textile_mills"
+				add_ownership={
+					building={
+						type="building_financial_district"
+						country="c:LWD"
+						levels=3
+						region="STATE_Schmaltzberg"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_craftsman_sewing" }
+			}
+			create_building={
+				building="building_urban_center"
+				add_ownership={
+					building={
+						type="building_urban_center"
+						country="c:LWD"
+						levels=2
+						region="STATE_Schmaltzberg"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_no_public_transport" }
+			}
 
 		}
 	}

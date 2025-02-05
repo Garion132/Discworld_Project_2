@@ -1,38 +1,14 @@
-﻿region_Nuejass = {
-	graphical_culture = "arabic"
-	capital_province = x8C6301
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Endess }
-}
-region_Trabostupp = {
-	graphical_culture = "arabic"
-	capital_province = x1FAD01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Boan STATE_Beokeq STATE_Fristring STATE_Hiipass STATE_Taujind STATE_Doos }
-}
-region_Ruodind = {
+﻿region_Ruodind = {
 	graphical_culture = "arabic"
 	capital_province = xEC9401
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Huthasue STATE_Suetgout STATE_Bestuteu STATE_Siiltiilt STATE_Ajatra STATE_Risrua STATE_Frukustong STATE_Beenend STATE_Nashio}
+	states = {  STATE_Huthasue STATE_Suetgout STATE_Bestuteu STATE_Siiltiilt STATE_Ajatra STATE_Risrua STATE_Frukustong STATE_Beenend STATE_Nashio STATE_Trogoth STATE_Hienuy STATE_Hiobwierd STATE_Giom STATE_Ifostre STATE_Sairbeeng STATE_Jeinmuustan STATE_Oluque STATE_Meer STATE_Seafurt STATE_Swaccand STATE_Titholuo STATE_Leurdiass STATE_Ebwert}
 }
 region_Niec = {
 	graphical_culture = "arabic"
 	capital_province = x25BE01
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Lathocou STATE_Kookind STATE_Ottelt STATE_Cuanzealt STATE_Swefitholt STATE_Strocuth STATE_Iquunga STATE_Tattii STATE_Sochtea STATE_Maudestan }
-}
-region_Inzung = {
-	graphical_culture = "arabic"
-	capital_province = x1F8401
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Puil STATE_Gianird STATE_Raortaalt STATE_Strilostung STATE_Reundeung }
-}
-region_Paan = {
-	graphical_culture = "arabic"
-	capital_province = xEF2F01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Luod STATE_Diokiy STATE_Fethofoi STATE_Poabiq STATE_Hoaquaard STATE_Raecax STATE_Daibweort STATE_Trardiss STATE_Phikust }
 }
 region_Staog = {
 	graphical_culture = "arabic"
@@ -46,12 +22,6 @@ region_Quereth = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Frosast STATE_Cuuj }
 }
-region_Quachting = {
-	graphical_culture = "arabic"
-	capital_province = x1B1E01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Shangird STATE_Ifutri STATE_Stian STATE_Jiubwoord }
-}
 region_Noechuapp = {
 	graphical_culture = "arabic"
 	capital_province = x526201
@@ -62,7 +32,7 @@ region_Rios = {
 	graphical_culture = "arabic"
 	capital_province = x11E701
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Nestopuu STATE_Quicceng STATE_Deilang STATE_Atechto STATE_Duec STATE_Muosuy }
+	states = {  STATE_Nestopuu STATE_Quicceng STATE_Deilang STATE_Atechto STATE_Duec STATE_Muosuy STATE_Stoojsteis STATE_Utrarbo STATE_Strissong STATE_Icholand STATE_Shumuth STATE_Suekond STATE_Luthegua STATE_Ajerto STATE_Ottolte STATE_Rombue STATE_Ritrau STATE_Frodostirt STATE_Jenzea STATE_Trogithung STATE_Chapeth STATE_Igilti STATE_Thiol STATE_Riostrooss STATE_Pimbie STATE_Suubruolt STATE_Soiralt}
 }
 region_Strucistert = {
 	graphical_culture = "arabic"
@@ -80,7 +50,7 @@ region_Chukust = {
 	graphical_culture = "arabic"
 	capital_province = x1C2901
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Strocust STATE_Achoqua STATE_Phibross STATE_Staeg STATE_Osresro STATE_Jaltie STATE_Soaj STATE_Tostalea STATE_Aporbo STATE_Luthifou STATE_Kuabey}
+	states = {  STATE_Strocust STATE_Achoqua STATE_Phibross STATE_Staeg STATE_Osresro STATE_Jaltie STATE_Soaj STATE_Tostalea STATE_Aporbo STATE_Luthifou STATE_Kuabey STATE_Mougox STATE_Unzurd STATE_Teuteng STATE_Thius STATE_Reshoa STATE_Thiaf STATE_Ishipp STATE_Eppand STATE_Staur}
 }
 region_Kienoss = {
 	graphical_culture = "arabic"
@@ -88,41 +58,23 @@ region_Kienoss = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Swemothing STATE_Genua STATE_Froshult STATE_Trorreng STATE_Achilt STATE_Rathubaa STATE_Udocha STATE_Theit }
 }
-region_Strochastan = {
-	graphical_culture = "arabic"
-	capital_province = xCABD01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Batharea STATE_Chamithart STATE_Shefuthquesast STATE_Efusro STATE_Maiteland STATE_Maitriapp }
-}
 region_Pestirui = {
 	graphical_culture = "arabic"
 	capital_province = xE51301
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Ettostan STATE_Riutird STATE_Dambuu STATE_Stoaf STATE_Buachtiang }
 }
-region_Mounmeass = {
-	graphical_culture = "arabic"
-	capital_province = x1CAC01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Oppinza STATE_Phuhest STATE_Muattoeland STATE_Shucuthert STATE_Ceasoz STATE_Rothidei STATE_Shirtang }
-}
 region_Andabwa = {
 	graphical_culture = "arabic"
 	capital_province = x6FC001
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Fiofurt STATE_Goeh STATE_Erbalti STATE_Meetraass }
+	states = {  STATE_Fiofurt STATE_Goeh STATE_Erbalti STATE_Meetraass STATE_Frubrastan STATE_Onicca STATE_Egesri STATE_Ichirro STATE_Sailind STATE_Swebrird STATE_Soirtiert STATE_Shehust STATE_Elisru}
 }
 region_Goltuo = {
 	graphical_culture = "arabic"
 	capital_province = x415501
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Frosuth STATE_Uchtoqua STATE_Poupey STATE_Combaa STATE_Tregathepp }
-}
-region_Kuijass = {
-	graphical_culture = "arabic"
-	capital_province = xD7C301
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Ottiland STATE_Jaeb STATE_Strondend STATE_Echerda STATE_Daonzualt STATE_Goac }
+	states = {  STATE_Frosuth STATE_Uchtoqua STATE_Poupey STATE_Combaa STATE_Tregathepp STATE_Stoil STATE_Hishee STATE_Tribrord STATE_Heedix STATE_Phechteland STATE_Chettort STATE_Swanast STATE_Coonmiult STATE_Suekex STATE_Heandaird STATE_Anmaquo STATE_Shicoth STATE_Ubacci STATE_Quushand STATE_Moepiy STATE_Thaok STATE_Beolex STATE_Ebwing STATE_Trutoth STATE_Trandiss STATE_Keurbaustan STATE_Moochuiland STATE_Bouf STATE_Caisuss STATE_Achtass STATE_Haikoland STATE_Kuepend STATE_Shangird STATE_Ifutri STATE_Stian STATE_Jiubwoord STATE_Strojuth STATE_Ajirra STATE_Ohossoibestru STATE_Anmabwe STATE_Thuat STATE_Hultau STATE_Obrart STATE_Fuunmaistan STATE_Quettilt STATE_Thuurthouc STATE_Batharea STATE_Chamithart STATE_Shefuthquesast STATE_Efusro STATE_Maiteland STATE_Maitriapp STATE_Uppichte}
 }
 region_Urobre = {
 	graphical_culture = "arabic"
@@ -134,25 +86,7 @@ region_Ortopp = {
 	graphical_culture = "arabic"
 	capital_province = x234101
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Baep STATE_Ciaralt STATE_Baug STATE_Kothunia }
-}
-region_Stael = {
-	graphical_culture = "arabic"
-	capital_province = x9D0301
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Swostreland STATE_Issiland STATE_Kuthelai STATE_Mouccauland STATE_Thied STATE_Stritath STATE_Fripping STATE_Otorri STATE_Cairruupp }
-}
-region_Faokend = {
-	graphical_culture = "arabic"
-	capital_province = x273901
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Ohossoibestru STATE_Anmabwe STATE_Thuat STATE_Hultau STATE_Obrart STATE_Fuunmaistan STATE_Quettilt STATE_Thuurthouc }
-}
-region_Nistarao = {
-	graphical_culture = "arabic"
-	capital_province = x568E01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Moepiy STATE_Thaok STATE_Beolex STATE_Ebwing STATE_Trutoth STATE_Trandiss STATE_Keurbaustan STATE_Moochuiland }
+	states = {  STATE_Baep STATE_Ciaralt STATE_Baug STATE_Kothunia STATE_Luod STATE_Diokiy STATE_Fethofoi STATE_Poabiq STATE_Hoaquaard STATE_Raecax STATE_Daibweort STATE_Trardiss STATE_Phikust STATE_Paic}
 }
 region_Stresith = {
 	graphical_culture = "arabic"
@@ -160,41 +94,17 @@ region_Stresith = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Pothehao STATE_Cuil STATE_Quodathaland STATE_Thain STATE_Jaucceart }
 }
-region_Churbopp = {
-	graphical_culture = "arabic"
-	capital_province = x5BF101
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Luthegua STATE_Ajerto STATE_Ottolte STATE_Rombue STATE_Ritrau STATE_Frodostirt }
-}
 region_Nuuqueang = {
 	graphical_culture = "arabic"
 	capital_province = x742301
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Gendai STATE_Trassustan STATE_Buustriert }
 }
-region_Puoriland = {
-	graphical_culture = "arabic"
-	capital_province = x4D7A01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Seafurt STATE_Swaccand STATE_Titholuo STATE_Leurdiass STATE_Ebwert }
-}
-region_Soor = {
-	graphical_culture = "arabic"
-	capital_province = x9B1201
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Uppichte }
-}
-region_Custopiu = {
-	graphical_culture = "arabic"
-	capital_province = xCB3F01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Frubrastan STATE_Onicca STATE_Egesri STATE_Ichirro STATE_Sailind }
-}
-region_Elordo = {
+region_Great_Outdoors = {
 	graphical_culture = "arabic"
 	capital_province = x548D01
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Mouppaiss STATE_Mustimai STATE_Doltio STATE_Iquilt STATE_Jathusoi }
+	states = {  STATE_Mouppaiss STATE_Mustimai STATE_Doltio STATE_Iquilt STATE_Jathusoi STATE_Oppinza STATE_Phuhest STATE_Muattoeland STATE_Shucuthert STATE_Ceasoz STATE_Rothidei STATE_Shirtang STATE_Buebruort STATE_Stooj STATE_Artird STATE_Swostrong STATE_Haopupp STATE_Fiokay STATE_Phonmuss STATE_Stuil STATE_Saarbiiss STATE_Apparte STATE_Hethafou STATE_Strimethort STATE_Chehuth STATE_Swerotheng STATE_Thuof STATE_Meambeart STATE_Puil STATE_Gianird STATE_Raortaalt STATE_Strilostung STATE_Reundeung STATE_Ciuruz STATE_Sworross STATE_Ondass STATE_Lausriurd STATE_Noappourd STATE_Stresholand STATE_Nithucaa STATE_Nuaboy STATE_Deettiopp STATE_Stuut STATE_Quachtung STATE_Chekitherd STATE_Fiuserd STATE_Ottiland STATE_Jaeb STATE_Strondend STATE_Echerda STATE_Daonzualt STATE_Goac STATE_Meukeng STATE_Puimux STATE_Theuj STATE_Phifithapp STATE_Irdashu STATE_Theob STATE_Destirei STATE_Stoag}
 }
 region_Quarithustan = {
 	graphical_culture = "arabic"
@@ -208,23 +118,11 @@ region_Franastiss = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Trahost STATE_Fracust STATE_Poefox STATE_Trobostshepest }
 }
-region_Eppuland = {
-	graphical_culture = "arabic"
-	capital_province = x7D2501
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Quartipp STATE_Cherdond STATE_Ojaqui STATE_Mestodei }
-}
-region_Kiis = {
-	graphical_culture = "arabic"
-	capital_province = x137801
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Ciuruz STATE_Sworross STATE_Ondass STATE_Lausriurd STATE_Noappourd STATE_Stresholand STATE_Nithucaa }
-}
 region_Staek = {
 	graphical_culture = "arabic"
 	capital_province = x989A01
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Ochord STATE_Shofestalt STATE_Maehey STATE_Urt STATE_Swerothapp STATE_Frecath STATE_Phostrapp }
+	states = {  STATE_Ochord STATE_Shofestalt STATE_Maehey STATE_Urt STATE_Swerothapp STATE_Frecath STATE_Phostrapp STATE_Onzuque STATE_Steec STATE_Taag STATE_Juihiq STATE_Quartipp STATE_Cherdond STATE_Ojaqui STATE_Mestodei STATE_Feereq STATE_Duof STATE_Swubast STATE_Tuamend STATE_Jingao STATE_Niccia STATE_Jiichaistan STATE_Custibua STATE_Pharothert STATE_Rouchaestan STATE_Upelta STATE_Endess}
 }
 region_Rothogoa = {
 	graphical_culture = "arabic"
@@ -232,119 +130,17 @@ region_Rothogoa = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Theuh STATE_Aquochu STATE_Maissuustan STATE_Charost STATE_Juukart STATE_Erterd }
 }
-region_Thien = {
-	graphical_culture = "arabic"
-	capital_province = x1E1701
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Buebruort STATE_Stooj }
-}
-region_Chotrupp = {
-	graphical_culture = "arabic"
-	capital_province = xB25501
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Custibua STATE_Pharothert STATE_Rouchaestan }
-}
-region_Phussalt = {
-	graphical_culture = "arabic"
-	capital_province = xABCE01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Jeinmuustan STATE_Oluque STATE_Meer }
-}
-region_Moubart = {
-	graphical_culture = "arabic"
-	capital_province = x965201
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Icholand STATE_Shumuth STATE_Suekond }
-}
 region_Cestehee = {
 	graphical_culture = "arabic"
 	capital_province = xEF5701
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Pindue STATE_Coel STATE_Booltealt }
 }
-region_Toessaong = {
-	graphical_culture = "arabic"
-	capital_province = x81A401
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Soirtiert STATE_Shehust }
-}
-region_Tricast = {
-	graphical_culture = "arabic"
-	capital_province = xC6F101
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Jenzea STATE_Trogithung STATE_Chapeth STATE_Igilti }
-}
-region_Swissestan = {
-	graphical_culture = "arabic"
-	capital_province = x772001
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Mougox STATE_Unzurd STATE_Teuteng }
-}
-region_Saappeong = {
-	graphical_culture = "arabic"
-	capital_province = xE67A01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Thius STATE_Reshoa STATE_Thiaf STATE_Ishipp STATE_Eppand STATE_Staur }
-}
-region_Chajistiland = {
-	graphical_culture = "arabic"
-	capital_province = x7ACF01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Apparte STATE_Hethafou STATE_Strimethort STATE_Chehuth }
-}
-region_Foingoing = {
-	graphical_culture = "arabic"
-	capital_province = x8C3A01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Haopupp STATE_Fiokay STATE_Phonmuss STATE_Stuil STATE_Saarbiiss }
-}
-region_Koiburt = {
-	graphical_culture = "arabic"
-	capital_province = x1C6B01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Suekex STATE_Heandaird STATE_Anmaquo STATE_Shicoth STATE_Ubacci STATE_Quushand }
-}
-region_Raesreestan = {
-	graphical_culture = "arabic"
-	capital_province = xED1A01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Nuaboy STATE_Muskovado STATE_Deettiopp STATE_Stuut }
-}
 region_Stoplains = {
 	graphical_culture = "arabic"
 	capital_province = x6F3A01
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Ankh STATE_Quirm STATE_Pseudopolis STATE_StoLat STATE_Chirm STATE_Lower_Sto_Plains STATE_Shires STATE_Theic STATE_Luakind STATE_Asesre STATE_Jertao STATE_Swocciland}
-}
-region_Ustrushi = {
-	graphical_culture = "arabic"
-	capital_province = x28FA01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Feereq STATE_Duof STATE_Swubast STATE_Tuamend }
-}
-region_Stoofstiur = {
-	graphical_culture = "arabic"
-	capital_province = x583D01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Phifithapp STATE_Irdashu }
-}
-region_Thaos = {
-	graphical_culture = "arabic"
-	capital_province = x0F2601
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Swebrird }
-}
-region_Errastro = {
-	graphical_culture = "arabic"
-	capital_province = xFC7001
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Thiol STATE_Riostrooss }
-}
-region_Trubastistan = {
-	graphical_culture = "arabic"
-	capital_province = x55CB01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Quachtung STATE_Chekitherd STATE_Fiuserd }
+	states = {  STATE_Ankh STATE_Quirm STATE_Pseudopolis STATE_StoLat STATE_Chirm STATE_Lower_Sto_Plains STATE_Shires STATE_Theic STATE_Luakind STATE_Asesre STATE_Jertao STATE_Swocciland STATE_Tungie STATE_Jaeropp STATE_Poimard STATE_Rastamee STATE_Ceossuastan STATE_Siag STATE_Seichieland}
 }
 region_Osrange = {
 	graphical_culture = "arabic"
@@ -356,7 +152,7 @@ region_Theuf = {
 	graphical_culture = "arabic"
 	capital_province = x97EE01
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Daoltiopp STATE_Reekux STATE_Unzing STATE_Mebroi STATE_Noumbaostan STATE_Diusheoss STATE_Huuqueapp STATE_Geag STATE_Hiucoy STATE_Siig STATE_Tachia STATE_Tethocau STATE_Stripothess}
+	states = {  STATE_Daoltiopp STATE_Reekux STATE_Unzing STATE_Mebroi STATE_Noumbaostan STATE_Diusheoss STATE_Huuqueapp STATE_Geag STATE_Hiucoy STATE_Siig STATE_Tachia STATE_Tethocau STATE_Stripothess STATE_Mechtei STATE_Steotthuus STATE_Mothifue STATE_Stuas}
 }
 region_Pastokee = {
 	graphical_culture = "arabic"
@@ -364,17 +160,11 @@ region_Pastokee = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Phacust STATE_Rithireu STATE_Theicthead STATE_Stoan }
 }
-region_Ufandi = {
-	graphical_culture = "arabic"
-	capital_province = xCB7201
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Tungie STATE_Jaeropp STATE_Poimard STATE_Rastamee STATE_Ceossuastan STATE_Siag }
-}
 region_Shitrurt = {
 	graphical_culture = "arabic"
 	capital_province = x2D7001
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Thour STATE_Tiecheond STATE_Bashua STATE_Stiosthiep STATE_Anzeland STATE_Nurrii STATE_Tuic STATE_Caihay STATE_Otrapp STATE_Egucce}
+	states = {  STATE_Thour STATE_Tiecheond STATE_Bashua STATE_Stiosthiep STATE_Anzeland STATE_Nurrii STATE_Tuic STATE_Caihay STATE_Otrapp STATE_Egucce STATE_Swostreland STATE_Issiland STATE_Kuthelai STATE_Mouccauland STATE_Thied STATE_Stritath STATE_Fripping STATE_Otorri STATE_Cairruupp}
 }
 region_Uttolt = {
 	graphical_culture = "arabic"
@@ -388,29 +178,11 @@ region_Kasterei = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Ajacce STATE_Phumothess STATE_Isarda STATE_Noshou STATE_Suetaz STATE_Fastotei }
 }
-region_Appirt = {
-	graphical_culture = "arabic"
-	capital_province = x198301
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Stoil STATE_Hishee STATE_Tribrord STATE_Heedix STATE_Phechteland STATE_Chettort STATE_Swanast STATE_Coonmiult }
-}
-region_Joinelt = {
-	graphical_culture = "arabic"
-	capital_province = x85C201
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Theob }
-}
 region_Naedeq = {
 	graphical_culture = "arabic"
 	capital_province = x17C301
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Shebwiland STATE_Hochei STATE_Muem STATE_Huijustan STATE_Atrottu STATE_Eltilt STATE_Achettu }
-}
-region_Daistreend = {
-	graphical_culture = "arabic"
-	capital_province = x507601
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Swerotheng STATE_Thuof STATE_Meambeart }
 }
 region_Thuigthaak = {
 	graphical_culture = "arabic"
@@ -442,53 +214,17 @@ region_Osrisse = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Ingisho STATE_Geisruard STATE_Stroluth STATE_Ordepp }
 }
-region_Egerri = {
-	graphical_culture = "arabic"
-	capital_province = xDE5F01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Arrocce STATE_Shisothoss STATE_Cuetolt STATE_Leapey }
-}
-region_Giar = {
-	graphical_culture = "arabic"
-	capital_province = xE98D01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Mothifue STATE_Stuas }
-}
-region_Bearreoland = {
-	graphical_culture = "arabic"
-	capital_province = x1DE101
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Ajirra }
-}
 region_Paer = {
 	graphical_culture = "arabic"
 	capital_province = x705B01
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Stiuj STATE_Anarta STATE_Ultung }
 }
-region_Phejustart = {
-	graphical_culture = "arabic"
-	capital_province = xAF0401
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Mechtei STATE_Steotthuus }
-}
 region_Geuking = {
 	graphical_culture = "arabic"
 	capital_province = x65FC01
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Thiomstual STATE_Chipist STATE_Fostedie }
-}
-region_Haartaolt = {
-	graphical_culture = "arabic"
-	capital_province = x183701
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Suubruolt }
-}
-region_Uttorro = {
-	graphical_culture = "arabic"
-	capital_province = x791301
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Seichieland }
 }
 region_Kuesult = {
 	graphical_culture = "arabic"
@@ -508,11 +244,11 @@ region_Swohuth = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Moakax }
 }
-region_Tuiperd = {
+region_Uberwald = {
 	graphical_culture = "arabic"
 	capital_province = x33E601
 	map_color = { 0.5 0 0 }
-	states = { STATE_Ogucco STATE_Phitath STATE_Ubweltu STATE_Shepast STATE_Mustekuu STATE_Sartia STATE_Joefistan STATE_Ichoche }
+	states = { STATE_Ogucco STATE_Phitath STATE_Ubweltu STATE_Shepast STATE_Mustekuu STATE_Sartia STATE_Joefistan STATE_Ichoche STATE_Boan STATE_Beokeq STATE_Fristring STATE_Hiipass STATE_Taujind STATE_Doos STATE_Muskovado STATE_Schmaltzberg}
 }
 region_Frestrund = {
 	graphical_culture = "arabic"
@@ -520,23 +256,11 @@ region_Frestrund = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Guthimee }
 }
-region_Ebwatta = {
-	graphical_culture = "arabic"
-	capital_province = xA59C01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Trogoth STATE_Hienuy STATE_Hiobwierd STATE_Giom STATE_Ifostre STATE_Sairbeeng }
-}
 region_Teotiy = {
 	graphical_culture = "arabic"
 	capital_province = x994901
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Quibriland STATE_Swirdoland }
-}
-region_Quadith = {
-	graphical_culture = "arabic"
-	capital_province = xF59F01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Utrarbo STATE_Strissong }
 }
 region_Shugith = {
 	graphical_culture = "arabic"
@@ -544,53 +268,17 @@ region_Shugith = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Stios STATE_Echturd STATE_Ebwurt STATE_Ochostan STATE_Thuum }
 }
-region_Teoj = {
-	graphical_culture = "arabic"
-	capital_province = x818F01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Destirei }
-}
-region_Seol = {
-	graphical_culture = "arabic"
-	capital_province = xD65101
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Steec STATE_Taag STATE_Juihiq }
-}
-region_Ibwostan = {
-	graphical_culture = "arabic"
-	capital_province = xA8B201
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Meukeng STATE_Puimux STATE_Theuj }
-}
 region_Joengourd = {
 	graphical_culture = "arabic"
 	capital_province = x10EF01
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Jaunez }
 }
-region_Ibrertu = {
-	graphical_culture = "arabic"
-	capital_province = xF66D01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Stoag }
-}
-region_Phuquart = {
+region_Turnwise_Ocean_Coast = {
 	graphical_culture = "arabic"
 	capital_province = x442E01
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Kiasay STATE_Liissoapp STATE_Essult STATE_Paic STATE_Giiluy }
-}
-region_Mastijuu = {
-	graphical_culture = "arabic"
-	capital_province = x59EB01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Strojuth }
-}
-region_Ashort = {
-	graphical_culture = "arabic"
-	capital_province = xB6B001
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Caisuss STATE_Achtass STATE_Haikoland STATE_Kuepend }
+	states = {  STATE_Kiasay STATE_Liissoapp STATE_Essult STATE_Giiluy STATE_Koebwailt STATE_Arrocce STATE_Shisothoss STATE_Cuetolt STATE_Leapey STATE_Swefast}
 }
 region_Ubwesru = {
 	graphical_culture = "arabic"
@@ -604,23 +292,11 @@ region_Ibwaccu = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Puifeng }
 }
-region_Tuulax = {
-	graphical_culture = "arabic"
-	capital_province = x6D4001
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Soiralt }
-}
 region_Umbind = {
 	graphical_culture = "arabic"
 	capital_province = xCDC801
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Luunduepp STATE_Goegux }
-}
-region_Hathimae = {
-	graphical_culture = "arabic"
-	capital_province = xA8F501
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Jingao STATE_Niccia STATE_Jiichaistan }
 }
 region_Foar = {
 	graphical_culture = "arabic"
@@ -634,29 +310,11 @@ region_Himbiu = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Taanguond }
 }
-region_Theag = {
-	graphical_culture = "arabic"
-	capital_province = xDC4A01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Stoojsteis }
-}
-region_Questroland = {
-	graphical_culture = "arabic"
-	capital_province = x34D701
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Artird }
-}
 region_Gauqueurt = {
 	graphical_culture = "arabic"
 	capital_province = xD75701
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Quenzeng STATE_Ubwiltu }
-}
-region_Shunustopp = {
-	graphical_culture = "arabic"
-	capital_province = x0F5001
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Onzuque }
 }
 region_Quabist = {
 	graphical_culture = "arabic"
@@ -700,29 +358,11 @@ region_Phejath = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Ussabwu }
 }
-region_Cherath = {
-	graphical_culture = "arabic"
-	capital_province = x9C3D01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Koebwailt }
-}
-region_Irtind = {
-	graphical_culture = "arabic"
-	capital_province = x429601
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Swefast }
-}
 region_Juichaapp = {
 	graphical_culture = "arabic"
 	capital_province = xCC1101
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Thieh STATE_Cachoa }
-}
-region_Urtopp = {
-	graphical_culture = "arabic"
-	capital_province = x992301
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Swostrong }
 }
 region_Chipostipp = {
 	graphical_culture = "arabic"
@@ -748,18 +388,6 @@ region_Terboo = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Cathemeu }
 }
-region_Phubwoss = {
-	graphical_culture = "arabic"
-	capital_province = xEAA901
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Bouf }
-}
-region_Peenduilt = {
-	graphical_culture = "arabic"
-	capital_province = x10B601
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Upelta }
-}
 region_Heicong = {
 	graphical_culture = "arabic"
 	capital_province = xDD0201
@@ -771,12 +399,6 @@ region_Ebrocce = {
 	capital_province = xE84901
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Fiup }
-}
-region_Shopist = {
-	graphical_culture = "arabic"
-	capital_province = x4F7F01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Pimbie }
 }
 region_Onacho = {
 	graphical_culture = "arabic"
@@ -801,12 +423,6 @@ region_Paechiiland = {
 	capital_province = xDE8E01
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Fethosuo }
-}
-region_Shohast = {
-	graphical_culture = "arabic"
-	capital_province = xCF9101
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Elisru }
 }
 region_Diepuq = {
 	graphical_culture = "arabic"
@@ -1120,30 +736,6 @@ region_Shiritholand = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Retholio }
 }
-region_Jeogind = {
-	graphical_culture = "arabic"
-	capital_province = x293701
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Roepiq STATE_Futhirii STATE_Gueleland STATE_Eppabwu }
-}
-region_Quometh = {
-	graphical_culture = "arabic"
-	capital_province = x36D701
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Strajostuland }
-}
-region_Indiland = {
-	graphical_culture = "arabic"
-	capital_province = xA07A01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Ossunze }
-}
-region_Stoec = {
-	graphical_culture = "arabic"
-	capital_province = x62AC01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Quaduth }
-}
 region_Urdeng = {
 	graphical_culture = "arabic"
 	capital_province = x99DC01
@@ -1167,12 +759,6 @@ region_Dengaa = {
 	capital_province = xCDE301
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Eguchto }
-}
-region_Eltult = {
-	graphical_culture = "arabic"
-	capital_province = x29D301
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Ifimbi }
 }
 region_Stees = {
 	graphical_culture = "arabic"
@@ -1298,7 +884,7 @@ region_Strihastilt = {
 	graphical_culture = "arabic"
 	capital_province = x7CE101
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Philast STATE_Atriss }
+	states = {  STATE_Philast STATE_Ifimbi STATE_Roepiq STATE_Futhirii STATE_Gueleland STATE_Eppabwu STATE_Quaduth STATE_Ossunze STATE_Strajostuland STATE_Staom}
 }
 region_Kiebweuland = {
 	graphical_culture = "arabic"
@@ -1311,12 +897,6 @@ region_Trenzostan = {
 	capital_province = xE67B01
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Uchtert }
-}
-region_Strottelt = {
-	graphical_culture = "arabic"
-	capital_province = xAC1301
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Staom }
 }
 region_Loobiy = {
 	graphical_culture = "arabic"
@@ -1377,12 +957,6 @@ region_Ecuchto = {
 	capital_province = xDAB701
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Quudostoss }
-}
-region_Bestocia = {
-	graphical_culture = "arabic"
-	capital_province = x4EEB01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Hoahiq }
 }
 region_Anmird = {
 	graphical_culture = "arabic"
@@ -1888,54 +1462,6 @@ region_Usruland = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Strimesterd }
 }
-region_Tatrae = {
-	graphical_culture = "arabic"
-	capital_province = xD95001
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Strinoth STATE_Uruppo STATE_Fuok STATE_Rithecuu STATE_Toehuz STATE_Strugastird STATE_Ugulto STATE_Chocest }
-}
-region_Hoambaaland = {
-	graphical_culture = "arabic"
-	capital_province = x94A801
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Meotteipp STATE_Deef STATE_Heofepp }
-}
-region_Arrostan = {
-	graphical_culture = "arabic"
-	capital_province = xBC5A01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Chindolt STATE_Framethass STATE_Chegith STATE_Buobwiustan }
-}
-region_Suthofai = {
-	graphical_culture = "arabic"
-	capital_province = x715201
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Hoabweoland STATE_Neafurd STATE_Shicuthing STATE_Larbue STATE_Sithobeu }
-}
-region_Koushiurt = {
-	graphical_culture = "arabic"
-	capital_province = xE56E01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Quisostand STATE_Bobree STATE_Heinziart STATE_Estretri STATE_Usroland STATE_Chifithung }
-}
-region_Thaop = {
-	graphical_culture = "arabic"
-	capital_province = xEE0801
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Eppird }
-}
-region_Aparru = {
-	graphical_culture = "arabic"
-	capital_province = x1E8C01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Riamolt STATE_Beanmaeland STATE_Dondui STATE_Thuuc STATE_Swachend }
-}
-region_Jiabiq = {
-	graphical_culture = "arabic"
-	capital_province = x9B9E01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Frojastolt STATE_Frippird STATE_Ruusapp STATE_Bardii STATE_Frindopp }
-}
 region_Stauk = {
 	graphical_culture = "arabic"
 	capital_province = x2F3001
@@ -1946,55 +1472,13 @@ region_Luer = {
 	graphical_culture = "arabic"
 	capital_province = x58B001
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Shiltirt STATE_Frakisteland }
-}
-region_Liobroelt = {
-	graphical_culture = "arabic"
-	capital_province = xF68501
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Struhost STATE_Ishuchto STATE_Kirreu STATE_Enerdu STATE_Chututhand STATE_Laardault }
-}
-region_Steuc = {
-	graphical_culture = "arabic"
-	capital_province = xB38101
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Stoet STATE_Stuib STATE_Siuchtealand }
-}
-region_Meofustan = {
-	graphical_culture = "arabic"
-	capital_province = x669B01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Quidostuland STATE_Satrao STATE_Hiasseend STATE_Cechua STATE_Neppee }
-}
-region_Haisez = {
-	graphical_culture = "arabic"
-	capital_province = x2A3F01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Eshord STATE_Ussurd STATE_Stiec STATE_Paucheastan }
-}
-region_Frameth = {
-	graphical_culture = "arabic"
-	capital_province = x7FD901
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Noindaord STATE_Agango STATE_Strubwend }
-}
-region_Kacceu = {
-	graphical_culture = "arabic"
-	capital_province = xF14E01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Taunmeord STATE_Jeutteeng STATE_Jeanzaustan STATE_Poer }
+	states = {  STATE_Shiltirt STATE_Frakisteland STATE_Taunmeord STATE_Jeutteeng STATE_Jeanzaustan STATE_Poer STATE_Stoet STATE_Stuib STATE_Siuchtealand STATE_Riamolt STATE_Beanmaeland STATE_Dondui STATE_Thuuc STATE_Swachend STATE_Quisostand STATE_Bobree STATE_Heinziart STATE_Estretri STATE_Usroland STATE_Chifithung STATE_Meotteipp STATE_Deef STATE_Heofepp STATE_Strinoth STATE_Uruppo STATE_Fuok STATE_Rithecuu STATE_Toehuz STATE_Strugastird STATE_Ugulto STATE_Chocest STATE_Eppird STATE_Noindaord STATE_Agango STATE_Strubwend STATE_Eshord STATE_Ussurd STATE_Stiec STATE_Paucheastan STATE_Hoabweoland STATE_Neafurd STATE_Shicuthing STATE_Larbue STATE_Sithobeu STATE_Struhost STATE_Ishuchto STATE_Kirreu STATE_Enerdu STATE_Chututhand STATE_Laardault STATE_Ubwipp STATE_Chindolt STATE_Framethass STATE_Chegith STATE_Buobwiustan STATE_Quidostuland STATE_Satrao STATE_Hiasseend STATE_Cechua STATE_Neppee STATE_Frojastolt STATE_Frippird STATE_Ruusapp STATE_Bardii STATE_Frindopp STATE_Quertond STATE_Olecco}
 }
 region_Inmurt = {
 	graphical_culture = "arabic"
 	capital_province = x0C1D01
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Mabreo STATE_Leogepp }
-}
-region_Thiik = {
-	graphical_culture = "arabic"
-	capital_province = x46BD01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Ubwipp }
 }
 region_Meekeland = {
 	graphical_culture = "arabic"
@@ -2398,53 +1882,11 @@ region_Phokathart = {
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Trestrostan }
 }
-region_Learruupp = {
+region_XXXX = {
 	graphical_culture = "arabic"
 	capital_province = x734E01
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Steoh STATE_Faec STATE_Quuchind STATE_Haojoland STATE_Trulithard STATE_Gaodeland }
-}
-region_Touppiopp = {
-	graphical_culture = "arabic"
-	capital_province = xA5E501
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Elitti STATE_Usucco STATE_Nuatroastan STATE_Tiudaz }
-}
-region_Juppuo = {
-	graphical_culture = "arabic"
-	capital_province = xA73501
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Ochurt STATE_Jiatix STATE_Theod STATE_Ubrirbo }
-}
-region_Thiok = {
-	graphical_culture = "arabic"
-	capital_province = x77F701
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Ibritti STATE_Ortasso STATE_Huer STATE_Accerte STATE_Frosastord STATE_Ochtiland }
-}
-region_Thoip = {
-	graphical_culture = "arabic"
-	capital_province = xB2DE01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Sungoe STATE_Trottind STATE_Swecoth }
-}
-region_Staelthuip = {
-	graphical_culture = "arabic"
-	capital_province = x535601
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Obettu STATE_Phittepp STATE_Taifalt STATE_Phufest }
-}
-region_Jeottuestan = {
-	graphical_culture = "arabic"
-	capital_province = xEC3401
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Cholistostan }
-}
-region_Ipecho = {
-	graphical_culture = "arabic"
-	capital_province = xCCF001
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Thuapthaih STATE_Ahembu }
+	states = {  STATE_Steoh STATE_Faec STATE_Quuchind STATE_Haojoland STATE_Trulithard STATE_Gaodeland STATE_Obettu STATE_Phittepp STATE_Taifalt STATE_Phufest STATE_Ibritti STATE_Ortasso STATE_Huer STATE_Accerte STATE_Frosastord STATE_Ochtiland STATE_Elitti STATE_Usucco STATE_Nuatroastan STATE_Tiudaz STATE_Ochurt STATE_Jiatix STATE_Theod STATE_Ubrirbo STATE_Sungoe STATE_Trottind STATE_Swecoth STATE_Thuapthaih STATE_Ahembu STATE_Cholistostan}
 }
 region_Aquengamboland = {
 	graphical_culture = "arabic"
@@ -2511,12 +1953,6 @@ region_Paonzourd = {
 	capital_province = xD7E001
 	map_color = { 0.5 0 0 }
 	states = {  STATE_Shoshand }
-}
-region_Tueshuind = {
-	graphical_culture = "arabic"
-	capital_province = x621B01
-	map_color = { 0.5 0 0 }
-	states = {  STATE_Quertond STATE_Olecco }
 }
 region_Appuppo = {
 	graphical_culture = "arabic"
@@ -3096,5 +2532,14 @@ region_Charastard = {
 }
 region_Circle_Sea = {
 	states = {  STATE_Circle_Sea }
+}
+region_Klatchian_Coast = {
+	states = {  STATE_Klatchian_Coast }
+}
+region_Yumitury_coast = {
+	states = {  STATE_Yumitury_coast }
+}
+region_deep_sea_1 = {
+	states = {  STATE_deep_sea_1 }
 }
 

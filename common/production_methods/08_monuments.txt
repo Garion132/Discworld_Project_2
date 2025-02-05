@@ -44,7 +44,6 @@ pm_default_building_circumfence = {
 			goods_output_silk_add = 10		
 			goods_output_liquor_add = 10	
 			goods_output_wine_add = 10	
-			goods_output_clippers_add = 2
 			goods_input_clippers_add = 2
 			goods_input_tools_add = 10
 		}

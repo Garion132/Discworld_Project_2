@@ -1513,8 +1513,12 @@
 			owned_provinces = { "x33E601"  }
 		}
 		create_state = {
-			country = c:RUS
-			owned_provinces = { "x58EA01" "x61D301"  }
+			country = c:GNT
+			owned_provinces = { "x58EA01" }
+		}
+		create_state = {
+			country = c:SHL
+			owned_provinces = { "x61D301" }
 		}
 		
 		add_homeland = cu:uberwaldian
@@ -2378,8 +2382,20 @@
 
 	s:STATE_Trardiss = {
 		create_state = {
-			country = c:RUS
+			country = c:VOX
 			owned_provinces = { "xE89D01" }
+		}
+		create_state = {
+			country = c:BAS
+			owned_provinces = { "xFFBF87" }
+		}
+		create_state = {
+			country = c:LOK
+			owned_provinces = { "x84FFB7" }
+		}
+		create_state = {
+			country = c:GRJ
+			owned_provinces = { "xFF919E"}
 		}
 		create_state = {
 			country = c:MUN
@@ -2863,11 +2879,11 @@
 
 	s:STATE_Hethafou = {
 		create_state = {
-			country = c:RUS
+			country = c:SLT
 			owned_provinces = { "x8F8801"  }
 		}
 		
-		add_homeland = cu:toujez
+		add_homeland = cu:troll
 		
 	}
 

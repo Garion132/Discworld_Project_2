@@ -104,7 +104,7 @@ region_Great_Outdoors = {
 	graphical_culture = "arabic"
 	capital_province = x548D01
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Mouppaiss STATE_Mustimai STATE_Doltio STATE_Iquilt STATE_Jathusoi STATE_Oppinza STATE_Phuhest STATE_Muattoeland STATE_Shucuthert STATE_Ceasoz STATE_Rothidei STATE_Shirtang STATE_Buebruort STATE_Stooj STATE_Artird STATE_Swostrong STATE_Haopupp STATE_Fiokay STATE_Phonmuss STATE_Stuil STATE_Saarbiiss STATE_Apparte STATE_Hethafou STATE_Strimethort STATE_Chehuth STATE_Swerotheng STATE_Thuof STATE_Meambeart STATE_Puil STATE_Gianird STATE_Raortaalt STATE_Strilostung STATE_Reundeung STATE_Ciuruz STATE_Sworross STATE_Ondass STATE_Lausriurd STATE_Noappourd STATE_Stresholand STATE_Nithucaa STATE_Nuaboy STATE_Deettiopp STATE_Stuut STATE_Quachtung STATE_Chekitherd STATE_Fiuserd STATE_Ottiland STATE_Jaeb STATE_Strondend STATE_Echerda STATE_Daonzualt STATE_Goac STATE_Meukeng STATE_Puimux STATE_Theuj STATE_Phifithapp STATE_Irdashu STATE_Theob STATE_Destirei STATE_Stoag}
+	states = {  STATE_Mouppaiss STATE_Mustimai STATE_Doltio STATE_Iquilt STATE_Jathusoi STATE_Oppinza STATE_Phuhest STATE_Muattoeland STATE_Shucuthert STATE_Ceasoz STATE_Rothidei STATE_Shirtang STATE_Buebruort STATE_Stooj STATE_Artird STATE_Swostrong STATE_Haopupp STATE_Fiokay STATE_Phonmuss STATE_Stuil STATE_Saarbiiss STATE_Apparte STATE_Strimethort STATE_Chehuth STATE_Swerotheng STATE_Thuof STATE_Meambeart STATE_Puil STATE_Gianird STATE_Raortaalt STATE_Strilostung STATE_Reundeung STATE_Ciuruz STATE_Sworross STATE_Ondass STATE_Lausriurd STATE_Noappourd STATE_Stresholand STATE_Nithucaa STATE_Nuaboy STATE_Deettiopp STATE_Stuut STATE_Quachtung STATE_Chekitherd STATE_Fiuserd STATE_Ottiland STATE_Jaeb STATE_Strondend STATE_Echerda STATE_Daonzualt STATE_Goac STATE_Meukeng STATE_Puimux STATE_Theuj STATE_Phifithapp STATE_Irdashu STATE_Theob STATE_Destirei STATE_Stoag}
 }
 region_Quarithustan = {
 	graphical_culture = "arabic"
@@ -206,7 +206,7 @@ region_Tuaj = {
 	graphical_culture = "arabic"
 	capital_province = x450C01
 	map_color = { 0.5 0 0 }
-	states = {  STATE_Gaobriiland STATE_Quarrurt STATE_Staef STATE_Tustajie STATE_Foeh STATE_Dunmea STATE_Maccoe }
+	states = {  STATE_Gaobriiland STATE_Quarrurt STATE_Staef STATE_Tustajie STATE_Foeh STATE_Dunmea STATE_Maccoe STATE_Taujind STATE_Hiipass STATE_Beokeq STATE_Fristring STATE_Boan}
 }
 region_Osrisse = {
 	graphical_culture = "arabic"
@@ -248,7 +248,7 @@ region_Uberwald = {
 	graphical_culture = "arabic"
 	capital_province = x33E601
 	map_color = { 0.5 0 0 }
-	states = { STATE_Ogucco STATE_Phitath STATE_Ubweltu STATE_Shepast STATE_Mustekuu STATE_Sartia STATE_Joefistan STATE_Ichoche STATE_Boan STATE_Beokeq STATE_Fristring STATE_Hiipass STATE_Taujind STATE_Doos STATE_Muskovado STATE_Schmaltzberg}
+	states = { STATE_Ogucco STATE_Phitath STATE_Ubweltu STATE_Shepast STATE_Mustekuu STATE_Sartia STATE_Joefistan STATE_Ichoche STATE_Doos STATE_Muskovado STATE_Schmaltzberg STATE_Hethafou}
 }
 region_Frestrund = {
 	graphical_culture = "arabic"

@@ -992,3 +992,73 @@ GHA = {
 	cultures = { ghatian }
 	capital = STATE_Uppichte
 }
+SLT = {
+	color = { 238 232 170 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { troll }
+	capital = STATE_Trardiss
+}
+GNT = {
+	color = { 146 158 118 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { troll }
+	capital = STATE_Trardiss
+}
+SHL = {
+	color = { 155 115 74 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { troll }
+	capital = STATE_Trardiss
+}
+BAS = {
+	color = { 158 132 150 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { troll }
+	capital = STATE_Trardiss
+}
+GRJ = {
+	color = { 68 110 132 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { vampire uberwaldian }
+	capital = STATE_Trardiss
+}
+VOX = {
+	color = { 93 158 124 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { uberwaldian }
+	capital = STATE_Trardiss
+}
+LOK = {
+	color = { 142 59 66 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { vampire uberwaldian }
+	capital = STATE_Trardiss
+}

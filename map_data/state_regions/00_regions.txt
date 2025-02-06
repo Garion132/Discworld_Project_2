@@ -4630,13 +4630,14 @@ STATE_Ankh = {
     mine = "x6F3A01"
     wood = "x6F3A01"
     arable_land = 117
-    arable_resources = { "bg_cotton_plantations" "bg_dye_plantations" "bg_livestock_ranches" "bg_vineyard_plantations" "bg_wheat_farms"  }
+    arable_resources = { "bg_cotton_plantations" "bg_dye_plantations" "bg_livestock_ranches" "bg_vineyard_plantations" "bg_brassica_farms"  }
     capped_resources = {
         bg_coal_mining = 1
 		bg_fishing = 4
 		bg_logging = 6
 		bg_sulfur_mining = 3
-		
+		bg_fat_mining = 10
+        bg_treacle_mining = 10
     }
     naval_exit_id = 1138
 }

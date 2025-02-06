@@ -135,3 +135,48 @@ building_gold_fields = {
 
 	background = "gfx/interface/icons/building_icons/backgrounds/building_panel_bg_mining.dds"
 }
+
+# New Discworld Buildings
+
+building_fat_mine = {
+	building_group = bg_fat_mining
+	icon = "gfx/interface/icons/building_icons/fat_mine.dds"
+	city_type = mine
+	levels_per_mesh = 5
+	required_construction = construction_cost_medium
+	terrain_manipulator = mining
+	unlocking_technologies = {
+		shaft_mining
+	}
+
+	production_method_groups = {
+		pmg_mining_equipment_building_fat_mine
+		pmg_explosives_building_fat_mine
+		pmg_steam_automation_building_fat_mine
+		pmg_train_automation_building_fat_mine
+	}
+	ownership_type = self
+
+	background = "gfx/interface/icons/building_icons/backgrounds/building_panel_bg_mining.dds"
+}
+building_treacle_mine = {
+	building_group = bg_treacle_mining
+	icon = "gfx/interface/icons/building_icons/treacle_mine.dds"
+	city_type = mine
+	levels_per_mesh = 5
+	required_construction = construction_cost_medium
+	terrain_manipulator = mining
+	unlocking_technologies = {
+		shaft_mining
+	}
+
+	production_method_groups = {
+		pmg_mining_equipment_building_treacle_mine
+		pmg_explosives_building_treacle_mine
+		pmg_steam_automation_building_treacle_mine
+		pmg_train_automation_building_treacle_mine
+	}
+	ownership_type = self
+
+	background = "gfx/interface/icons/building_icons/backgrounds/building_panel_bg_mining.dds"
+}

@@ -160,7 +160,7 @@
 				activate_production_methods={ "pm_lathe"  "pm_automation_disabled" "pm_luxury_furniture" }
 			}
 			create_building={
-				building="building_wheat_farm"#to be brassicas
+				building="building_brassica_farm"
 				add_ownership={
 					building={
 						type="building_manor_house"
@@ -176,7 +176,7 @@
 					}
 				}
 				reserves=1
-				activate_production_methods={ "pm_tools" "pm_no_secondary"  "pm_soil_enriching_farming" }
+				activate_production_methods={ "pm_tools" "pm_simple_farming_brassica_farm" }
 			}
 			create_building={
 				building="building_livestock_ranch"
@@ -271,6 +271,32 @@
 				}
 				reserves=1
 				activate_production_methods={ "pm_saw_mills"  "pm_no_equipment" "pm_road_carts" "pm_hardwood" }
+			}
+			create_building={
+				building="building_fat_mine"
+				add_ownership={
+					building={
+						type="building_financial_district"
+						country="c:AMP"
+						levels=2
+						region="STATE_Ankh"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_picks_and_shovels_building_fat_mine"  "pm_no_explosives" "pm_no_steam_automation" "pm_road_carts" }
+			}
+			create_building={
+				building="building_treacle_mine"
+				add_ownership={
+					building={
+						type="building_financial_district"
+						country="c:AMP"
+						levels=2
+						region="STATE_Ankh"
+					}
+				}
+				reserves=1
+				activate_production_methods={ "pm_picks_and_shovels_building_treacle_mine"  "pm_no_explosives" "pm_no_steam_automation" "pm_road_carts" }
 			}
 		}
 	}

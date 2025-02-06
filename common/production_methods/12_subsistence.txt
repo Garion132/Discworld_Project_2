@@ -351,3 +351,66 @@ pm_serfdom_building_subsistence_rice_paddies = {
 		}			
 	}
 }
+
+# PMs for new Discworld Buildings
+default_building_subsistence_holds = {
+	texture = "gfx/interface/icons/production_method_icons/subsistence_farming.dds"
+	
+	building_modifiers = {
+		workforce_scaled = { # 60
+			goods_output_grain_add = 1.0 # 20
+			goods_output_fabric_add = 0.5 # 10
+			goods_output_coal_add = 0.5 # 15
+			goods_output_services_add = 0.5 # 15
+		}
+
+		level_scaled = {
+			building_employment_peasants_add = 5000
+		}
+	}
+}
+
+pm_home_workshops_no_building_subsistence_holds = {
+	texture = "gfx/interface/icons/production_method_icons/no_home_workshops.dds"
+	unlocking_laws = {
+		law_collectivized_agriculture
+	}
+	
+	building_modifiers = { # 20
+		workforce_scaled = {
+			goods_output_grain_add = 0.375  # 7.5
+			goods_output_fabric_add = 0.25  # 5
+			goods_output_coal_add = 0.25 # 7.5
+		}
+	}				
+}		
+
+pm_home_workshops_building_subsistence_holds = {
+	texture = "gfx/interface/icons/production_method_icons/home_workshops.dds"
+	disallowing_laws = {
+		law_collectivized_agriculture
+	}
+	
+	building_modifiers = {
+		workforce_scaled = { # 22.5
+			goods_output_clothes_add = 0.25 # 7.5
+			goods_output_furniture_add = 0.25 # 7.5
+			goods_output_liquor_add = 0.25 # 7.5 
+		}
+	}
+}
+pm_serfdom_building_subsistence_holds = {
+	texture = "gfx/interface/icons/production_method_icons/serfdom.dds"
+	unlocking_laws = {
+		law_serfdom
+	}
+	building_modifiers = {
+		workforce_scaled = {
+			goods_output_coal_add = 0.33 # 10
+		}
+
+		unscaled = {
+			building_subsistence_output_add = 3
+		}			
+	}
+}		

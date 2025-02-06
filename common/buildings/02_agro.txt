@@ -156,3 +156,30 @@ building_livestock_ranch = {
 
 	background = "gfx/interface/icons/building_icons/backgrounds/building_panel_bg_farming.dds"
 }
+
+# New Discworld Buildings
+
+building_brassica_farm = {
+	building_group = bg_brassica_farms
+	
+	icon = "gfx/interface/icons/building_icons/brassica_farms.dds"
+
+	city_type = farm
+	levels_per_mesh = 5
+
+	unlocking_technologies = {
+		crop_rotation
+	}
+
+	production_method_groups = {
+		pmg_base_building_brassica_farm
+		pmg_harvesting_process_building_brassica_farm
+	}
+
+	required_construction = construction_cost_low
+	
+	terrain_manipulator = farmland_millet
+	ownership_type = self
+
+	background = "gfx/interface/icons/building_icons/backgrounds/building_panel_bg_farming.dds"
+}

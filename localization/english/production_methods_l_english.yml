@@ -51,6 +51,7 @@
  pmg_base_building_subsistence_pastures:1 "$pm_base$"
  pmg_base_building_subsistence_fishing_villages:0 "$pm_base$"
  pmg_base_building_subsistence_rice_paddies:0 "$pm_base$"
+ pmg_base_building_subsistence_holds:0 "$pm_base$"
 
  pm_default_building_eiffel_tower:0 "Default Production"
  pm_default_building_cristo_redentor:0 "Default Production"
@@ -228,6 +229,28 @@
  pm_civilian:0 "Civilian"
  pm_wartime:0 "Wartime"
 
+ # Alchemy Labs
+ pmg_alchemy_production: "Chemical Production"
+ pm_alchemy: "Alchemy"
+ pm_lead_chamber_process: "Lead Chamber Process"
+ pm_contact_process: "Contact Process"
+ pmg_transmutation_alchemy_labs: "Transmutation"
+ pm_transmutation_disabled: "Transmutation Disabled"
+ pm_transportation: "Transportation"
+ pm_metal_transmutation: "Metal Transmutation"
+ pm_artificial_ivory: "Artificial Ivory"
+ pm_octo_cellulose: "Octo-Cellulose"
+
+ # Fat Rendering Works
+ pmg_fat_rendering_production: "Fat Rendering"
+ pm_basic_rendering: "Basic Rendering"
+ pm_steam_jacketed_kettles: "Steam-Jacketed Kettles"
+ pm_pressure_tanks: "Pressure Tanks"
+ pmg_automation_building_fat_rendering_works: "Automation"
+ pm_watertube_boiler_building_fat_rendering_works: "Water-tube Boiler"
+ pm_rotary_valve_engine_building_fat_rendering_works: "Rotary Valve Engine"
+ pm_assembly_lines_building_fat_rendering_works: "Assembly Lines"
+
   # Arts Academy
  pmg_schools_of_art:0 "Schools of Art"
  pm_traditional_art:0 "Traditional Art"
@@ -292,6 +315,12 @@
  pm_compression_ignition_tractors:0 "Compression Ignition Tractors"
  pm_tools_building_rice_farm:0 "Harvesting Tools"
  pm_steam_threshers_building_rice_farm:0 "Steam-Powered Thresher Machines"
+ pmg_base_building_brassica_farm: "$pm_base$"
+ pmg_harvesting_process_building_brassica_farm: "$pmg_harvesting_process$"
+ pm_simple_farming_brassica_farm: "Simple Farming"
+ pm_soil_enriching_farming_brassica_farm: "Soil-Enriching Farming"
+ pm_fertilization_brassica_farm: "Fertilizers"
+ pm_chemical_fertilizer_brassica_farm: "Chemical Fertilizers"
 
   # Ranches
  pm_simple_ranch:0 "Sheep Ranch"
@@ -313,6 +342,8 @@
  pmg_mining_equipment_building_lead_mine:0 "Mining Equipment"
  pmg_mining_equipment_building_sulfur_mine:0 "Mining Equipment"
  pmg_mining_equipment_building_gold_mine:0 "Mining Equipment"
+ pmg_mining_equipment_building_fat_mine:0 "Mining Equipment"
+ pmg_mining_equipment_building_treacle_mine:0 "Mining Equipment"
 
  pm_no_mining_equipment:0 "No Equipment"
 
@@ -321,12 +352,16 @@
  pm_picks_and_shovels_building_lead_mine:0 "Picks and Shovels"
  pm_picks_and_shovels_building_sulfur_mine:0 "Picks and Shovels"
  pm_picks_and_shovels_building_gold_mine:0 "Picks and Shovels"
+ pm_picks_and_shovels_building_fat_mine:0 "Picks and Shovels"
+ pm_picks_and_shovels_building_treacle_mine:0 "Picks and Shovels"
 
  pm_atmospheric_engine_pump_building_coal_mine:0 "Atmospheric Engine Pump"
  pm_atmospheric_engine_pump_building_iron_mine:0 "Atmospheric Engine Pump"
  pm_atmospheric_engine_pump_building_lead_mine:0 "Atmospheric Engine Pump"
  pm_atmospheric_engine_pump_building_sulfur_mine:0 "Atmospheric Engine Pump"
  pm_atmospheric_engine_pump_building_gold_mine:0 "Atmospheric Engine Pump"
+ pm_atmospheric_engine_pump_building_fat_mine:0 "Atmospheric Engine Pump"
+ pm_atmospheric_engine_pump_building_treacle_mine:0 "Atmospheric Engine Pump"
 
  pm_steam_donkey_mine:0 "Steam Donkey"
  pm_steam_donkey_building_logging_camp:0 "Steam Donkey"
@@ -338,6 +373,8 @@
  pmg_explosives_building_lead_mine:0 "Explosives"
  pmg_explosives_building_sulfur_mine:0 "Explosives"
  pmg_explosives_building_gold_mine:0 "Explosives"
+ pmg_explosives_building_fat_mine:0 "Explosives"
+ pmg_explosives_building_treacle_mine:0 "Explosives"
 
  pm_no_explosives:0 "Manual Drilling"
  
@@ -346,24 +383,32 @@
  pm_gunpowder_building_lead_mine:0 "Gunpowder"
  pm_gunpowder_building_sulfur_mine:0 "Gunpowder"
  pm_gunpowder_building_gold_mine:0 "Gunpowder"
+ pm_gunpowder_building_fat_mine:0 "Gunpowder"
+ pm_gunpowder_building_treacle_mine:0 "Gunpowder"
 
  pm_nitroglycerin_building_coal_mine:0 "Nitroglycerin"
  pm_nitroglycerin_building_iron_mine:0 "Nitroglycerin"
  pm_nitroglycerin_building_lead_mine:0 "Nitroglycerin"
  pm_nitroglycerin_building_sulfur_mine:0 "Nitroglycerin"
  pm_nitroglycerin_building_gold_mine:0 "Nitroglycerin"
+ pm_nitroglycerin_building_fat_mine:0 "Nitroglycerin"
+ pm_nitroglycerin_building_treacle_mine:0 "Nitroglycerin"
 
  pm_dynamite_building_coal_mine:0 "Dynamite"
  pm_dynamite_building_iron_mine:0 "Dynamite"
  pm_dynamite_building_lead_mine:0 "Dynamite"
  pm_dynamite_building_sulfur_mine:0 "Dynamite"
  pm_dynamite_building_gold_mine:0 "Dynamite"
+ pm_dynamite_building_fat_mine:0 "Dynamite"
+ pm_dynamite_building_treacle_mine:0 "Dynamite"
 
  pm_tnt_building_coal_mine:0 "TNT"
  pm_tnt_building_iron_mine:0 "TNT"
  pm_tnt_building_lead_mine:0 "TNT"
  pm_tnt_building_sulfur_mine:0 "TNT"
  pm_tnt_building_gold_mine:0 "TNT"
+ pm_tnt_building_fat_mine:0 "TNT"
+ pm_tnt_building_treacle_mine:0 "TNT"
 
  pm_no_steam_automation:0 "Hand Cranked Crane"
  pm_steam_rail_transport:0 "Rail Transportation"
@@ -373,12 +418,16 @@
  pm_condensing_engine_pump_building_lead_mine:0 "Condensing Engine Pump"
  pm_condensing_engine_pump_building_sulfur_mine:0 "Condensing Engine Pump"
  pm_condensing_engine_pump_building_gold_mine:0 "Condensing Engine Pump"
+ pm_condensing_engine_pump_building_fat_mine:0 "Condensing Engine Pump"
+ pm_condensing_engine_pump_building_treacle_mine:0 "Condensing Engine Pump"
 
  pm_diesel_pump_building_coal_mine:0 "Diesel Pump"
  pm_diesel_pump_building_iron_mine:0 "Diesel Pump"
  pm_diesel_pump_building_lead_mine:0 "Diesel Pump"
  pm_diesel_pump_building_sulfur_mine:0 "Diesel Pump"
  pm_diesel_pump_building_gold_mine:0 "Diesel Pump"
+ pm_diesel_pump_building_fat_mine:0 "Diesel Pump"
+ pm_diesel_pump_building_treacle_mine:0 "Diesel Pump"
 
   # Government Administration
  pm_simple_organization:0 "Simple Organization"
@@ -599,6 +648,7 @@
  pmg_home_workshops_building_subsistence_pastures:1 "$pmg_home_workshops$"
  pmg_home_workshops_building_subsistence_fishing_villages:1 "$pmg_home_workshops$"
  pmg_home_workshops_building_subsistence_rice_paddies:1 "$pmg_home_workshops$"
+ pmg_home_workshops_building_subsistence_holds:1 "$pmg_home_workshops$"
 
  pm_home_workshops:0 "Home Workshops"
  pm_home_workshops_building_subsistence_farms:1 "$pm_home_workshops$"
@@ -606,6 +656,7 @@
  pm_home_workshops_building_subsistence_pastures:1 "$pm_home_workshops$"
  pm_home_workshops_building_subsistence_fishing_villages:0 "$pm_home_workshops$"
  pm_home_workshops_building_subsistence_rice_paddies:0 "$pm_home_workshops$"
+ pm_home_workshops_building_subsistence_holds:0 "$pm_home_workshops$"
 
  pm_home_workshops_no:0 "No Home Workshops"
  pm_home_workshops_no_building_subsistence_farms:1 "$pm_home_workshops_no$"
@@ -613,6 +664,7 @@
  pm_home_workshops_no_building_subsistence_pastures:1 "$pm_home_workshops_no$"
  pm_home_workshops_no_building_subsistence_fishing_villages:0 "$pm_home_workshops_no$"
  pm_home_workshops_no_building_subsistence_rice_paddies:0 "$pm_home_workshops_no$"
+ pm_home_workshops_no_building_subsistence_holds:0 "$pm_home_workshops_no$"
 
   # Serfdom
  pm_serfdom:2 "Serfdom"
@@ -621,10 +673,12 @@
  pmg_serfdom_building_subsistence_pastures:1 "$pm_serfdom$"
  pmg_serfdom_building_subsistence_fishing_villages:0 "$pm_serfdom$"
  pmg_serfdom_building_subsistence_rice_paddies:0 "$pm_serfdom$"
+ pmg_serfdom_building_subsistence_holds:0 "$pm_serfdom$"
  pm_serfdom_building_subsistence_orchards:1 "$pm_serfdom$"
  pm_serfdom_building_subsistence_pastures:1 "$pm_serfdom$"
  pm_serfdom_building_subsistence_fishing_villages:0 "$pm_serfdom$"
  pm_serfdom_building_subsistence_rice_paddies:0 "$pm_serfdom$"
+ pm_serfdom_building_subsistence_holds:0 "$pm_serfdom$"
  pm_serfdom_pastures:1 "$pm_serfdom$"
  pm_serfdom_no:0 "Free Peasants"
  pm_slavery:0 "Slavery"
@@ -648,6 +702,7 @@
  default_building_subsistence_pastures:0 "$pm_default$"
  default_building_subsistence_fishing_villages:0 "$pm_default$"
  default_building_subsistence_rice_paddies:0 "$pm_default$"
+ default_building_subsistence_holds:0 "$pm_default$"
  default_building_vineyard_plantation: "$pm_default$"
 
  automatic_irrigation:0 "Automatic Irrigation"

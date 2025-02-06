@@ -1,0 +1,23 @@
+﻿# New Discworld building groups
+
+bg_fat_mining = {
+	parent_group = bg_mining
+	
+	default_building = building_fat_mine
+
+	can_use_slaves = yes
+}
+bg_treacle_mining = {
+	parent_group = bg_mining
+	
+	default_building = building_treacle_mine
+
+	can_use_slaves = yes
+}
+bg_brassica_farms = {
+	parent_group = bg_agriculture
+	
+	default_building = building_brassica_farm
+	
+	cash_reserves_max = 25000
+}

@@ -477,10 +477,10 @@
 		}
 	}
 	s:STATE_Diokiy = {
-		region_state: = {
+		region_state:VUL = {
 			create_pop = {
-				culture = uningo
-				size = 10000
+				culture = octarine
+				size = 78000
 			}
 
 		}
@@ -2791,10 +2791,10 @@
 		}
 	}
 	s:STATE_Diusheoss = {
-		region_state: = {
+		region_state:TRW = {
 			create_pop = {
-				culture = theujthoih
-				size = 10000
+				culture = octarine
+				size = 157700
 			}
 
 		}

@@ -1,0 +1,48 @@
+﻿TRADE_ROUTES = {
+	# Ankh-Morpork
+	c:AMP ?= {
+		create_trade_route = {
+			goods = tools
+			level = 6
+			direction = export
+			target = c:LWD.market
+		}
+		create_trade_route = {
+			goods = tools
+			level = 2
+			direction = export
+			target = c:KRL.market
+		}
+		create_trade_route = {
+			goods = coal
+			level = 1
+			direction = import
+			target = c:LWD.market
+		}
+		create_trade_route = {
+			goods = iron
+			level = 2
+			direction = import
+			target = c:LWD.market
+		}
+		create_trade_route = {
+			goods = fats
+			level = 3
+			direction = import
+			target = c:LWD.market
+		}		
+		create_trade_route = {
+			goods = tobacco
+			level = 4
+			direction = import
+			target = c:KLA.market
+		}	
+		create_trade_route = {
+			goods = tobacco
+			level = 1
+			direction = import
+			target = c:PSE.market
+		}		
+	}
+
+}

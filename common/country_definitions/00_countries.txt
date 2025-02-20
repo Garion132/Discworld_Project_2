@@ -23,7 +23,7 @@ AMP = {
 HCT = {
 	color = { 61 65 130 }
 
-	country_type = recognized
+	country_type = colonial
 
 	tier = principality
 	
@@ -1091,4 +1091,74 @@ LOK = {
 	
 	cultures = { vampire uberwaldian }
 	capital = STATE_Trardiss
+}
+VUL = {
+	color = { 122 147 153 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { octarine }
+	capital = STATE_Diokiy
+}
+TRW = {
+	color = { 128 116 67 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { octarine }
+	capital = STATE_Huuqueapp
+}
+TOL = {
+	color = { 16 160 170 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { octarine }
+	capital = STATE_Hoijard
+}
+BLU = {
+	color = { 74 58 196 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { octarine }
+	capital = STATE_Phisrult
+}
+BRI = {
+	color = { 240 136 97 }
+
+	country_type = recognized
+
+	tier = kingdom
+	
+	cultures = { brindisian }
+	capital = STATE_Anarta
+}
+BAR = {
+	color = { 96 81 87 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { neverlander }
+	capital = STATE_Perdea
+}
+NEV = {
+	color = { 199 234 70 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { neverlander }
+	capital = STATE_Perdea
 }

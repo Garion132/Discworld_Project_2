@@ -1,1 +1,17 @@
-﻿
+﻿HCT = { # East India Company
+	dynamic_country_name = {
+		name = dyn_c_haddock_creek_company
+		adjective = dyn_c_haddock_creek_company_adj
+		use_overlord_prefix = yes
+
+		is_main_tag_only = yes
+		priority = 10
+		
+		trigger = {
+			coa_def_subject_trigger = yes
+			scope:actor = {
+				has_government_type = gov_chartered_company
+			}
+		}
+	}
+}

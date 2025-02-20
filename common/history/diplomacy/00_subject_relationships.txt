@@ -2,7 +2,7 @@
 	c:STL ?= {	
 		create_diplomatic_pact = {
 			country = c:STK
-			type = dominion
+			type = puppet
 		}
 	}
 	c:AMP ?= {

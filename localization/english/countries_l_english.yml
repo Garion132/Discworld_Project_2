@@ -217,13 +217,31 @@
  HCT_ADJ:0 "Haddock Creek"
  NTH:0 "New NoThing"
  NTH_ADJ:0 "New NoThing"
+ VUL:0 "Vuldar"
+ VUL_ADJ:0 "Vuldar"
+ TRW:0 "Turnwind"
+ TRW_ADJ:0 "Turnwind"
+ TOL:0 "Tollhills"
+ TOL_ADJ:0 "Tollhill"
+ BLU:0 "Bluegrass"
+ BLU_ADJ:0 "Bluegrass"
+ BRI:0 "Brisnidi"
+ BRI_ADJ:0 "Brisnidisian"
+ BAR:0 "Barrie"
+ BAR_ADJ:0 "Barrie"
+ NEV:0 "Neverland"
+ NEV_ADJ:0 "Neverlander"
  
  MORPORKIA:0 "Ankh-Morpork Hegemony"
  DIET_OF_BUGS: "Diet of Bugs"
  LOW_KINGDOM: "Low Kingdom"
  KLATCHIAN_EMPIRE: "Klatchian Empire"
  
+ 
 
   # Dynamic countries
+  
+  dyn_c_haddock_creek_company: "Haddock Creek Trading Company"
+  dyn_c_haddock_creek_company_ADJ: "Haddock Creek Company"
 
  dyn_c_bengal_federation: "Federation of Bengal"

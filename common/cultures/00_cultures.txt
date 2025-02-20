@@ -4029,7 +4029,7 @@ nothing={
 low_dwarf={
 	color= rgb{ 248 165 255 }
 	religion = tak
-	traits = { dwarf_heritage }
+	traits = { dwarf_heritage uberwaldian }
 	
 	male_common_first_names={
 		Abraham Abel Arthur
@@ -4486,7 +4486,7 @@ krullian={
 vampire={
 	color= rgb{ 145 34 42 }
 	religion = disc_sycratism
-	traits = {  }
+	traits = { uberwaldian }
 	
 	male_common_first_names={
 		Abraham Abel Arthur
@@ -4577,7 +4577,7 @@ vampire={
 werewolf={
 	color= rgb{ 96 37 21 }
 	religion = disc_sycratism
-	traits = {  }
+	traits = { uberwaldian }
 	
 	male_common_first_names={
 		Abraham Abel Arthur
@@ -4670,7 +4670,7 @@ werewolf={
 uberwaldian={
 	color= rgb{ 74 76 75 }
 	religion = disc_sycratism
-	traits = { uberwalder_heritage }
+	traits = { uberwalder_heritage uberwaldian }
 	
 	male_common_first_names={
 		Abraham Abel Arthur
@@ -4761,7 +4761,7 @@ uberwaldian={
 vieuxish={
 	color= rgb{ 74 116 75 }
 	religion = disc_sycratism
-	traits = { uberwalder_heritage }
+	traits = { uberwalder_heritage uberwaldian }
 	
 	male_common_first_names={
 		Abraham Abel Arthur
@@ -4852,7 +4852,7 @@ vieuxish={
 troll={
 	color= rgb{ 204 150 132 }
 	religion = disc_sycratism
-	traits = {  }
+	traits = { uberwaldian }
 	
 	male_common_first_names={
 		Abraham Abel Arthur

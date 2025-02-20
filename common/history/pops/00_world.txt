@@ -60,7 +60,7 @@
 		region_state:KLA = {
 			create_pop = {
 				culture = klatchian
-				size = 10000
+				size = 311130
 			}
 
 		}
@@ -395,9 +395,9 @@
 		}
 	}
 	s:STATE_Mouppaiss = {
-		region_state: = {
+		region_state:NTH = {
 			create_pop = {
-				culture = biccuo
+				culture = nothing
 				size = 10000
 			}
 
@@ -1050,10 +1050,10 @@
 		}
 	}
 	s:STATE_Shirtang = {
-		region_state: = {
+		region_state:HCT = {
 			create_pop = {
 				culture = seestriord
-				size = 10000
+				size = 160000
 			}
 
 		}
@@ -3001,11 +3001,11 @@
 
 		}
 	}
-	s:STATE_Theuj = {
-		region_state: = {
+	s:STATE_Puimux = {
+		region_state:RAM = {
 			create_pop = {
-				culture = endonmu
-				size = 10000
+				culture = low_dwarf
+				size = 178000
 			}
 
 		}
@@ -3935,15 +3935,6 @@
 
 		}
 	}
-	s:STATE_Puimux = {
-		region_state: = {
-			create_pop = {
-				culture = endonmu
-				size = 10000
-			}
-
-		}
-	}
 	s:STATE_Koebwailt = {
 		region_state: = {
 			create_pop = {
@@ -4203,10 +4194,10 @@
 		}
 	}
 	s:STATE_Shucuthert = {
-		region_state: = {
+		region_state:RAM = {
 			create_pop = {
-				culture = endonmu
-				size = 10000
+				culture = low_dwarf
+				size = 97140
 			}
 
 		}
@@ -5306,24 +5297,6 @@
 			}
 		}
 	}
-	s:STATE_Strajostuland = {
-		region_state:KRL = {
-			create_pop = {
-				culture = krullian
-				size = 10000
-			}
-
-		}
-	}
-	s:STATE_Ossunze = {
-		region_state:KRL = {
-			create_pop = {
-				culture = krullian
-				size = 10000
-			}
-
-		}
-	}
 	s:STATE_Eppabwu = {
 		region_state:KRL = {
 			create_pop = {
@@ -5766,9 +5739,9 @@
 		}
 	}
 	s:STATE_Staom = {
-		region_state: = {
+		region_state:KRL = {
 			create_pop = {
-				culture = goudepp
+				culture = krullian
 				size = 10000
 			}
 

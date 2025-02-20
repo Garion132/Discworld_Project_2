@@ -211,6 +211,12 @@
  VOX_ADJ:0 "Voxbergstatian"
  LOK:0 "Loko"
  LOK_ADJ:0 "Lokoan"
+ RAM:0 "Rammerrock"
+ RAM_ADJ:0 "Rammerrockian"
+ HCT:0 "Haddock Creek"
+ HCT_ADJ:0 "Haddock Creek"
+ NTH:0 "New NoThing"
+ NTH_ADJ:0 "New NoThing"
  
  MORPORKIA:0 "Ankh-Morpork Hegemony"
  DIET_OF_BUGS: "Diet of Bugs"

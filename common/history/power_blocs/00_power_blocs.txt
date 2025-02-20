@@ -84,6 +84,7 @@
 			member = c:COP #
 			member = c:INA #
 			member = c:RDH #
+			member = c:RAM #
 			
 		}
 		power_bloc = {

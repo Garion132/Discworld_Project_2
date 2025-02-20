@@ -5,4 +5,10 @@
 			type = dominion
 		}
 	}
+	c:AMP ?= {
+		create_diplomatic_pact = {
+			country = c:HCT
+			type = chartered_company
+		}
+	}
 }

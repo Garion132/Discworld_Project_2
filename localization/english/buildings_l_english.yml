@@ -274,3 +274,10 @@
  # Halloween
  building_halloween_castledracula: "Castle Dracula" #IP2
  building_victoria_terminus: "Victoria Terminus"
+ 
+ building_circumfence: "Circumfence"
+ pm_default_building_circumfence: "Piled Fence"
+ pmg_base_building_circumfence: "Circumfence"
+ pmg_base_building_circumfence_fleet: "Service Fleet"
+ 
+ company_QT: "Quirm Trading Co."

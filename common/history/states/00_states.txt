@@ -1095,8 +1095,12 @@
 
 	s:STATE_Shirtang = {
 		create_state = {
+			country = c:HCT
+			owned_provinces = { "xD37F01" "xE48701" }
+		}
+		create_state = {
 			country = c:RUS
-			owned_provinces = { "xD37F01" "xCC7201" "xE48701"  }
+			owned_provinces = { "xCC7201" }
 		}
 		
 		add_homeland = cu:seestriord
@@ -2410,7 +2414,7 @@
 
 	s:STATE_Ceasoz = {
 		create_state = {
-			country = c:RUS
+			country = c:HCT
 			owned_provinces = { "xBA0901"  }
 		}
 		
@@ -3194,16 +3198,6 @@
 		}
 		
 		add_homeland = cu:chunist
-		
-	}
-
-	s:STATE_Theuj = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "xBD0A01"  }
-		}
-		
-		add_homeland = cu:endonmu
 		
 	}
 
@@ -4165,11 +4159,11 @@
 
 	s:STATE_Puimux = {
 		create_state = {
-			country = c:RUS
-			owned_provinces = { "x9CE501"  }
+			country = c:RAM
+			owned_provinces = { "x9CE501" "xBD0A01" }
 		}
 		
-		add_homeland = cu:endonmu
+		add_homeland = cu:low_dwarf
 		
 	}
 
@@ -4453,11 +4447,15 @@
 
 	s:STATE_Shucuthert = {
 		create_state = {
+			country = c:RAM
+			owned_provinces = { "x827B01" }
+		}
+		create_state = {
 			country = c:RUS
-			owned_provinces = { "x827B01" "x725A01"  }
+			owned_provinces = { "x725A01"  }
 		}
 		
-		add_homeland = cu:endonmu
+		add_homeland = cu:low_dwarf
 		
 	}
 
@@ -5622,30 +5620,10 @@
 		
 	}
 
-	s:STATE_Strajostuland = {
-		create_state = {
-			country = c:KRL
-			owned_provinces = { "x36D701"  }
-		}
-		
-		add_homeland = cu:krullian
-		
-	}
-
-	s:STATE_Ossunze = {
-		create_state = {
-			country = c:KRL
-			owned_provinces = { "xA07A01"  }
-		}
-		
-		add_homeland = cu:krullian
-		
-	}
-
 	s:STATE_Eppabwu = {
 		create_state = {
 			country = c:KRL
-			owned_provinces = { "x705201" "x62AC01" }
+			owned_provinces = { "x705201" "x62AC01" "xA07A01" }
 		}
 		
 		add_homeland = cu:krullian
@@ -5655,7 +5633,7 @@
 	s:STATE_Futhirii = {
 		create_state = {
 			country = c:KRL
-			owned_provinces = { "x558301"  }
+			owned_provinces = { "x558301" "x36D701" }
 		}
 		
 		add_homeland = cu:krullian

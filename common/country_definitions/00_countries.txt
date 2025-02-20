@@ -20,6 +20,16 @@ AMP = {
 	cultures = { morporkian }
 	capital = STATE_Ankh
 }
+HCT = {
+	color = { 61 65 130 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { morporkian }
+	capital = STATE_Shirtang
+}
 QRM = {
 	color = { 19 44 153 }
 
@@ -682,6 +692,16 @@ ROS = {
 	cultures = { nothing }
 	capital = STATE_Aqueng
 }
+NTH = {
+	color = { 207 196 255 }
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { nothing }
+	capital = STATE_Mouppaiss
+}
 BLG = {
 	color = { 74 58 196 }
 
@@ -851,6 +871,16 @@ RDH = {
 	
 	cultures = { low_dwarf }
 	capital = STATE_Daibweort
+}
+RAM = {
+	color = { 221 153 14}
+
+	country_type = recognized
+
+	tier = principality
+	
+	cultures = { low_dwarf }
+	capital = STATE_Puimux
 }
 INA = {
 	color = { 132 255 175}

@@ -1483,16 +1483,6 @@
 		
 	}
 
-	s:STATE_Miedoz = {
-		create_state = {
-			country = c:BOR
-			owned_provinces = { "x316F01"  }
-		}
-		
-		add_homeland = cu:borogravian
-		
-	}
-
 	s:STATE_Moakax = {
 		create_state = {
 			country = c:NEV
@@ -2447,7 +2437,7 @@
 	s:STATE_Neoc = {
 		create_state = {
 			country = c:BOR
-			owned_provinces = { "x287101"  }
+			owned_provinces = { "x287101" "x316F01" "xFB4101" "xD56101" }
 		}
 		
 		add_homeland = cu:borogravian
@@ -4104,16 +4094,6 @@
 		}
 		
 		add_homeland = cu:dethikou
-		
-	}
-
-	s:STATE_Justrae = {
-		create_state = {
-			country = c:BOR
-			owned_provinces = { "xFB4101" "xD56101"  }
-		}
-		
-		add_homeland = cu:borogravian
 		
 	}
 

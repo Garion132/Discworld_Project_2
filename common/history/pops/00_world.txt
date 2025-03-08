@@ -246,8 +246,8 @@
 	s:STATE_Sartia = {
 		region_state:VEL = {
 			create_pop = {
-				culture = quuchtond
-				size = vieuxish
+				culture = vieuxish
+				size = 10000
 			}
 
 		}
@@ -1429,13 +1429,25 @@
 		region_state:TRL = {
 			create_pop = {
 				culture = uberwaldian
-				size = 10000
+				size = 811023
 			}
 		}
 		region_state:KNC = {
 			create_pop = {
 				culture = uberwaldian
-				size = 10000
+				size = 186018
+			}
+		}
+		region_state:GNT = {
+			create_pop = {
+				culture = troll
+				size = 221708
+			}
+		}
+		region_state:SHL = {
+			create_pop = {
+				culture = troll
+				size = 160046
 			}
 		}
 	}
@@ -1552,18 +1564,18 @@
 		}
 	}
 	s:STATE_Phisrult = {
-		region_state: = {
+		region_state:BLU = {
 			create_pop = {
-				culture = uningo
-				size = 10000
+				culture = octarine
+				size = 281048
 			}
 
 		}
 	}
 	s:STATE_Stooj = {
-		region_state: = {
+		region_state:NTF = {
 			create_pop = {
-				culture = fathoduu
+				culture = nothing
 				size = 10000
 			}
 
@@ -2244,10 +2256,10 @@
 		}
 	}
 	s:STATE_Trardiss = {
-		region_state: = {
+		region_state:BAS = {
 			create_pop = {
-				culture = paitiq
-				size = 10000
+				culture = troll
+				size = 162024
 			}
 
 		}
@@ -2710,12 +2722,11 @@
 		}
 	}
 	s:STATE_Hethafou = {
-		region_state: = {
+		region_state:SLT = {
 			create_pop = {
-				culture = toujez
-				size = 10000
+				culture = troll
+				size = 112531
 			}
-
 		}
 	}
 	s:STATE_Ishipp = {
@@ -3271,10 +3282,10 @@
 		}
 	}
 	s:STATE_Hoijard = {
-		region_state: = {
+		region_state:TOL = {
 			create_pop = {
-				culture = uningo
-				size = 10000
+				culture = octarine
+				size = 380679
 			}
 
 		}
@@ -3564,10 +3575,10 @@
 		}
 	}
 	s:STATE_Huuqueapp = {
-		region_state: = {
+		region_state:TRW = {
 			create_pop = {
-				culture = theujthoih
-				size = 1207350
+				culture = octarine
+				size = 116760
 			}
 
 		}
@@ -4530,9 +4541,9 @@
 		}
 	}
 	s:STATE_Cathemeu = {
-		region_state: = {
+		region_state:NTF = {
 			create_pop = {
-				culture = fathoduu
+				culture = nothing
 				size = 1159643
 			}
 
@@ -7586,10 +7597,10 @@
 		}
 	}
 	s:STATE_Aqueng = {
-		region_state: = {
+		region_state:ROS = {
 			create_pop = {
-				culture = pauquaeng
-				size = 10000
+				culture = nothing
+				size = 25499
 			}
 
 		}
@@ -7847,10 +7858,10 @@
 		}
 	}
 	s:STATE_Taat = {
-		region_state: = {
+		region_state:SCT = {
 			create_pop = {
-				culture = pauquaeng
-				size = 10000
+				culture = nothing
+				size = 4387
 			}
 
 		}
@@ -7883,10 +7894,10 @@
 		}
 	}
 	s:STATE_Fienuz = {
-		region_state: = {
+		region_state:SCT = {
 			create_pop = {
-				culture = pauquaeng
-				size = 10000
+				culture = nothing
+				size = 1781
 			}
 
 		}

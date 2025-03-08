@@ -3924,7 +3924,6 @@
 				reserves=1
 				activate_production_methods={ "pm_simple_farming" }
 			}
-
 		}
 	}
 	s:STATE_Fastotei={
@@ -4185,7 +4184,7 @@
 					building={
 						type="building_financial_district"
 						country="c:BYK"
-						levels=3
+						levels=1
 						region="STATE_Phitath"
 					}
 				}
@@ -4198,7 +4197,7 @@
 					building={
 						type="building_financial_district"
 						country="c:BYK"
-						levels=2
+						levels=1
 						region="STATE_Phitath"
 					}
 				}
@@ -4227,15 +4226,21 @@
 						levels=1
 						region="STATE_Phitath"
 					}
-					building={
-						type="building_textile_mills"
-						country="c:BYK"
-						levels=2
-						region="STATE_Phitath"
-					}
 				}
 				reserves=1
 				activate_production_methods={ "pm_craftsman_sewing" }
+			}
+			create_building={
+				building="building_livestock_ranch"
+				level=13
+				reserves=1
+				activate_production_methods={ "pm_open_air_stockyards" }
+			}
+			create_building={
+				building="building_rye_farm"
+				level=16
+				reserves=1
+				activate_production_methods={ "pm_simple_farming" }
 			}
 		}
 	}

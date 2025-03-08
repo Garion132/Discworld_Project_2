@@ -15,25 +15,31 @@
 		}
 		create_trade_route = {
 			goods = coal
-			level = 1
-			direction = import
-			target = c:LWD.market
-		}
-		create_trade_route = {
-			goods = iron
 			level = 2
 			direction = import
 			target = c:LWD.market
 		}
 		create_trade_route = {
+			goods = iron
+			level = 4
+			direction = import
+			target = c:LWD.market
+		}
+		create_trade_route = {
 			goods = fats
+			level = 5
+			direction = import
+			target = c:LWD.market
+		}
+		create_trade_route = {
+			goods = sugar
 			level = 3
 			direction = import
 			target = c:LWD.market
-		}		
+		}	
 		create_trade_route = {
 			goods = tobacco
-			level = 4
+			level = 5
 			direction = import
 			target = c:KLA.market
 		}	
@@ -42,7 +48,13 @@
 			level = 1
 			direction = import
 			target = c:PSE.market
-		}		
+		}	
+		create_trade_route = {
+			goods = dye
+			level = 1
+			direction = import
+			target = c:URT.market
+		}			
 	}
 
 }

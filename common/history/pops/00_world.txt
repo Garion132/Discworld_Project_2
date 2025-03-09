@@ -184,7 +184,7 @@
 		region_state:OMN = {
 			create_pop = {
 				culture = omnian
-				size = 998000
+				size = 1998000
 			}
 
 		}
@@ -1613,10 +1613,10 @@
 		}
 	}
 	s:STATE_Meer = {
-		region_state: = {
+		region_state:HRS = {
 			create_pop = {
 				culture = pheltend
-				size = 10000
+				size = 532340
 			}
 
 		}
@@ -2534,7 +2534,7 @@
 		region_state:MUS = {
 			create_pop = {
 				culture = uberwaldian
-				size = 10000
+				size = 236300
 			}
 
 		}
@@ -3258,7 +3258,7 @@
 		region_state:CHR = {
 			create_pop = {
 				culture = sto_plainer
-				size = 50000
+				size = 306700
 			}
 
 		}
@@ -4631,14 +4631,10 @@
 		}
 	}
 	s:STATE_Giom = {
-		region_state: = {
+		region_state:HRS = {
 			create_pop = {
-				culture = stoib
-				size = 10000
-			}
-			create_pop = {
-				culture = suolux
-				size = 10000
+				culture = hersheban
+				size = 460530
 			}
 
 		}
@@ -5813,10 +5809,17 @@
 		}
 	}
 	s:STATE_Odunme = {
-		region_state: = {
+		region_state:PRL = {
 			create_pop = {
-				culture = riuhand
+				culture = pearl_islander
 				size = 10000
+			}
+
+		}
+		region_state:NPK = {
+			create_pop = {
+				culture = pearl_islander
+				size = 1268
 			}
 
 		}
@@ -5858,9 +5861,9 @@
 		}
 	}
 	s:STATE_Stuel = {
-		region_state: = {
+		region_state:PRL = {
 			create_pop = {
-				culture = riuhand
+				culture = pearl_islander
 				size = 312773
 			}
 
@@ -5894,18 +5897,9 @@
 		}
 	}
 	s:STATE_Neih = {
-		region_state: = {
+		region_state:PRL = {
 			create_pop = {
-				culture = riuhand
-				size = 10000
-			}
-
-		}
-	}
-	s:STATE_Stremustond = {
-		region_state: = {
-			create_pop = {
-				culture = riuhand
+				culture = pearl_islander
 				size = 22618
 			}
 

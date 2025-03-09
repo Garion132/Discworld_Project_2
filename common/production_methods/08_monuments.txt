@@ -24,6 +24,29 @@ pm_default_building_forbidden_city = {
 		}
 	}
 }
+pm_default_building_kom_citadel = {
+	texture = "gfx/interface/icons/production_method_icons/wonders.dds"
+
+	is_hidden_when_unavailable = yes
+
+	country_modifiers = {
+		workforce_scaled = {
+			interest_group_ig_devout_pol_str_mult = 0.25
+			country_influence_add = 100
+			country_authority_add = 100
+			country_prestige_add = 15
+		}
+	}
+
+	building_modifiers = {
+		#workforce_scaled = {
+		#}
+
+		level_scaled = {
+			building_employment_clergymen_add = 500
+		}
+	}
+}
 pm_default_building_circumfence = {
 	texture = "gfx/interface/icons/production_method_icons/wonders.dds"
 

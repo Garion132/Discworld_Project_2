@@ -16,6 +16,17 @@ pmg_base_building_circumfence = {
 		pm_monument_no_effects
 	}
 }
+pmg_base_building_kom_citadel = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	ai_selection = most_productive
+	is_hidden_when_unavailable = yes
+
+	production_methods = {
+		pm_default_building_kom_citadel
+		pm_monument_prestige_only
+		pm_monument_no_effects
+	}
+}
 pmg_base_building_circumfence_fleet = {
 	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
 	ai_selection = most_productive

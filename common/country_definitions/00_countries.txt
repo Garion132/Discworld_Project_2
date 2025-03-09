@@ -65,7 +65,7 @@ STH = {
 
 	country_type = recognized
 
-	tier = principality
+	tier = city_state
 	
 	cultures = { sto_plainer }
 	capital = STATE_Lower_Sto_Plains
@@ -75,7 +75,7 @@ STK = {
 
 	country_type = recognized
 
-	tier = principality
+	tier = city_state
 	
 	cultures = { sto_plainer }
 	capital = STATE_Lower_Sto_Plains
@@ -85,7 +85,7 @@ STQ = {
 
 	country_type = recognized
 
-	tier = principality
+	tier = city_state
 	
 	cultures = { sto_plainer }
 	capital = STATE_Lower_Sto_Plains
@@ -95,7 +95,7 @@ STM = {
 
 	country_type = recognized
 
-	tier = principality
+	tier = city_state
 	
 	cultures = { sto_plainer }
 	capital = STATE_Lower_Sto_Plains
@@ -105,7 +105,7 @@ STN = {
 
 	country_type = recognized
 
-	tier = principality
+	tier = city_state
 	
 	cultures = { sto_plainer }
 	capital = STATE_Lower_Sto_Plains
@@ -115,7 +115,7 @@ CHR = {
 
 	country_type = recognized
 
-	tier = principality
+	tier = city_state
 	
 	cultures = { sto_plainer }
 	capital = STATE_Chirm
@@ -1161,4 +1161,24 @@ NEV = {
 	
 	cultures = { neverlander }
 	capital = STATE_Perdea
+}
+NPK = {
+	color = { 157 74 196 }
+
+	country_type = unrecognized
+
+	tier = city_state
+	
+	cultures = { morporkian pearl_islander }
+	capital = STATE_Odunme
+}
+PRL = {
+	color = { 206 156 187 }
+
+	country_type = decentralized
+
+	tier = principality
+	
+	cultures = { pearl_islander }
+	capital = STATE_Stuel
 }

@@ -73,3 +73,20 @@ AMP = { # Ankh-Morpork
 		priority = 1
 	}
 }
+NPK = { # Newpork
+	flag_definition = {
+		coa = NPK
+		subject_canton = NPK
+		coa_with_overlord_canton = NPK_subject_AMP
+		allow_overlord_canton = yes
+		priority = 1
+	}
+	flag_definition = {
+		coa = NPK_subject_AMP
+		allow_overlord_canton = yes		
+		priority = 50
+		trigger = { 
+			coa_def_british_ensign_trigger = yes
+		}
+	}
+}

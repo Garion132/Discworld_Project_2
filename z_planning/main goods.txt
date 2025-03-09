@@ -46,7 +46,7 @@ Elharib: goats, camels
 ephebe: figs, olives, wine
 	wealth voting
 Klatchistan(both): carpets, clothing
-hersheba: fish, dates, ships supplies, ship building, 
+hersheba: fish, dates, ships supplies, ship building,
 Omnia: paper
 Betrek: nothing
 Istanzia: clay and timber (mostly drained by omnia)
@@ -72,3 +72,8 @@ nafooi: pigs
 betrobi: hardwood, fruit
 XXXX(fourecks): wool, sheep, opals, bananas, beer
 land of fog: sheep
+
+new goods:
+	gems/pearls
+	silver
+	Jewelry

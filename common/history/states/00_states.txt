@@ -5678,16 +5678,6 @@
 		
 	}
 
-	s:STATE_Randao = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "x7D9B01"  }
-		}
-		
-		add_homeland = cu:pheltend
-		
-	}
-
 	s:STATE_Maecestan = {
 		create_state = {
 			country = c:RUS
@@ -5697,27 +5687,7 @@
 		add_homeland = cu:hestejio
 		
 	}
-
-	s:STATE_Irdecce = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "x463301"  }
-		}
-		
-		add_homeland = cu:pheltend
-		
-	}
-
-	s:STATE_Fichtai = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "xEC3101"  }
-		}
-		
-		add_homeland = cu:pheltend
-		
-	}
-
+	
 	s:STATE_Philast = {
 		create_state = {
 			country = c:RUS
@@ -5727,17 +5697,7 @@
 		add_homeland = cu:gauc
 		
 	}
-
-	s:STATE_Uchtert = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "xE67B01"  }
-		}
-		
-		add_homeland = cu:riuhand
-		
-	}
-
+	
 	s:STATE_Egucce = {
 		create_state = {
 			country = c:EPH
@@ -5766,16 +5726,6 @@
 		
 	}
 
-	s:STATE_Lothutii = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "x8A4F01"  }
-		}
-		
-		add_homeland = cu:riuhand
-		
-	}
-
 	s:STATE_Otrapp = {
 		create_state = {
 			country = c:EPH
@@ -5788,110 +5738,34 @@
 
 	s:STATE_Odunme = {
 		create_state = {
-			country = c:RUS
-			owned_provinces = { "xEE7001"  }
+			country = c:PRL
+			owned_provinces = { "xEE7001" "x8A4F01" "xE67B01"  "x463301" "x7D9B01" "x9BB801" }
 		}
-		
-		add_homeland = cu:riuhand
-		
-	}
-
-	s:STATE_Guechtoind = {
 		create_state = {
-			country = c:RUS
-			owned_provinces = { "x9BB801"  }
+			country = c:NPK
+			owned_provinces = { "xEC3101" }
 		}
 		
-		add_homeland = cu:riuhand
+		add_homeland = cu:pearl_islander
 		
 	}
 	s:STATE_Stuel = {
 		create_state = {
-			country = c:RUS
-			owned_provinces = { "x0A8C01"  }
+			country = c:PRL
+			owned_provinces = { "x0A8C01" "x6E6E01" }
 		}
 		
-		add_homeland = cu:riuhand
-		
-	}
-
-	s:STATE_Strimbipp = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "x6E6E01"  }
-		}
-		
-		add_homeland = cu:riuhand
+		add_homeland = cu:pearl_islander
 		
 	}
 
 	s:STATE_Neih = {
 		create_state = {
-			country = c:RUS
-			owned_provinces = { "x231C01"  }
+			country = c:PRL
+			owned_provinces = { "x231C01" "x863C01" "x517401" "xDDE401" "xA92301" "xC78101" "xA9C501" }
 		}
 		
-		add_homeland = cu:riuhand
-		
-	}
-
-	s:STATE_Stremustond = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "x863C01"  }
-		}
-		
-		add_homeland = cu:riuhand
-		
-	}
-
-	s:STATE_Foeshaong = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "x517401"  }
-		}
-		
-		add_homeland = cu:riuhand
-		
-	}
-
-	s:STATE_Phojoth = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "xDDE401"  }
-		}
-		
-		add_homeland = cu:riuhand
-		
-	}
-
-	s:STATE_Tuugostan = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "xA92301"  }
-		}
-		
-		add_homeland = cu:riuhand
-		
-	}
-
-	s:STATE_Costuhiu = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "xC78101"  }
-		}
-		
-		add_homeland = cu:riuhand
-		
-	}
-
-	s:STATE_Strajoth = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "xA9C501"  }
-		}
-		
-		add_homeland = cu:riuhand
+		add_homeland = cu:pearl_islander
 		
 	}
 
@@ -5958,7 +5832,7 @@
 	s:STATE_Strinothapp = {
 		create_state = {
 			country = c:RUS
-			owned_provinces = { "xB88A01"  }
+			owned_provinces = { "xB88A01" "x3C2E01" }
 		}
 		
 		add_homeland = cu:phushend
@@ -6005,16 +5879,6 @@
 		
 	}
 
-	s:STATE_Coumbuipp = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "x3C2E01"  }
-		}
-		
-		add_homeland = cu:phittond
-		
-	}
-
 	s:STATE_Trobwerd = {
 		create_state = {
 			country = c:RUS
@@ -6028,37 +5892,7 @@
 	s:STATE_Ocasru = {
 		create_state = {
 			country = c:RUS
-			owned_provinces = { "xA1CC01"  }
-		}
-		
-		add_homeland = cu:ugicho
-		
-	}
-
-	s:STATE_Rathocou = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "x7DB101"  }
-		}
-		
-		add_homeland = cu:phittond
-		
-	}
-
-	s:STATE_Mappeu = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "x5DC001"  }
-		}
-		
-		add_homeland = cu:phittond
-		
-	}
-
-	s:STATE_Sethunii = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "x564B01"  }
+			owned_provinces = { "xA1CC01" "x5DC001" "x5FC901" "x602E01" "xB0D701" "x7DB101" "x564B01"}
 		}
 		
 		add_homeland = cu:ugicho
@@ -6074,37 +5908,6 @@
 		add_homeland = cu:ugicho
 		
 	}
-
-	s:STATE_Erbenme = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "x5FC901"  }
-		}
-		
-		add_homeland = cu:phittond
-		
-	}
-
-	s:STATE_Echuppi = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "xB0D701"  }
-		}
-		
-		add_homeland = cu:phittond
-		
-	}
-
-	s:STATE_Roipez = {
-		create_state = {
-			country = c:RUS
-			owned_provinces = { "x602E01"  }
-		}
-		
-		add_homeland = cu:phittond
-		
-	}
-
 	s:STATE_Nuurduurd = {
 		create_state = {
 			country = c:RUS

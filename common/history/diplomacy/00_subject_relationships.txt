@@ -10,5 +10,9 @@
 			country = c:HCT
 			type = chartered_company
 		}
+		create_diplomatic_pact = {
+			country = c:NPK
+			type = protectorate
+		}
 	}
 }

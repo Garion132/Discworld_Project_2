@@ -232,6 +232,11 @@
  NEV:0 "Neverland"
  NEV_ADJ:0 "Neverlander"
  
+ NPK:0 "Newpork"
+ NPK_ADJ:0 "Newporkian"
+ PRL:0 "Pearl Islands"
+ PRL_ADJ:0 "Pearl Islander"
+ 
  MORPORKIA:0 "Ankh-Morpork Hegemony"
  DIET_OF_BUGS: "Diet of Bugs"
  LOW_KINGDOM: "Low Kingdom"
